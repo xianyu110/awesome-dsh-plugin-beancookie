@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**402** 个插件 · 欢迎 [PR](#贡献)
+**403** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -215,6 +215,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [cendaifeng/dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) — 费曼学习法教学闭环，渲染为富 HTML 教学卡片。
 - [chushixixin/dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) — MCP server 让任意 MCP 客户端驱动 Harness agent。
 - [ciceroyang/dsh-report-studio](https://github.com/ciceroyang/dsh-report-studio) — 把 DSH 会话一键变成日报/周报/交接文档/文章，附可验证凭据。
+- [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) — 在 DeepSeek Harness 中创建、编辑、检查和交付表格、文档、演示文稿、多维表格和画布，支持实时预览与 worktree 审阅。
 - [browser4-dsh](https://github.com/dsh-external/browser4-dsh) — Browser4 AI-native 浏览器引擎（skills）。
 - [dsh-browser-panel](https://github.com/dsh-external/dsh-browser-panel) — WebUI 内嵌有头浏览器，模型实时操控、0 视觉依赖。
 - [dsh-office](https://github.com/dsh-external/dsh-office) — 模型读写 Office 文件，web 客户端 docx/pdf 预览。
