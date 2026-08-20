@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-19",
- "count": 403,
+ "updated": "2026-08-20",
+ "count": 408,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -620,6 +620,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-spend",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-plugin-hub",
+   "owner": "Noob-stupid",
+   "url": "https://github.com/Noob-stupid/dsh-plugin-hub",
+   "category": "ui",
+   "description": {
+    "zh": "DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。",
+    "en": "DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation."
+   },
+   "npm": null,
+   "stars": 62,
+   "createdAt": "2026-08-14",
+   "install": "dsh plugin --profile web add github:Noob-stupid/dsh-plugin-hub",
+   "added": "2026-08-20"
   },
   {
    "name": "dsh-annotation",
@@ -2842,6 +2857,21 @@
    "added": "2026-08-17"
   },
   {
+   "name": "dsh-condense",
+   "owner": "JxaMe",
+   "url": "https://github.com/JxaMe/dsh-condense",
+   "category": "tools",
+   "description": {
+    "zh": "token 优化插件：屏蔽低信号读取、压缩大输出、哈希去重、smart_read 骨架化（tree-sitter）、BM25 检索，真实用量统计 + 持久化；入历史前削减，不破坏缓存命中。",
+    "en": "Token optimizer for DSH: blocks low-signal reads, compresses oversized outputs, hash-dedupes repeated calls, smart_read skeletonization (tree-sitter), BM25 retrieval; real usage metering + persistence. Pre-history pruning keeps prompt-cache hits."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-19",
+   "install": "dsh plugin --profile web add github:JxaMe/dsh-condense",
+   "added": "2026-08-20"
+  },
+  {
    "name": "dsh-mobile-gui-agent",
    "owner": "kunjinkao-os",
    "url": "https://github.com/kunjinkao-os/dsh-mobile-gui-agent",
@@ -3965,6 +3995,21 @@
    "createdAt": "2026-07-17",
    "install": "dsh plugin --profile web add github:leechen298/Code2Skill",
    "added": "2026-08-14"
+  },
+  {
+   "name": "sandbase-skills",
+   "owner": "sandbaseai",
+   "url": "https://github.com/sandbaseai/sandbase-skills",
+   "category": "skill",
+   "description": {
+    "zh": "88 个面向研究、社交情报、营销与商业工作流的 Agent Skills，通过原生 DSH bundle 挂载技能目录，也可按项目单独安装 multi-source-search。",
+    "en": "88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search."
+   },
+   "npm": null,
+   "stars": 21,
+   "createdAt": "2026-07-29",
+   "install": "dsh plugin --profile web add github:sandbaseai/sandbase-skills",
+   "added": "2026-08-19"
   },
   {
    "name": "dsh-skill-manager",
@@ -5137,6 +5182,21 @@
    "added": "2026-08-14"
   },
   {
+   "name": "dsh-harness-ops",
+   "owner": "fakechris",
+   "url": "https://github.com/fakechris/dsh-harness-ops",
+   "category": "dev",
+   "description": {
+    "zh": "DSH 自愈运维工具箱：官方每日快照 A/B 双槽轮换（验收通过才原子切换、一键回滚）、10s 守护自动拉起 web 并续接被打断的回合、web/agent 全挂时终端 dsh-doctor 一键诊断修复拉起。",
+    "en": "Self-healing DSH ops toolbox: official daily-snapshot A/B slot rotation (acceptance-gated atomic switch, one-click rollback), a 10s watchdog that auto-relaunches the web and resumes interrupted turns, and an out-of-band dsh-doctor (diagnosis → repair → relaunch) when web and agent are both down."
+   },
+   "npm": null,
+   "stars": 11,
+   "createdAt": "2026-08-11",
+   "install": "dsh plugin --profile web add github:fakechris/dsh-harness-ops",
+   "added": "2026-08-19"
+  },
+  {
    "name": "dsh-desktop",
    "owner": "foolgry",
    "url": "https://github.com/foolgry/dsh-desktop",
@@ -5555,6 +5615,21 @@
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:ruimin251204/dsh-plugin-surgery",
    "added": "2026-08-16"
+  },
+  {
+   "name": "dsh-plugin-store",
+   "owner": "sandbaseai",
+   "url": "https://github.com/sandbaseai/dsh-plugin-store",
+   "category": "dev",
+   "description": {
+    "zh": "DSH 设置页原生插件市场，支持社区目录搜索、标签筛选、插件安装和已安装包查看。",
+    "en": "Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add github:sandbaseai/dsh-plugin-store",
+   "added": "2026-08-20"
   },
   {
    "name": "dsh-passwords",

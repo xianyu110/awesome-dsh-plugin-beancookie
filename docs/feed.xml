@@ -4,7 +4,28 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-19T00:00:00Z</updated>
+  <updated>2026-08-20T00:00:00Z</updated>
+  <entry>
+    <title>dsh-plugin-hub</title>
+    <id>https://github.com/Noob-stupid/dsh-plugin-hub</id>
+    <link href="https://github.com/Noob-stupid/dsh-plugin-hub"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。</summary>
+  </entry>
+  <entry>
+    <title>JxaMe/dsh-condense</title>
+    <id>https://github.com/JxaMe/dsh-condense</id>
+    <link href="https://github.com/JxaMe/dsh-condense"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>token 优化插件：屏蔽低信号读取、压缩大输出、哈希去重、smart_read 骨架化（tree-sitter）、BM25 检索，真实用量统计 + 持久化；入历史前削减，不破坏缓存命中。</summary>
+  </entry>
+  <entry>
+    <title>sandbaseai/dsh-plugin-store</title>
+    <id>https://github.com/sandbaseai/dsh-plugin-store</id>
+    <link href="https://github.com/sandbaseai/dsh-plugin-store"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>DSH 设置页原生插件市场，支持社区目录搜索、标签筛选、插件安装和已安装包查看。</summary>
+  </entry>
   <entry>
     <title>PerryLink/dsh-composer-history</title>
     <id>https://github.com/PerryLink/dsh-composer-history</id>
@@ -160,6 +181,13 @@
     <summary>安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。</summary>
   </entry>
   <entry>
+    <title>sandbaseai/sandbase-skills</title>
+    <id>https://github.com/sandbaseai/sandbase-skills</id>
+    <link href="https://github.com/sandbaseai/sandbase-skills"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <summary>88 个面向研究、社交情报、营销与商业工作流的 Agent Skills，通过原生 DSH bundle 挂载技能目录，也可按项目单独安装 multi-source-search。</summary>
+  </entry>
+  <entry>
     <title>huchunlinnk/deepseek-desk-rsi</title>
     <id>https://github.com/huchunlinnk/deepseek-desk-rsi</id>
     <link href="https://github.com/huchunlinnk/deepseek-desk-rsi"/>
@@ -186,33 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-translate"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>跨 11 家厂商的参数翻译（temperature/top_p 等）+ 确定性 JSON 修复，绝不编造数据。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-fast</title>
-    <id>https://github.com/PerryLink/dsh-fast</id>
-    <link href="https://github.com/PerryLink/dsh-fast"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>只读性能诊断：会话加载耗时、spill 命中、压缩统计、上下文注入量、LLM 缓存命中率，/fast + fast_report。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-lsp-actions</title>
-    <id>https://github.com/PerryLink/dsh-lsp-actions</id>
-    <link href="https://github.com/PerryLink/dsh-lsp-actions"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>LSP 动作面：诊断/格式化/补全/代码动作/符号/签名提示/inlay 提示/重命名，由真实语言服务器驱动。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-observe</title>
-    <id>https://github.com/PerryLink/dsh-observe</id>
-    <link href="https://github.com/PerryLink/dsh-observe"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>OpenTelemetry 与 Langfuse 可观测性导出：turn/step/tool/LLM span 与 token/成本指标，脱敏采集 + 离线缓冲重试。</summary>
-  </entry>
-  <entry>
-    <title>SunQingyuan0/Kabutack</title>
-    <id>https://github.com/SunQingyuan0/Kabutack</id>
-    <link href="https://github.com/SunQingyuan0/Kabutack"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>基于角色的 DSH 插件 / Skill / MCP 管理器：把能力组合定义为“角色”，在 Web 设置页一键动态装载与切换。</summary>
   </entry>
 </feed>

@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**403** plugins · [PRs welcome](#contributing)
+**408** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -94,6 +94,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [dsh-plugin-description](https://github.com/MysaDC/dsh-plugin-description) - Bilingual descriptions on every plugin card in the Web Settings plugin list.
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - In-conversation generative UI: the model renders interactive HTML cards into the chat stream, with streaming preview and sandboxed rendering.
 - [nonewind/dsh-spend](https://github.com/nonewind/dsh-spend) - Token usage and estimated spend for the dsh web UI: floating panel with per-model, per-day, and per-session stats.
+- [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) - DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation.
 - [omdsh-dev/dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) - Select text → annotate → send with your message; replies map back to each annotation.
 - [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) - Codex-style `@file` mentions: search workspace files in the composer and attach their contents to prompts.
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - Full sidebar workbench with file rendering and editing, terminal, Git, and subagents; third-party plugins can register new tabs.
@@ -250,6 +251,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [snippet-expander](https://github.com/JohnXu22786/snippet-expander) - Steno: inline #tag shorthand expansion before send — multi-library, aliases, {{variables}}, recursion guards.
 - [statusline](https://github.com/JohnXu22786/statusline) - Real-time terminal statusline: model, context usage, sub-agents, rate limits and session time in one line.
 - [worktree-mgr](https://github.com/JohnXu22786/worktree-mgr) - Task-isolated git worktrees: auto-create, sync and tear down isolated workspaces per task.
+- [JxaMe/dsh-condense](https://github.com/JxaMe/dsh-condense) - Token optimizer for DSH: blocks low-signal reads, compresses oversized outputs, hash-dedupes repeated calls, smart_read skeletonization (tree-sitter), BM25 retrieval; real usage metering + persistence. Pre-history pruning keeps prompt-cache hits.
 - [kunjinkao-os/dsh-mobile-gui-agent](https://github.com/kunjinkao-os/dsh-mobile-gui-agent) - Android GUI Agent with ADB screenshots, compact UI hierarchy grounding, verified iterative actions, approvals, and a Mobile Web view.
 - [lak321/dsh-screen-agent](https://github.com/lak321/dsh-screen-agent) - Desktop and web automation: 📸 multi-screen screenshots, 🔍 Windows OCR (text + pixel coordinates), 🖱️ mouse click/drag, ⌨️ Chinese typing/keys, and 🪟 window activation, with battle-tested drawing in Paint (mouse acceleration compensation, canvas positioning, Bézier curves).
 - [lak321/dsh-voice-chat](https://github.com/lak321/dsh-voice-chat) - Voice chat: 🎤 speech input (Web Speech, live editable interim results) plus 🔊 automatic/manual read-aloud replies (TTS), with voice, speed, pitch and recognition-language settings (Mandarin/Cantonese, etc.); fully client-side with zero keys, and Markdown is stripped before reading.
@@ -327,6 +329,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [skill-manager](https://github.com/JohnXu22786/skill-manager) - Multi-zone skill discovery, progressive disclosure, creation wizard, audit and statistics.
 - [spec-driven](https://github.com/JohnXu22786/spec-driven) - keel (龙骨): spec-driven development discipline skill pack — spec first, verify assumptions, prevent over-engineering.
 - [leechen298/Code2Skill](https://github.com/leechen298/Code2Skill) - Generates Function, MCP, Agent Skill, and offline test packages from existing code as an installable DSH bundle.
+- [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search.
 - [yanglaofish/dsh-skill-manager](https://github.com/yanglaofish/dsh-skill-manager) - Skill lifecycle manager for DSH: list / edit / import / enable / disable skills under a global-workspace-session three-layer model, with unified settings & conversation UI, cross-layer search and pagination.
 
 ### Workflow & Automation
@@ -413,6 +416,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [disyli/dsh-tool-call-stats](https://github.com/disyli/dsh-tool-call-stats) - Per-process tool-call statistics: a `tool_stats` tool reporting per-tool call counts, error counts, and average durations.
 - [dsh4vscode](https://github.com/DoggyHU/dsh4vscode) - VS Code chat windows backed by the DSH agent with model auto-routing.
 - [EvilIrving/dsh-repro](https://github.com/EvilIrving/dsh-repro) - /repro exports a minimal, secret-scrubbed, replayable problem bundle: the session log, failed commands, and Git diff.
+- [fakechris/dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) - Self-healing DSH ops toolbox: official daily-snapshot A/B slot rotation (acceptance-gated atomic switch, one-click rollback), a 10s watchdog that auto-relaunches the web and resumes interrupted turns, and an out-of-band dsh-doctor (diagnosis → repair → relaunch) when web and agent are both down.
 - [dsh-desktop](https://github.com/foolgry/dsh-desktop) - Download-and-run Electron desktop build that tracks upstream releases automatically.
 - [forrestchang/dsh-multica-runtime](https://github.com/forrestchang/dsh-multica-runtime) - Run the dsh runtime on Multica.
 - [dsh-session-cleaner](https://github.com/fountunt/dsh-session-cleaner) - Delete sessions from a running web runtime without a restart.
@@ -441,6 +445,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [omdsh-dev/sandbox-nono](https://github.com/omdsh-dev/sandbox-nono) - Support for the nono sandbox backend.
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) - Read-only runtime management panel for the official DSH MCP client: connection status, registered tools, errors, and reconnect counts through the /mcp command and a Settings tab, with sanitized display and enable/disable patch suggestions.
 - [ruimin251204/dsh-plugin-surgery](https://github.com/ruimin251204/dsh-plugin-surgery) - Plugin surgery: safe uninstall (dry-run impact preview, snapshot, three-way verification, auto-rollback on failure), one-click rollback, restart-pending confirmation, and a plugin doctor.
+- [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) - Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - Login gateway for the DSH web UI: password door with first-run setup, bcrypt + at-rest encryption (AES-256-GCM/HMAC), brute-force lockout, audit log, TLS 1.2+ with 80→443 redirect, CSRF, anti-framing.
 - [Small-tailqwq/dsh-tps](https://github.com/Small-tailqwq/dsh-tps) - A TPS metrics plugin.
 - [dsh-test-runner](https://github.com/suimi8/dsh-test-runner) - Structured test runner tool: auto-detects Vitest/Jest/pytest/node:test and parses failures.

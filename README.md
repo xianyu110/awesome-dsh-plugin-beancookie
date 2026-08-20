@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**403** 个插件 · 欢迎 [PR](#贡献)
+**408** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -94,6 +94,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [MysaDC/dsh-plugin-description](https://github.com/MysaDC/dsh-plugin-description) — 为 Web 设置页插件卡片补上中英文功能说明。
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) — 对话内生成式 UI：模型把交互式 HTML 卡片直接画进会话流，带流式预览与沙箱渲染。
 - [nonewind/dsh-spend](https://github.com/nonewind/dsh-spend) — DSH Web 用量与费用统计插件：右下角悬浮窗，按模型/按天/按会话多维聚合与预计花费。
+- [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。
 - [omdsh-dev/dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — 选中文字→批注→随消息发送，回复按批注逐条对照。
 - [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) — Codex 风格的 `@file` 文件引用，输入框里直接搜索并引用工作区文件。
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 侧边栏完整工作台：内置文件渲染编辑、终端、Git 与子代理，支持三方插件注册新 Tab。
@@ -250,6 +251,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [snippet-expander](https://github.com/JohnXu22786/snippet-expander) — Steno：发送前的行内 #tag 快捷展开——多库、别名、{{变量}}、递归防护。
 - [statusline](https://github.com/JohnXu22786/statusline) — 实时终端状态行：一行展示模型、上下文占用、子代理、速率限制与会话时长。
 - [worktree-mgr](https://github.com/JohnXu22786/worktree-mgr) — 任务隔离的 git 工作区：按任务自动创建、同步与收尾隔离工作区。
+- [JxaMe/dsh-condense](https://github.com/JxaMe/dsh-condense) — token 优化插件：屏蔽低信号读取、压缩大输出、哈希去重、smart_read 骨架化（tree-sitter）、BM25 检索，真实用量统计 + 持久化；入历史前削减，不破坏缓存命中。
 - [kunjinkao-os/dsh-mobile-gui-agent](https://github.com/kunjinkao-os/dsh-mobile-gui-agent) — Android GUI Agent：ADB 截图、压缩 UI hierarchy 定位、逐步动作验证、审批和 Mobile Web 视图。
 - [lak321/dsh-screen-agent](https://github.com/lak321/dsh-screen-agent) — 桌面与网页自动化：📸 多屏截图 + 🔍 Windows OCR（文字+像素坐标）+ 🖱️ 鼠标点击/拖拽 + ⌨️ 中文打字/按键 + 🪟 窗口激活，含实战打磨的画图能力（鼠标加速度补偿、画布定位、贝塞尔曲线，可在画图中绘制图形）。
 - [lak321/dsh-voice-chat](https://github.com/lak321/dsh-voice-chat) — 语音对话：🎤 语音输入（Web Speech，实时中间结果可编辑）+ 🔊 自动/手动朗读回复（TTS），支持人声/语速/语调设置与识别语言（普通话/粤语等），纯客户端零密钥，朗读前自动清理 Markdown 标记。
@@ -327,6 +329,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [skill-manager](https://github.com/JohnXu22786/skill-manager) — 多区域技能发现、渐进式披露、创建向导、审计与统计。
 - [spec-driven](https://github.com/JohnXu22786/spec-driven) — keel（龙骨）：规格驱动开发纪律技能包——先立规格、验证假设、防止过度工程与范围蔓延。
 - [leechen298/Code2Skill](https://github.com/leechen298/Code2Skill) — 从现有代码生成 Function、MCP、Agent Skill 和离线测试包，并作为可安装的 DSH Bundle 分发。
+- [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) — 88 个面向研究、社交情报、营销与商业工作流的 Agent Skills，通过原生 DSH bundle 挂载技能目录，也可按项目单独安装 multi-source-search。
 - [yanglaofish/dsh-skill-manager](https://github.com/yanglaofish/dsh-skill-manager) — DSH 技能生命周期管理插件：全局 / 工作区 / 会话三层模型下查看、编辑、导入、启用/停用技能，设置页与对话页统一管理界面，支持跨层全文搜索与分页。
 
 ### 🔁 工作流与自动化
@@ -413,6 +416,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [disyli/dsh-tool-call-stats](https://github.com/disyli/dsh-tool-call-stats) — 进程内工具调用统计：提供 `tool_stats` 工具，按工具汇报调用次数、失败次数与平均耗时。
 - [DoggyHU/dsh4vscode](https://github.com/DoggyHU/dsh4vscode) — 基于 DSH agent 的 VS Code 聊天窗口，模型自动路由。
 - [EvilIrving/dsh-repro](https://github.com/EvilIrving/dsh-repro) — /repro 导出最小可复现问题包：去 secret 的会话日志、失败命令与 git diff。
+- [fakechris/dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — DSH 自愈运维工具箱：官方每日快照 A/B 双槽轮换（验收通过才原子切换、一键回滚）、10s 守护自动拉起 web 并续接被打断的回合、web/agent 全挂时终端 dsh-doctor 一键诊断修复拉起。
 - [foolgry/dsh-desktop](https://github.com/foolgry/dsh-desktop) — 开箱即用的 Electron 桌面版，自动跟随上游发版。
 - [forrestchang/dsh-multica-runtime](https://github.com/forrestchang/dsh-multica-runtime) — 让 dsh 运行时跑在 Multica 上。
 - [fountunt/dsh-session-cleaner](https://github.com/fountunt/dsh-session-cleaner) — 无需重启即可删除运行中 Web 运行时里的会话。
@@ -441,6 +445,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [omdsh-dev/sandbox-nono](https://github.com/omdsh-dev/sandbox-nono) — nono 沙盒支持。
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) — 官方 MCP 客户端（dsh-mcp-client）的只读运行时管理面板：/mcp 命令与设置页 MCP 页签展示连接状态、已注册工具、错误与重连计数，脱敏展示并提供启停 patch 建议。
 - [ruimin251204/dsh-plugin-surgery](https://github.com/ruimin251204/dsh-plugin-surgery) — 插件手术刀：安全卸载（dry-run 预览影响面、快照、三方对账、失败自动回滚）、一键回滚、restart-pending 确认与插件体检。
+- [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) — DSH 设置页原生插件市场，支持社区目录搜索、标签筛选、插件安装和已安装包查看。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) — DSH Web UI 登录网关：首次配置、bcrypt + 静态加密（AES-256-GCM/HMAC）、防爆破、审计日志、TLS 1.2+ 与 80→443 跳转、CSRF 与防嵌框。
 - [Small-tailqwq/dsh-tps](https://github.com/Small-tailqwq/dsh-tps) — TPS 指标插件。
 - [suimi8/dsh-test-runner](https://github.com/suimi8/dsh-test-runner) — 结构化测试运行工具：自动识别 Vitest/Jest/pytest/node:test 并解析失败。

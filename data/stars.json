@@ -567,6 +567,12 @@
   "etag": "W/\"faf9c823021f29db5b147c3751b3c76c0a704e642e7650dfd1d75b597f3fd047\"",
   "checkedAt": "2026-08-17"
  },
+ "https://github.com/fakechris/dsh-harness-ops": {
+  "stars": 11,
+  "createdAt": "2026-08-11",
+  "etag": "W/\"6be0717773c207becac9cd2518166015a0473c812567d8c408b649e31da9da4d\"",
+  "checkedAt": "2026-08-19"
+ },
  "https://github.com/fakechris/dsh-track": {
   "stars": 6,
   "createdAt": "2026-08-09",
@@ -1087,6 +1093,12 @@
   "etag": "W/\"78d1c6bb5801e729b2ed9e56733a6e18a8841366a198cea154c04ea22cf030b4\"",
   "checkedAt": "2026-08-18"
  },
+ "https://github.com/JxaMe/dsh-condense": {
+  "stars": 0,
+  "createdAt": "2026-08-19",
+  "etag": "W/\"a040b57cd8000c53afecab6f52464d399f0e95804969c055073d6996a91cb96d\"",
+  "checkedAt": "2026-08-20"
+ },
  "https://github.com/kam74515-boop/dsh-everything-oauth": {
   "stars": 2,
   "createdAt": "2026-08-14",
@@ -1420,6 +1432,12 @@
   "createdAt": "2026-08-14",
   "etag": "W/\"f82026a9c1eb61fd9c11bdd04a96a97ad4f70fa5aeb455b9553dc8589552d547\"",
   "checkedAt": "2026-08-17"
+ },
+ "https://github.com/Noob-stupid/dsh-plugin-hub": {
+  "stars": 62,
+  "createdAt": "2026-08-14",
+  "etag": "W/\"dd564786cd1b4a7eba1cbcefeec63ab216d679bfdc76c1db14c378fcbc42a522\"",
+  "checkedAt": "2026-08-20"
  },
  "https://github.com/nowledge-co/nowledge-mem-deepseek-harness": {
   "stars": 5,
@@ -1916,6 +1934,18 @@
   "createdAt": "2026-08-14",
   "etag": "W/\"604642eea4b4a0dd6338b380aad56df2a36367761277a5d1b84169626c04df75\"",
   "checkedAt": "2026-08-17"
+ },
+ "https://github.com/sandbaseai/dsh-plugin-store": {
+  "stars": 0,
+  "createdAt": "2026-08-17",
+  "etag": "W/\"c4110a54d05248f1d6565d9749bab2a9f7266eac4942119417073d77113e16ba\"",
+  "checkedAt": "2026-08-20"
+ },
+ "https://github.com/sandbaseai/sandbase-skills": {
+  "stars": 21,
+  "createdAt": "2026-07-29",
+  "etag": "W/\"1de85bc3cbd617b1f0deb479053817670267edbd83e2a1b8f50e56dd7de6a859\"",
+  "checkedAt": "2026-08-19"
  },
  "https://github.com/Sanqi-normal/dsh-webui-market-plugin": {
   "stars": 70,

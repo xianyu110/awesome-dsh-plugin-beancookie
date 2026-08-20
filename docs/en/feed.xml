@@ -4,7 +4,28 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-19T00:00:00Z</updated>
+  <updated>2026-08-20T00:00:00Z</updated>
+  <entry>
+    <title>dsh-plugin-hub</title>
+    <id>https://github.com/Noob-stupid/dsh-plugin-hub</id>
+    <link href="https://github.com/Noob-stupid/dsh-plugin-hub"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation.</summary>
+  </entry>
+  <entry>
+    <title>JxaMe/dsh-condense</title>
+    <id>https://github.com/JxaMe/dsh-condense</id>
+    <link href="https://github.com/JxaMe/dsh-condense"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>Token optimizer for DSH: blocks low-signal reads, compresses oversized outputs, hash-dedupes repeated calls, smart_read skeletonization (tree-sitter), BM25 retrieval; real usage metering + persistence. Pre-history pruning keeps prompt-cache hits.</summary>
+  </entry>
+  <entry>
+    <title>sandbaseai/dsh-plugin-store</title>
+    <id>https://github.com/sandbaseai/dsh-plugin-store</id>
+    <link href="https://github.com/sandbaseai/dsh-plugin-store"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review.</summary>
+  </entry>
   <entry>
     <title>PerryLink/dsh-composer-history</title>
     <id>https://github.com/PerryLink/dsh-composer-history</id>
@@ -160,6 +181,13 @@
     <summary>Security-audit skill pack plus a plugin_vet supply-chain gate: eight bilingual skills and an automated pre-install scanner.</summary>
   </entry>
   <entry>
+    <title>sandbaseai/sandbase-skills</title>
+    <id>https://github.com/sandbaseai/sandbase-skills</id>
+    <link href="https://github.com/sandbaseai/sandbase-skills"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <summary>88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search.</summary>
+  </entry>
+  <entry>
     <title>huchunlinnk/deepseek-desk-rsi</title>
     <id>https://github.com/huchunlinnk/deepseek-desk-rsi</id>
     <link href="https://github.com/huchunlinnk/deepseek-desk-rsi"/>
@@ -186,33 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-translate"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Parameter translation across 11 providers (temperature, top_p, etc.) plus deterministic JSON repair; never fabricates data.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-fast</title>
-    <id>https://github.com/PerryLink/dsh-fast</id>
-    <link href="https://github.com/PerryLink/dsh-fast"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Read-only performance diagnostics: session load time, spill hits, compaction stats, context injection volume, and LLM cache hit rate via /fast and fast_report.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-lsp-actions</title>
-    <id>https://github.com/PerryLink/dsh-lsp-actions</id>
-    <link href="https://github.com/PerryLink/dsh-lsp-actions"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>LSP action surface: diagnostics, formatting, completion, code actions, symbols, signature help, inlay hints, and rename, all driven by real language servers.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-observe</title>
-    <id>https://github.com/PerryLink/dsh-observe</id>
-    <link href="https://github.com/PerryLink/dsh-observe"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>OpenTelemetry and Langfuse observability export: turn/step/tool/LLM spans plus token and cost metrics, with sanitized collection and offline buffering with retry.</summary>
-  </entry>
-  <entry>
-    <title>SunQingyuan0/Kabutack</title>
-    <id>https://github.com/SunQingyuan0/Kabutack</id>
-    <link href="https://github.com/SunQingyuan0/Kabutack"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Role-based manager for DSH plugins/Skills/MCP: bundle capabilities into “roles” and hot-switch them from the Web UI.</summary>
   </entry>
 </feed>
