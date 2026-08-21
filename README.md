@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**409** 个插件 · 欢迎 [PR](#贡献)
+**412** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -67,6 +67,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [bill9109/dsh-drag-and-drop](https://github.com/bill9109/dsh-drag-and-drop) — 跨平台文件拖拽与原始路径插入，无需复制文件。
 - [bobcat848/dsh-calculator](https://github.com/bobcat848/dsh-calculator) — 右侧面板展示 DeepSeek API 费用（当前会话 + 全部会话累计）与账户余额，内置官方计价与峰谷计价支持。
 - [bpc-oss/dsh-web-billing](https://github.com/bpc-oss/dsh-web-billing) — 人民币/美元 token 计费，官方政策计价与逐条消息费用账本。
+- [bunipai/dsh-fare-meter](https://github.com/bunipai/dsh-fare-meter) — 出租车计价器式实时计费：生成时逐秒跳动、空闲归零，内置官方峰谷时段与价格表。
 - [CanglongCl/dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — 隔离网页预览，通过元素批注指导源码修改。
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) — Claude Code 风格全屏终端 UI：像素鲸鱼顶栏、实时工作状态行、思考流式展开。
 - [ccq1/dsh-side-panel](https://github.com/ccq1/dsh-side-panel) — 侧边栏集成文件浏览器、终端和 Git 审查，方便预览文件。
@@ -364,6 +365,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) — 定时任务：让 Coding 任务按计划在全新 Agent Session 中运行，保留可审计历史。
 - [titanwings/dsh-plannotator](https://github.com/titanwings/dsh-plannotator) — 计划批注：选中计划原文逐条批注，结构化反馈送回 Agent。
 - [vlln/dsh-loop](https://github.com/vlln/dsh-loop) — 定时循环：`/loop` 命令 + loop 工具 + 活动状态条。
+- [whateverboy2333/dsh-flat-teams](https://github.com/whateverboy2333/dsh-flat-teams) — 无队长扁平 Agent 团队：跨窗口结构化任务派发（状态机 + 事件流 + 离线唤醒）、记录员进展服务与 Web 两级看板。
 
 ### 🔔 通知与集成
 - [Andyqwe44/dsh-notify-win](https://github.com/Andyqwe44/dsh-notify-win) — 原生 Windows toast + 任务栏闪烁，任务完成/审批/提问时触发，支持 Win10/11，npm 安装 `dsh plugin --profile web add dsh-notify-win`。
@@ -371,6 +373,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) — 桌面通知提醒。
 - [bill9109/dsh-webbridge](https://github.com/bill9109/dsh-webbridge) — DSH 结合 Kimi WebBridge。
 - [bobleer/dsh-acp-for-bitfun](https://github.com/bobleer/dsh-acp-for-bitfun) — BitFun 与 DSH 的 ACP 交互对接。
+- [bunipai/dsh-balance-guard](https://github.com/bunipai/dsh-balance-guard) — 实时余额胶囊：余额不足自动变橙并触发标题与系统通知。
 - [cdxiaodong/dsh-island](https://github.com/cdxiaodong/dsh-island) — 通过 Unix socket 把 DSH agent 的会话、工具调用与审批实时桥接到 CodeIsland macOS 刘海面板，可直接在面板上批准/拒绝。
 - [dingyi222666/dsh-session-notification](https://github.com/dingyi222666/dsh-session-notification) — 会话完成等四种状态的通知响应，支持浏览器提示。
 - [dsh-feishu-notify](https://github.com/dsh-external/dsh-feishu-notify) — 飞书通知（会话结束/等待输入）。

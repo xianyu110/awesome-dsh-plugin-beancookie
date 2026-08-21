@@ -219,6 +219,14 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/bunipai/dsh-balance-guard": {
+  "npm": null,
+  "checkedAt": "2026-08-21"
+ },
+ "https://github.com/bunipai/dsh-fare-meter": {
+  "npm": null,
+  "checkedAt": "2026-08-21"
+ },
  "https://github.com/Buyi-wsgzg/dsh-sidechain": {
   "npm": null,
   "checkedAt": "2026-08-14"
@@ -1478,6 +1486,10 @@
  "https://github.com/WFMinerva/dsh-turn-cost": {
   "npm": "dsh-turn-cost",
   "checkedAt": "2026-08-17"
+ },
+ "https://github.com/whateverboy2333/dsh-flat-teams": {
+  "npm": null,
+  "checkedAt": "2026-08-21"
  },
  "https://github.com/william-jin-cmu/dsh-evolve": {
   "npm": null,

@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**409** plugins · [PRs welcome](#contributing)
+**412** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -67,6 +67,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [bill9109/dsh-drag-and-drop](https://github.com/bill9109/dsh-drag-and-drop) - Cross-platform file drag-and-drop with raw path insertion, no file copying.
 - [bobcat848/dsh-calculator](https://github.com/bobcat848/dsh-calculator) - DeepSeek API spend (current session and all sessions) and account balance in the aside panel, with official pricing and peak/off-peak support.
 - [dsh-web-billing](https://github.com/bpc-oss/dsh-web-billing) - RMB/USD token billing with official-policy pricing and a per-message cost ledger.
+- [bunipai/dsh-fare-meter](https://github.com/bunipai/dsh-fare-meter) - Taxi-meter style real-time cost: ticks every half second while generating, resets when idle, with official peak/valley pricing built in.
 - [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) - Isolated web page previews with element annotations that guide source edits.
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - Claude Code-style full-screen terminal UI: pixel-whale header, live status line, and streaming thought expansion.
 - [ccq1/dsh-side-panel](https://github.com/ccq1/dsh-side-panel) - Side panel with file browser, terminal, and Git review for quick file previews.
@@ -364,6 +365,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) - Scheduled coding runs in fresh agent sessions with auditable history.
 - [titanwings/dsh-plannotator](https://github.com/titanwings/dsh-plannotator) - Plan review with anchored annotations and structured feedback back to the agent.
 - [vlln/dsh-loop](https://github.com/vlln/dsh-loop) - Recurring loops: `/loop` command + loop tool + activity status bar.
+- [whateverboy2333/dsh-flat-teams](https://github.com/whateverboy2333/dsh-flat-teams) - Leaderless flat agent teams: cross-window structured task dispatch (state machine + event stream + offline resume), a read-only progress recorder, and a two-level web dashboard.
 
 ### Notifications & Integrations
 - [Andyqwe44/dsh-notify-win](https://github.com/Andyqwe44/dsh-notify-win) - Native Windows toast + taskbar flash for task done / approval / ask_user_question, Win10/11, npm install `dsh plugin --profile web add dsh-notify-win`.
@@ -371,6 +373,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) - Desktop notification reminders.
 - [bill9109/dsh-webbridge](https://github.com/bill9109/dsh-webbridge) - DSH meets Kimi WebBridge.
 - [bobleer/dsh-acp-for-bitfun](https://github.com/bobleer/dsh-acp-for-bitfun) - ACP bridge between BitFun and DSH.
+- [bunipai/dsh-balance-guard](https://github.com/bunipai/dsh-balance-guard) - Live balance pill that turns orange and raises title and system alerts when the balance runs low.
 - [cdxiaodong/dsh-island](https://github.com/cdxiaodong/dsh-island) - Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny.
 - [dingyi222666/dsh-session-notification](https://github.com/dingyi222666/dsh-session-notification) - Notifications for four session states, with browser alerts and prompts.
 - [dsh-feishu-notify](https://github.com/dsh-external/dsh-feishu-notify) - Feishu notifications on session end / input needed.
