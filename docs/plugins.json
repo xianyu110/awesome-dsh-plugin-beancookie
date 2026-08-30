@@ -2461,7 +2461,7 @@
     "en": "Labnana image generation for DeepSeek Harness: text-to-image / image-to-image / precise editing, with credits estimation and web settings UI."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 3,
    "createdAt": "2026-08-22",
    "install": "dsh plugin --profile web add github:exoticknight/dsh-labnana",
    "added": "2026-08-23"
