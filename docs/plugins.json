@@ -76,7 +76,7 @@
     "en": "Clickable file paths in DSH replies: Codex-style inline open, reveal in file manager, and a mentioned-files chip list at the turn tail."
    },
    "npm": null,
-   "stars": 12,
+   "stars": 10,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:a903067276-rgb/dsh-file-mentions",
    "added": "2026-08-14"
@@ -106,7 +106,7 @@
     "en": "File-drag fork: drop documents as removable chips above the composer, send without typing."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:AKIRACOD/dsh-drag-and-drop",
    "added": "2026-08-14"
@@ -121,7 +121,7 @@
     "en": "Customize the \"deep diving\" thinking status label to anything you like."
    },
    "npm": null,
-   "stars": 43,
+   "stars": 44,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add github:alingalingling/ui-status-label",
    "added": "2026-08-13"
@@ -136,7 +136,7 @@
     "en": "Right-edge user-message navigator with an adaptive block layout that fits the available height, plus hover previews, keyboard controls, and click-to-jump navigation."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 8,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:asukasec/dsh-message-preview",
    "added": "2026-08-14"
@@ -166,7 +166,7 @@
     "en": "Document reading mode for DSH."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add github:bill9109/dsh-101",
    "added": "2026-08-13"
@@ -181,7 +181,7 @@
     "en": "Cross-platform file drag-and-drop with raw path insertion, no file copying."
    },
    "npm": null,
-   "stars": 25,
+   "stars": 24,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add github:bill9109/dsh-drag-and-drop",
    "added": "2026-08-13"
@@ -196,7 +196,7 @@
     "en": "DeepSeek API spend (current session and all sessions) and account balance in the aside panel, with official pricing and peak/off-peak support."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:bobcat848/dsh-calculator",
    "added": "2026-08-14"
@@ -241,7 +241,7 @@
     "en": "Isolated web page previews with element annotations that guide source edits."
    },
    "npm": null,
-   "stars": 18,
+   "stars": 20,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:CanglongCl/dsh-web-review",
    "added": "2026-08-14"
@@ -256,7 +256,7 @@
     "en": "Claude Code-style full-screen terminal UI: pixel-whale header, live status line, and streaming thought expansion."
    },
    "npm": "@deepseek-harness-tui/dsh-tui",
-   "stars": 2867,
+   "stars": 3015,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @deepseek-harness-tui/dsh-tui",
    "added": "2026-08-14"
@@ -286,7 +286,7 @@
     "en": "A multi-window wall for the DSH Web UI: run and monitor N conversations side-by-side in one screen, with auto-discovery, per-window controls, and an authenticated LAN gateway for phone/tablet access."
    },
    "npm": "dsh-multi-chat",
-   "stars": 6,
+   "stars": 5,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add dsh-multi-chat",
    "added": "2026-08-17"
@@ -361,7 +361,7 @@
     "en": "DeepSeek account balance and session cost in the composer dock, with auto-fetched official pricing and peak/off-peak support."
    },
    "npm": null,
-   "stars": 19,
+   "stars": 18,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Ghost011118/dsh-balance-meter",
    "added": "2026-08-14"
@@ -391,7 +391,7 @@
     "en": "Per-session and daily API cost, budget with usage %, official balance, history dashboard, and one-click official price sync with peak/off-peak pricing."
    },
    "npm": "dsh-cost-meter",
-   "stars": 259,
+   "stars": 295,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-cost-meter",
    "added": "2026-08-14"
@@ -406,7 +406,7 @@
     "en": "One-click collapse of every expanded section (Think rows, tool cards) with a live-count pill and a customizable hotkey."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Han-1413141/dsh-sticky-disclosure",
    "added": "2026-08-14"
@@ -421,7 +421,7 @@
     "en": "A terminal UI (TUI) for DeepSeek Harness."
    },
    "npm": "@huiliyi37/dsh-tianshu-tui",
-   "stars": 264,
+   "stars": 275,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @huiliyi37/dsh-tianshu-tui",
    "added": "2026-08-13"
@@ -436,7 +436,7 @@
     "en": "Solarized light theme, compact layout, think/tool-chain collapse capsules, and balance, session cost, and usage dashboards for the DSH web UI."
    },
    "npm": null,
-   "stars": 8,
+   "stars": 7,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:jiangnanquan/dsh-ux",
    "added": "2026-08-14"
@@ -451,7 +451,7 @@
     "en": "DeepSeek account balance and per-session cost card in the sidebar foot."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Jolly-J/dsh-deepseek-billing",
    "added": "2026-08-14"
@@ -466,7 +466,7 @@
     "en": "Upload arbitrary local files from the Web composer, show pending cards, and manage stored files in Settings."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:l541402398/dsh-file-uploads",
    "added": "2026-08-14"
@@ -481,7 +481,7 @@
     "en": "Project file browser: per-session file tabs, a directory tree, and a VSCode-style editor (C syntax highlighting, line numbers, auto-indent, status bar) that follows the current workspace."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:lak321/dsh-filetree",
    "added": "2026-08-16"
@@ -511,7 +511,7 @@
     "en": "A visual-novel presentation layer for the DSH Web chat view: portrait diffs, streaming thought bubble, typewriter dialogue, and GalGame-style question/approval panels; switch back to the normal chat anytime."
    },
    "npm": null,
-   "stars": 18,
+   "stars": 19,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Lanxing6480/dsh-galgame",
    "added": "2026-08-15"
@@ -526,7 +526,7 @@
     "en": "Silky streaming reveal for the Web UI: text appears at the model's arrival rate, new lines glide in, no flicker; follow stays with the user and `prefers-reduced-motion` is respected."
    },
    "npm": null,
-   "stars": 69,
+   "stars": 71,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:Laplace-bit/dsh-smooth-stream",
    "added": "2026-08-16"
@@ -541,7 +541,7 @@
     "en": "PiUI-style diff viewer replacing the stock DiffBlock for write/edit tool calls."
    },
    "npm": null,
-   "stars": 26,
+   "stars": 27,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:lehhair/dsh-diff-viewer",
    "added": "2026-08-13"
@@ -556,7 +556,7 @@
     "en": "Differential-rendering TUI front end with streaming markdown and tool cards."
    },
    "npm": "dsh-pi-tui",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-pi-tui",
    "added": "2026-08-14"
@@ -571,7 +571,7 @@
     "en": "Attention reminders: frame badge, tab-title count, and a status-colored whale favicon for sessions waiting for input or finished unopened."
    },
    "npm": "dsh-web-attention-badge",
-   "stars": 6,
+   "stars": 5,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-web-attention-badge",
    "added": "2026-08-14"
@@ -601,7 +601,7 @@
     "en": "Bilingual descriptions on every plugin card in the Web Settings plugin list."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:MysaDC/dsh-plugin-description",
    "added": "2026-08-14"
@@ -616,7 +616,7 @@
     "en": "In-conversation generative UI: the model renders interactive HTML cards into the chat stream, with streaming preview and sandboxed rendering."
    },
    "npm": null,
-   "stars": 257,
+   "stars": 259,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Nagi-ovo/dsh-visualize",
    "added": "2026-08-13"
@@ -661,7 +661,7 @@
     "en": "Select text → annotate → send with your message; replies map back to each annotation."
    },
    "npm": "@changfenhuang/dsh-annotation",
-   "stars": 110,
+   "stars": 117,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add @changfenhuang/dsh-annotation",
    "added": "2026-08-13"
@@ -676,7 +676,7 @@
     "en": "Codex-style `@file` mentions: search workspace files in the composer and attach their contents to prompts."
    },
    "npm": null,
-   "stars": 503,
+   "stars": 510,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-at-file",
    "added": "2026-08-13"
@@ -691,7 +691,7 @@
     "en": "Full sidebar workbench with file rendering and editing, terminal, Git, and subagents; third-party plugins can register new tabs."
    },
    "npm": "dsh-better-sidebar",
-   "stars": 3381,
+   "stars": 3571,
    "createdAt": "2026-08-07",
    "install": "dsh plugin --profile web add dsh-better-sidebar",
    "added": "2026-08-14"
@@ -706,7 +706,7 @@
     "en": "Interactive UI components rendered inline in replies: layout, charts, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model."
    },
    "npm": "@changfenhuang/dsh-genui",
-   "stars": 415,
+   "stars": 445,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @changfenhuang/dsh-genui",
    "added": "2026-08-13"
@@ -721,7 +721,7 @@
     "en": "Settings extensions for DSH."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-04",
    "install": "dsh plugin --profile web add github:omdsh-dev/ex-setting",
    "added": "2026-08-13"
@@ -736,7 +736,7 @@
     "en": "Web Components support."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-04",
    "install": "dsh plugin --profile web add github:omdsh-dev/web-components",
    "added": "2026-08-13"
@@ -751,7 +751,7 @@
     "en": "A Rust/ratatui terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle."
    },
    "npm": null,
-   "stars": 69,
+   "stars": 74,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:openma-ai/deepseek-harness-tui",
    "added": "2026-08-14"
@@ -826,7 +826,7 @@
     "en": "Cute token-usage widget in the session header: a Bubu doll plus context occupancy, session usage and breakdown, with date/weekday, weather, 3-day forecast and severe-weather alerts (raindrop/snowflake animation), following the theme color."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:pk7j7sqryy-ops/dsh-token-pet",
    "added": "2026-08-15"
@@ -841,7 +841,7 @@
     "en": "Deep links: open a specific session or workspace via `?session=` / `?workspace=`."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:qyw233/dsh-deeplink",
    "added": "2026-08-13"
@@ -856,7 +856,7 @@
     "en": "Collapse noisy messages (Think, Bash, etc.) in conversations."
    },
    "npm": null,
-   "stars": 9,
+   "stars": 8,
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add github:renat3u/dsh-web-archive",
    "added": "2026-08-13"
@@ -871,7 +871,7 @@
     "en": "DeepSeek API balance and 24-hour usage dashboard in Settings, with estimated spend, token counts, request counts, and an hourly timeline."
    },
    "npm": null,
-   "stars": 6,
+   "stars": 5,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Sev7een/ds-api-usage",
    "added": "2026-08-14"
@@ -886,7 +886,7 @@
     "en": "Turn-index sidebar with scroll-spy highlighting."
    },
    "npm": "dsh-turn-index",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-turn-index",
    "added": "2026-08-14"
@@ -901,7 +901,7 @@
     "en": "Right-side dot-timeline rail: jump between user messages."
    },
    "npm": null,
-   "stars": 25,
+   "stars": 24,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:SnowCrescenter-tech/dsh-milestone",
    "added": "2026-08-13"
@@ -931,7 +931,7 @@
     "en": "MCP servers & tools inventory panel: one-click floating panel from the sidebar that lists every MCP server and tool (transport, endpoint, JSON schema, last-used time), grouped by server, collapsed by default, with live search and refresh; last-used times come from real session logs."
    },
    "npm": "dsh-mcp-view",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add dsh-mcp-view",
    "added": "2026-08-17"
@@ -946,7 +946,7 @@
     "en": "Per-turn USD cost badge in the Web UI: session total in the header and per-turn cost in each message footer, with a hover breakdown."
    },
    "npm": "@steven-wu/dsh-cost-meter",
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @steven-wu/dsh-cost-meter",
    "added": "2026-08-14"
@@ -976,7 +976,7 @@
     "en": "Turn navigation for the DSH Web UI."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:vibeinging/dsh-turn-navigator",
    "added": "2026-08-13"
@@ -1006,7 +1006,7 @@
     "en": "Background task status bar: progress plus live output tail on the chat page."
    },
    "npm": null,
-   "stars": 9,
+   "stars": 8,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:vlln/dsh-task-status",
    "added": "2026-08-13"
@@ -1021,7 +1021,7 @@
     "en": "Per-turn real cost under every assistant reply: CNY at official peak/off-peak rates with cache-hit ratio; reads local session logs only, zero telemetry, zero keys."
    },
    "npm": "dsh-turn-cost",
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add dsh-turn-cost",
    "added": "2026-08-17"
@@ -1066,7 +1066,7 @@
     "en": "Web theming (wallpaper, glass, accent, presets), keyboard shortcuts, usage stats, a plugin marketplace, a floating history strip, and user-message Markdown rendering."
    },
    "npm": null,
-   "stars": 27,
+   "stars": 34,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:yoli-mi/dsh-client-ui-custom",
    "added": "2026-08-17"
@@ -1081,7 +1081,7 @@
     "en": "Steam Workshop-style in-app plugin browser with one-click install/update/uninstall."
    },
    "npm": null,
-   "stars": 26,
+   "stars": 24,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:yyyyukari/dsh-plugin-workshop",
    "added": "2026-08-14"
@@ -1096,7 +1096,7 @@
     "en": "Desktop pet for the DSH Web UI: sprite-sheet animation, agent state linkage, drag, alarm (daily/one-shot) and pomodoro widgets, skin picker with preview."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:zealot00/dsh-pet",
    "added": "2026-08-14"
@@ -1111,7 +1111,7 @@
     "en": "Shows local DSH token usage by relay site, project, and model, with account balances and subscription quota windows."
    },
    "npm": "dsh-tokenledger",
-   "stars": 196,
+   "stars": 198,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-tokenledger",
    "added": "2026-08-17"
@@ -1141,7 +1141,7 @@
     "en": "Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center."
    },
    "npm": null,
-   "stars": 7035,
+   "stars": 7527,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:zhu1090093659/dsh-web-ui",
    "added": "2026-08-14"
@@ -1156,7 +1156,7 @@
     "en": "OpenPencil design preview and editing plugin."
    },
    "npm": "@zseven-w/dsh-openpencil",
-   "stars": 163,
+   "stars": 170,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add @zseven-w/dsh-openpencil",
    "added": "2026-08-13"
@@ -1216,7 +1216,7 @@
     "en": "32 preset themes across three palettes (Morandi, Macaron, Chinese traditional), animated and static wallpapers, paper textures, per-zone opacity and text depth, plus a keyboard desktop pet."
    },
    "npm": "dsh-theme-kit",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add dsh-theme-kit",
    "added": "2026-08-16"
@@ -1246,7 +1246,7 @@
     "en": "Codex-style skin switcher plus a custom wallpaper layer with opacity and blur controls."
    },
    "npm": null,
-   "stars": 19,
+   "stars": 18,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:KinGao294/dsh-skin",
    "added": "2026-08-14"
@@ -1261,7 +1261,7 @@
     "en": "A Honkai: Star Rail \"Firefly\" theme: wallpaper/video backgrounds, firefly-green neon palette, transformation boot animation, ambient particles, BGM, typewriter SFX, and context-aware emote easter eggs."
    },
    "npm": null,
-   "stars": 18,
+   "stars": 21,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:Liu-ZA-81/dsh-theme-firefly",
    "added": "2026-08-16"
@@ -1276,7 +1276,7 @@
     "en": "A Genshin Impact \"Odette\" themed DSH UI skin: dark/light dual-mode background images, frosted-glass overrides for 13 theme tokens, and a chibi mascot sidebar toggle; install via npm."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:lkdx0220/Genshin-odette-skin-dsh",
    "added": "2026-08-17"
@@ -1336,7 +1336,7 @@
     "en": "One-command skinning for DSH Web: 8 original themes, wallpaper (opacity/blur/gradient/URL), per-user accent, and shareable theme-pack import/export + favorites + surprise-me. Purely native on DSH's token system."
    },
    "npm": "dsh-dream-skin",
-   "stars": 150,
+   "stars": 160,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add dsh-dream-skin",
    "added": "2026-08-17"
@@ -1351,7 +1351,7 @@
     "en": "Whale-girl skin series for the DSH Web UI (maid-atelier)."
    },
    "npm": null,
-   "stars": 1947,
+   "stars": 2069,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Small-tailqwq/dsh-deep-whale",
    "added": "2026-08-14"
@@ -1396,7 +1396,7 @@
     "en": "Adds a Skins page to Settings that auto-discovers installed skins for one-click switching, with one-click restore to the official default look."
    },
    "npm": "dsh-skin-switcher",
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-skin-switcher",
    "added": "2026-08-15"
@@ -1411,7 +1411,7 @@
     "en": "Rewind conversation and workspace state, powered by a persistent Change Ledger."
    },
    "npm": "@anionex/dsh-turn-rewind",
-   "stars": 113,
+   "stars": 115,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @anionex/dsh-turn-rewind",
    "added": "2026-08-13"
@@ -1426,7 +1426,7 @@
     "en": "Share any excerpt of a conversation."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:bill9109/dsh-conversation-share",
    "added": "2026-08-13"
@@ -1441,7 +1441,7 @@
     "en": "`/side` persistent side sessions and `/btw` one-shot side questions, run in a temporary fork without touching main history."
    },
    "npm": null,
-   "stars": 14,
+   "stars": 15,
    "createdAt": "2026-08-07",
    "install": "dsh plugin --profile web add github:Buyi-wsgzg/dsh-sidechain",
    "added": "2026-08-13"
@@ -1456,7 +1456,7 @@
     "en": "Browse every message you sent in the current session: full-history listing with newest-first sort, text filter, one-click copy, and click-to-jump that auto-loads earlier history when the target is not yet loaded."
    },
    "npm": "dsh-history",
-   "stars": 14,
+   "stars": 15,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add dsh-history",
    "added": "2026-08-17"
@@ -1471,7 +1471,7 @@
     "en": "Cross-instance message and event handoff between DSH instances via an interconnect server."
    },
    "npm": null,
-   "stars": 35,
+   "stars": 34,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Chinesezjc/dsh-interconnect",
    "added": "2026-08-14"
@@ -1486,7 +1486,7 @@
     "en": "Let dsh and Claude Code sessions message each other directly; comes with a clickable peer list card (sort/search/send/refresh)."
    },
    "npm": null,
-   "stars": 8,
+   "stars": 7,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:czm15053/dsh-peer-link",
    "added": "2026-08-14"
@@ -1516,7 +1516,7 @@
     "en": "Restore archived sessions: a /unarchive command and an unarchive_session tool that remove sessions from the archive set so they reappear in the workspace at their original position (archiving never deletes data)."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:edfrey0044/dsh-unarchive",
    "added": "2026-08-16"
@@ -1546,7 +1546,7 @@
     "en": "Message-index rail at the conversation's right edge: one brand-colored dot per user message, hover to preview, click to jump, auto-loads older history; pure plugin with no host patching."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:futongxu9-maker/dsh-msgrail",
    "added": "2026-08-16"
@@ -1576,7 +1576,7 @@
     "en": "Cross-session messaging for DSH: any session on the machine can list and message any other, Claude Code-style, via a local heartbeat registry and inbox."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-crosstalk",
    "added": "2026-08-14"
@@ -1591,7 +1591,7 @@
     "en": "Two-phase session captioning: instant keyword captions while busy, budget-model refinement when idle."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/session-titler",
    "added": "2026-08-17"
@@ -1606,7 +1606,7 @@
     "en": "Branch-based message editing, reroll, retry, and a version timeline."
    },
    "npm": "dsh-message-edit",
-   "stars": 49,
+   "stars": 48,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add dsh-message-edit",
    "added": "2026-08-13"
@@ -1621,7 +1621,7 @@
     "en": "Edit user and built-in system-prompt sections with live preview."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-05",
    "install": "dsh plugin --profile web add github:Moeblack/dsh-prompt-studio",
    "added": "2026-08-13"
@@ -1636,7 +1636,7 @@
     "en": "Import Claude Code / Codex / ChatGPT / Cursor / Gemini / Reasonix / opencode chat histories as resumable DeepSeek Harness sessions."
    },
    "npm": "dsh-chat-import",
-   "stars": 137,
+   "stars": 158,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-chat-import",
    "added": "2026-08-13"
@@ -1651,7 +1651,7 @@
     "en": "File claim/release protection for parallel DSH sessions on the same workspace (heartbeat stale takeover, pending 3-way merge area)."
    },
    "npm": "dsh-file-claim",
-   "stars": 6,
+   "stars": 5,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-file-claim",
    "added": "2026-08-14"
@@ -1696,7 +1696,7 @@
     "en": "Local, per-session LIFO prompt stash for temporarily setting aside unfinished composer text and safely restoring it later."
    },
    "npm": "dsh-prompt-stash",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-prompt-stash",
    "added": "2026-08-14"
@@ -1711,7 +1711,7 @@
     "en": "Local-first learning mode: cross-session learning threads with per-source explanations."
    },
    "npm": null,
-   "stars": 12,
+   "stars": 11,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:yuezengwu/dsh-explain",
    "added": "2026-08-13"
@@ -1726,7 +1726,7 @@
     "en": "Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats."
    },
    "npm": "dsh-context",
-   "stars": 1317,
+   "stars": 1369,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-context",
    "added": "2026-08-16"
@@ -1741,7 +1741,7 @@
     "en": "Local literature knowledge-base RAG: 8 tools (PDF/folder/Zotero ingest, hybrid BM25+vector+reranker search, cited QA with clickable DOI links, scope/strict modes, dedup/clear/stats), all-local bge embeddings + single-file SQLite, measured 242-doc/86s ingest and sub-second hot queries on 20k chunks."
    },
    "npm": null,
-   "stars": 9,
+   "stars": 12,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:Breeze136/dsh-kb-rag",
    "added": "2026-08-17"
@@ -1756,7 +1756,7 @@
     "en": "Cross-session memory vault: remember / recall / forget tools, per-turn prompt injection, and a settings-page entry browser."
    },
    "npm": "dsh-memory-vault",
-   "stars": 5,
+   "stars": 6,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-memory-vault",
    "added": "2026-08-14"
@@ -1771,7 +1771,7 @@
     "en": "ShiGuang Memory Engine (SGME) bridge: multi-agent shared long-term memory via HTTP — L0/L1/L1.5/L2 distillation, scenario-based injection, unified search, and proactive care signals (memory_search / wiki_search / signal_pull / signal_claim / signal_ack), installable as `dsh-sgme`."
    },
    "npm": null,
-   "stars": 13,
+   "stars": 14,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add github:freehul/sgme",
    "added": "2026-08-14"
@@ -1786,7 +1786,7 @@
     "en": "Cross-conversation shared memory: MEMORY.md + USER.md injected into every session's system prompt, with a memory tool and a GUI panel (Hermes-style)."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:futongxu9-maker/dsh-shared-memory",
    "added": "2026-08-16"
@@ -1801,7 +1801,7 @@
     "en": "File-backed working memory: memorize/recall key premises verbatim in a session notes file so they survive context compaction losslessly."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:ICCuse/dsh-file-memory",
    "added": "2026-08-14"
@@ -1816,7 +1816,7 @@
     "en": "Bridge into a global Markdown knowledge base shared with the Codex kb.cmd CLI: kb_add/kb_search/kb_show/kb_timeline tools with byte-compatible frontmatter."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:ICCuse/dsh-knowledge",
    "added": "2026-08-14"
@@ -1831,7 +1831,7 @@
     "en": "Post-compaction premise-drift guard: injects a one-shot notice when a compaction summary drops a critical literal anchor."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:ICCuse/dsh-premise-guard",
    "added": "2026-08-14"
@@ -1846,7 +1846,7 @@
     "en": "Cited memory over DSH's lossless session log: distilled facts carry `(sessionId, eventRange)` citations that expand back to the exact original log excerpt."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-memory",
    "added": "2026-08-14"
@@ -1876,7 +1876,7 @@
     "en": "Automatic conversation distillation: background subagent reflection + skill create/update."
    },
    "npm": null,
-   "stars": 24,
+   "stars": 25,
    "createdAt": "2026-08-04",
    "install": "dsh plugin --profile web add github:LoserFox/distill",
    "added": "2026-08-13"
@@ -1891,7 +1891,7 @@
     "en": "Cross-session memory: SQLite with a human-editable Markdown mirror, background consolidation (dedup, merge, conflict resolution), and six memory tools."
    },
    "npm": "@modusensus/dsh-mneme",
-   "stars": 85,
+   "stars": 96,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @modusensus/dsh-mneme",
    "added": "2026-08-14"
@@ -1921,7 +1921,7 @@
     "en": "Deep Mnemon integration: local three-tier memory (Runtime Memory, retrievable Documents, supervised Memory Spaces)."
    },
    "npm": "dsh-mnemon",
-   "stars": 341,
+   "stars": 366,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add dsh-mnemon",
    "added": "2026-08-13"
@@ -2041,7 +2041,7 @@
     "en": "Bounded, layered, approval-gated, auditable cross-session memory: a typed `ctx.memory` seam with a zero-dependency SQLite provider, a `memory` tool, and frozen snapshot injection; every write passes the approval gate and stays reconstructable from the session log."
    },
    "npm": "dsh-memento",
-   "stars": 97,
+   "stars": 89,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-memento",
    "added": "2026-08-14"
@@ -2101,7 +2101,7 @@
     "en": "Project-scoped cross-session memory: PROJECT.md snapshot injected into the first user message, a memory_remember tool, and auto-reflection after ReAct tasks; each project keeps its own memory file."
    },
    "npm": null,
-   "stars": 82,
+   "stars": 95,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Phant0Meow/dsh-memory-meow",
    "added": "2026-08-14"
@@ -2116,7 +2116,7 @@
     "en": "Model-driven context compression: the model decides when and what to compress."
    },
    "npm": null,
-   "stars": 75,
+   "stars": 88,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Tyan66666/billion-context-dsh",
    "added": "2026-08-14"
@@ -2191,7 +2191,7 @@
     "en": "Incremental file mounting with read dedupe: mounted line ranges are never re-sent to the model."
    },
    "npm": null,
-   "stars": 16,
+   "stars": 15,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:acefun29/dsh-file-mount",
    "added": "2026-08-14"
@@ -2206,7 +2206,7 @@
     "en": "Vision bridge for text-only models: image_understand tool via any OpenAI-compatible multimodal API (OCR/UI analysis), with an allowed-directories whitelist."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:AlloyPlane/dsh-eye-vision",
    "added": "2026-08-17"
@@ -2221,7 +2221,7 @@
     "en": "Accessibility-first macOS computer use: fresh observations, stale-state rejection, scoped permissions, and safe input."
    },
    "npm": "@anionex/dsh-computer-use",
-   "stars": 38,
+   "stars": 41,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @anionex/dsh-computer-use",
    "added": "2026-08-13"
@@ -2236,7 +2236,7 @@
     "en": "Vision tasks for text-only models: intent-aware image Q&A, long-screenshot OCR, UI reproduction, grounding, and pixel diff."
    },
    "npm": "@dsh-external/dsh-vision-toolkit",
-   "stars": 855,
+   "stars": 880,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @dsh-external/dsh-vision-toolkit",
    "added": "2026-08-13"
@@ -2266,7 +2266,7 @@
     "en": "Find plugins without leaving the agent: search this curated registry by keyword or category, with ready-to-run install commands."
    },
    "npm": "dsh-find-plugin",
-   "stars": 121,
+   "stars": 135,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-find-plugin",
    "added": "2026-08-14"
@@ -2296,7 +2296,7 @@
     "en": "RSS news fetch tool that grabs 10+ CN/EN feeds into structured items."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:canghai666x/dsh-news-plugin",
    "added": "2026-08-14"
@@ -2311,7 +2311,7 @@
     "en": "Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:cdxiaodong/dsh-llm-inspector",
    "added": "2026-08-16"
@@ -2431,7 +2431,7 @@
     "en": "The plugin market inside DSH: a Settings page to browse and search the full community catalog by category, with confirmed one-click installs and an installed-plugins view."
    },
    "npm": "dshmarket",
-   "stars": 3322,
+   "stars": 3838,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dshmarket",
    "added": "2026-08-14"
@@ -2446,7 +2446,7 @@
     "en": "Thin on-demand context retrieval: context_query / context_slice / context_grep tools that read already-persisted history back with replay-safe citations."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:EvilIrving/dsh-context-proxy",
    "added": "2026-08-14"
@@ -2476,7 +2476,7 @@
     "en": "Remote workspace: connect a host over SSH (password or key), pick a remote workspace directory and operate on it with rw_pick_workspace / rw_list_dir / rw_read_file / rw_exec tools."
    },
    "npm": "dsh-remote",
-   "stars": 60,
+   "stars": 74,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-remote",
    "added": "2026-08-14"
@@ -2491,7 +2491,7 @@
     "en": "Click any absolute Windows path in DSH messages to reveal it in Explorer (select the file or open the folder)."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:futongxu9-maker/dsh-path-reveal",
    "added": "2026-08-16"
@@ -2506,7 +2506,7 @@
     "en": "Local-first vision for the text-only DeepSeek Harness: a local VLM (LM Studio / Ollama / vLLM) produces structured JSON evidence (OCR / layout / semantics) at zero API cost, with image data never leaving the machine."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:gloryxpnv/dsh-tool-vision",
    "added": "2026-08-16"
@@ -2521,7 +2521,7 @@
     "en": "Read-only repo bootstrap scanner (repo_setup_scan tool): detects stack/tests/docs/git/db hints and recommends skill plugins, MCP servers and hygiene files (claude-code-setup counterpart)."
    },
    "npm": "dsh-repo-setup",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add dsh-repo-setup",
    "added": "2026-08-16"
@@ -2536,7 +2536,7 @@
     "en": "Net Access permission mode: keeps workspace-write protection while making curl.exe HTTPS work inside the sandbox (Windows)."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 5,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:Gumiho12345/dsh-plugin-net-access",
    "added": "2026-08-15"
@@ -2566,7 +2566,7 @@
     "en": "Expose MineRU document parsing tools to the model."
    },
    "npm": null,
-   "stars": 45,
+   "stars": 48,
    "createdAt": "2026-08-09",
    "install": "dsh plugin --profile web add github:HuanLinOTO/dsh-plugin-mineru",
    "added": "2026-08-13"
@@ -2611,7 +2611,7 @@
     "en": "Bounded, cell-addressed `doc_read`/`doc_write` for xlsx / pdf / docx / pptx / ipynb, plus an MCP server and CLI."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-cowork",
    "added": "2026-08-14"
@@ -2626,7 +2626,7 @@
     "en": "Typed, guarded container control: ps/logs/inspect/exec/start/stop and compose up/down with JSON output, project-aware targeting, and approval-gated destructive ops."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-docker",
    "added": "2026-08-14"
@@ -2641,7 +2641,7 @@
     "en": "Bring your existing Agent Skills (SKILL.md) library to DSH: discover skills across Claude/Codex/Cursor/Gemini paths, inject a progressive-disclosure index, and load bodies on demand."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-skillport",
    "added": "2026-08-14"
@@ -2656,7 +2656,7 @@
     "en": "Voice notes in, spoken answers out: dictate audio that becomes user messages (transcribe), have the agent read replies aloud (speak), local-first under ~/.dsh/voice."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-voice",
    "added": "2026-08-14"
@@ -2671,7 +2671,7 @@
     "en": "Xcode AI integration for DSH: 26 Xcode MCP tools (mcpbridge) + Apple platform skills + Xcode Intelligence-style persona (agent preset or global bundle)."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:jihongboo/dsh-apple-mode",
    "added": "2026-08-14"
@@ -2686,7 +2686,7 @@
     "en": "gavel-review: adversarial multi-perspective code review — parallel attack lenses, static sentinels, severity grading."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/adversarial-review",
    "added": "2026-08-17"
@@ -2701,7 +2701,7 @@
     "en": "Web Bridge: real-browser automation MCP server — navigation, click, form-fill, screenshots, JS execution, accessibility-snapshot driven."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/browser-automation",
    "added": "2026-08-17"
@@ -2731,7 +2731,7 @@
     "en": "Scans declared project build commands (Makefile, package.json scripts, justfile, deno tasks) and exposes them as agent tools."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/command-scout",
    "added": "2026-08-17"
@@ -2746,7 +2746,7 @@
     "en": "Desktop control: screen capture, pointer/keyboard injection, accessibility-tree actions, confirmation flow, emergency stop."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/computer-control",
    "added": "2026-08-17"
@@ -2761,7 +2761,7 @@
     "en": "Session context triage: prunes stale, repeated, failed and oversized context to save token budget."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/context-pruner",
    "added": "2026-08-17"
@@ -2776,7 +2776,7 @@
     "en": "doctrove: versioned library documentation retrieval MCP server, zero runtime dependencies."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/docs-retriever",
    "added": "2026-08-17"
@@ -2806,7 +2806,7 @@
     "en": "repogate: GitHub developer workbench MCP server — repos, issues, PRs, code review, search, zero runtime dependencies."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/github-mcp",
    "added": "2026-08-17"
@@ -2836,7 +2836,7 @@
     "en": "Destructive-command interception gate: parses and requires human approval for rm -rf / git reset --hard / push --force before execution (dsh plugin + standalone CLI)."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/safety-net",
    "added": "2026-08-17"
@@ -2851,7 +2851,7 @@
     "en": "Blocks agents from reading/writing sensitive files, masks leaked secrets in tool results, with an audit journal and safe sg_* inspection tools."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/secret-guard",
    "added": "2026-08-17"
@@ -2866,7 +2866,7 @@
     "en": "Steno: inline #tag shorthand expansion before send — multi-library, aliases, {{variables}}, recursion guards."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/snippet-expander",
    "added": "2026-08-17"
@@ -2896,7 +2896,7 @@
     "en": "Task-isolated git worktrees: auto-create, sync and tear down isolated workspaces per task."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/worktree-mgr",
    "added": "2026-08-17"
@@ -2941,7 +2941,7 @@
     "en": "Desktop and web automation: 📸 multi-screen screenshots, 🔍 Windows OCR (text + pixel coordinates), 🖱️ mouse click/drag, ⌨️ Chinese typing/keys, and 🪟 window activation, with battle-tested drawing in Paint (mouse acceleration compensation, canvas positioning, Bézier curves)."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:lak321/dsh-screen-agent",
    "added": "2026-08-16"
@@ -2956,7 +2956,7 @@
     "en": "Voice chat: 🎤 speech input (Web Speech, live editable interim results) plus 🔊 automatic/manual read-aloud replies (TTS), with voice, speed, pitch and recognition-language settings (Mandarin/Cantonese, etc.); fully client-side with zero keys, and Markdown is stripped before reading."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:lak321/dsh-voice-chat",
    "added": "2026-08-16"
@@ -2986,7 +2986,7 @@
     "en": "Undo/redo & rollback system for DSH: every config change is auto-snapshotted; undo/redo/restore to any version from the WebUI or the offline CLI/GUI tools (works even when DSH fails to boot)."
    },
    "npm": null,
-   "stars": 147,
+   "stars": 155,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:lire1131/dsh-undo-plugin",
    "added": "2026-08-14"
@@ -3001,7 +3001,7 @@
     "en": "Vision bridge for text-only models: paste an image, get structured JSON evidence (OCR, layout, semantics)."
    },
    "npm": "@liustack/modlens",
-   "stars": 3894,
+   "stars": 3961,
    "createdAt": "2026-02-22",
    "install": "dsh plugin --profile web add @liustack/modlens",
    "added": "2026-08-14"
@@ -3016,7 +3016,7 @@
     "en": "Web search bridge for text-only agents: ask the web or X, get structured JSON evidence (search, fetch, citations)."
    },
    "npm": "@liustack/modsearch",
-   "stars": 399,
+   "stars": 475,
    "createdAt": "2026-02-22",
    "install": "dsh plugin --profile web add @liustack/modsearch",
    "added": "2026-08-14"
@@ -3031,7 +3031,7 @@
     "en": "Indexes workspace symbols with Tree-sitter and provides lexical or optional embedding-assisted code search."
    },
    "npm": "dsh-code-intel",
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-code-intel",
    "added": "2026-08-14"
@@ -3046,7 +3046,7 @@
     "en": "Gives dsh the ability to generate images and videos through the grok2api API."
    },
    "npm": "dsh-plugin-grok2api-media-tool",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-plugin-grok2api-media-tool",
    "added": "2026-08-15"
@@ -3061,7 +3061,7 @@
     "en": "A read_graph tool backed by a codebase knowledge graph (CONTAINS / EXPORTS / IMPORTS / IMPORTS_SYMBOL relations)."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Luke-Yong/dsh-plugin-knowledge-graph",
    "added": "2026-08-14"
@@ -3076,7 +3076,7 @@
     "en": "Chrome sidebar extension that lets DSH operate your browser directly, no vision capabilities required."
    },
    "npm": null,
-   "stars": 576,
+   "stars": 644,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add github:Lum1104/dsh-browser",
    "added": "2026-08-14"
@@ -3091,7 +3091,7 @@
     "en": "Structured Git tools (status/diff/log/branch/stage/commit) with a destructive-command guard."
    },
    "npm": "dsh-tool-git",
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-tool-git",
    "added": "2026-08-14"
@@ -3106,7 +3106,7 @@
     "en": "Extends dsh-subagent-tools with a per-call cwd for subagents, shipped with the two in-process provider patches it requires."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:lynx-gt/dsh-subagent-cwd",
    "added": "2026-08-14"
@@ -3121,7 +3121,7 @@
     "en": "Per-call model, provider, persona, and toolFilter overrides for subagent delegation, with @preset: references and provider/model composite ids."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:lynx-gt/dsh-subagent-tools",
    "added": "2026-08-14"
@@ -3136,7 +3136,7 @@
     "en": "Academic assistant plugin."
    },
    "npm": null,
-   "stars": 39,
+   "stars": 44,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add github:lzszq/dsh-scholar",
    "added": "2026-08-13"
@@ -3181,7 +3181,7 @@
     "en": "Risk-gated approval automation: flash pre-classifies whether a write/command is irreversible — safe operations are auto-approved, dangerous ones are escalated to human approval (fail-safe)."
    },
    "npm": "dsh-approval-gate",
-   "stars": 36,
+   "stars": 66,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-approval-gate",
    "added": "2026-08-17"
@@ -3196,7 +3196,7 @@
     "en": "Full vision-capability bundle for DeepSeek Harness: a `vision_understand` tool (OpenAI-compatible vision APIs, free Zhipu GLM-4V-Flash by default) plus paste/drag-and-drop/button entry points for image recognition."
    },
    "npm": "dsh-vision-tools",
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-vision-tools",
    "added": "2026-08-17"
@@ -3211,7 +3211,7 @@
     "en": "Create and manage sandboxed JavaScript tools with a Monaco editor."
    },
    "npm": null,
-   "stars": 23,
+   "stars": 24,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-custom-tool",
    "added": "2026-08-13"
@@ -3226,7 +3226,7 @@
     "en": "Let the AI connect to databases and write SQL for you."
    },
    "npm": "@yejiming/dsh-data-agent",
-   "stars": 186,
+   "stars": 193,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add @yejiming/dsh-data-agent",
    "added": "2026-08-13"
@@ -3256,7 +3256,7 @@
     "en": "Safe math expression evaluator, zero-dependency recursive-descent parser."
    },
    "npm": null,
-   "stars": 9,
+   "stars": 8,
    "createdAt": "2026-08-05",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-calculator",
    "added": "2026-08-13"
@@ -3271,7 +3271,7 @@
     "en": "Parse/query/aggregate/convert CSV (RFC 4180) with a zero-dependency state-machine parser."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-07",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-csv",
    "added": "2026-08-13"
@@ -3286,7 +3286,7 @@
     "en": "Structured comparison and unified diffs for text/JSON/CSV/Markdown."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-09",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-diff",
    "added": "2026-08-13"
@@ -3316,7 +3316,7 @@
     "en": "JSON queries with a JMESPath subset."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-05",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-json",
    "added": "2026-08-13"
@@ -3331,7 +3331,7 @@
     "en": "HTML↔Markdown conversion, GFM table normalization, and TOC generation."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-markdown",
    "added": "2026-08-13"
@@ -3346,7 +3346,7 @@
     "en": "Test/extract/safe-replace/statically explain regexes without executing code."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-07",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-regex",
    "added": "2026-08-13"
@@ -3361,7 +3361,7 @@
     "en": "JSON Schema validation: validate/paths/explain/normalize."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-schema",
    "added": "2026-08-13"
@@ -3376,7 +3376,7 @@
     "en": "Descriptive statistics, percentiles, frequency distributions, and correlation."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-stat",
    "added": "2026-08-13"
@@ -3391,7 +3391,7 @@
     "en": "Strict ISO 8601 parsing, IANA timezone conversion, and UTC calendar arithmetic."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-tool-time",
    "added": "2026-08-13"
@@ -3406,7 +3406,7 @@
     "en": "Zero-dependency toolkit: time / encoding / json / calculator / csv / regex / markdown / diff / stat / schema — ten deterministic tools in one install."
    },
    "npm": null,
-   "stars": 28,
+   "stars": 29,
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-toolkit",
    "added": "2026-08-13"
@@ -3466,7 +3466,7 @@
     "en": "Manim CE based math animation plugin: 6 built-in templates (function/derivative/integral/geometry/polar/3D surface) plus a zero-code skill pack (math-animation / manim-codegen) - natural language to animated math videos, with AST static security validation."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:phelpsyacht/dshmath-manim",
    "added": "2026-08-17"
@@ -3481,7 +3481,7 @@
     "en": "Upload local images and files to your image host through PicGo's existing configuration (PicGo Cloud, GitHub, S3, COS, Qiniu, or any installed uploader plugin), via a `picgo_upload` tool and a `/picgo` command."
    },
    "npm": "@picgo/dsh-plugin",
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @picgo/dsh-plugin",
    "added": "2026-08-14"
@@ -3556,7 +3556,7 @@
     "en": "Novel writing assistant: chapter library, sentence-pattern analysis (9 categories / emotion curve / style fingerprint), style check, plot tracking, batch import and continuation writing, with per-tool Web UI toggles."
    },
    "npm": null,
-   "stars": 15,
+   "stars": 16,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:siweina/dsh-novel-writer",
    "added": "2026-08-16"
@@ -3571,7 +3571,7 @@
     "en": "Search built for agents: multilingual coverage across web, academic, code, shopping, finance, news, and encyclopedias."
    },
    "npm": "argo-search",
-   "stars": 118,
+   "stars": 122,
    "createdAt": "2026-07-18",
    "install": "dsh plugin --profile web add argo-search",
    "added": "2026-08-14"
@@ -3586,7 +3586,7 @@
     "en": "OpenMAIC: classrooms, slides, interactive widgets, and Socratic teaching."
    },
    "npm": null,
-   "stars": 51,
+   "stars": 68,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:THU-MAIC/dsh-openmaic",
    "added": "2026-08-13"
@@ -3601,7 +3601,7 @@
     "en": "Zero-config Exa web search provider for the ctx.web seam: anonymous MCP fallback without an API key, plus keyed REST search."
    },
    "npm": "@tonydua/dsh-web-search-exa",
-   "stars": 6,
+   "stars": 8,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @tonydua/dsh-web-search-exa",
    "added": "2026-08-14"
@@ -3616,7 +3616,7 @@
     "en": "Per-agent on-demand tool discovery and progressive schema disclosure."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add github:vibeinging/dsh-tool-search",
    "added": "2026-08-13"
@@ -3631,7 +3631,7 @@
     "en": "One-command backup of DSH user data: /backup, scheduled auto-backup, sha256 checksums and rotation."
    },
    "npm": "@xiaoyuyu6420/dsh-backup",
-   "stars": 17,
+   "stars": 19,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @xiaoyuyu6420/dsh-backup",
    "added": "2026-08-14"
@@ -3660,10 +3660,10 @@
     "zh": "DeepRead 精读助手：五种精读模式（quick / deep / map 知识地图（四档置信度）/ feynman 费曼读书法 / book 全书）、批量对比、预算预检与后台任务进度透明、微信公众号链接 / .pdf 文件（内置纯 JS 提取器）/ 粘贴文本，可选导出 MD / FreeMind 思维导图（XMind 可导入）/ 编辑风网页报告。",
     "en": "DeepRead: deep-reading assistant with five modes (quick / deep / knowledge map with four confidence levels / Feynman reading / whole book), batch comparison, budget preflight, and transparent background-job progress, from WeChat article links / local .pdf (built-in pure-JS extractor) / pasted text, with optional MD / FreeMind / styled HTML export."
    },
-   "npm": null,
-   "stars": 47,
+   "npm": "dsh-deepread",
+   "stars": 50,
    "createdAt": "2026-08-15",
-   "install": "dsh plugin --profile web add github:xiehuan123/dsh-deepread",
+   "install": "dsh plugin --profile web add dsh-deepread",
    "added": "2026-08-15"
   },
   {
@@ -3676,7 +3676,7 @@
     "en": "Academic writing guard: local-regex linter for revision-process residue, defensive writing and AI-writing tells (em-dash abuse, not-X-but-Y, LLM word spikes, rule of three), with incremental auto-audit on paper file writes (writing_audit + writing_rules)."
    },
    "npm": "dsh-plugin-writing-guard",
-   "stars": 33,
+   "stars": 37,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add dsh-plugin-writing-guard",
    "added": "2026-08-15"
@@ -3706,7 +3706,7 @@
     "en": "Trending-topics collector aggregating Baidu / Toutiao / Douyin / Weibo hot lists in one call (Weibo optional cookie), returning titles with heat values for content creators — tool: `sxs_news_hot`."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:yangyunsong023/dsh-sxs-news-collector",
    "added": "2026-08-16"
@@ -3736,7 +3736,7 @@
     "en": "Free vision for text-only agents: built-in keyless vision chain plus pixel tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots); paste an image to use it."
    },
    "npm": "dsh-vision-router",
-   "stars": 1077,
+   "stars": 1101,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-vision-router",
    "added": "2026-08-14"
@@ -3751,7 +3751,7 @@
     "en": "Export DSH conversations as Smartisan Notes-style PNGs, or create and update Markdown notes in a configured account-scoped workspace."
    },
    "npm": null,
-   "stars": 159,
+   "stars": 163,
    "createdAt": "2026-03-15",
    "install": "dsh plugin --profile web add github:zhaoolee/notes",
    "added": "2026-08-14"
@@ -3886,7 +3886,7 @@
     "en": "Skills for building websites on the Creght platform: CLI pull/push sync, page and component conventions, CMS, forms, auth, SEO, publishing and version rollback."
    },
    "npm": null,
-   "stars": 10,
+   "stars": 11,
    "createdAt": "2026-06-15",
    "install": "dsh plugin --profile web add github:creght-dev/skills",
    "added": "2026-08-14"
@@ -3901,7 +3901,7 @@
     "en": "Complete reverse-skill pack (85 SKILL.md files) as a DeepSeek Harness plugin: a skill router for reverse engineering, authorized penetration testing, and security research."
    },
    "npm": "@dhicoc/dsh-reverse-skill",
-   "stars": 120,
+   "stars": 137,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @dhicoc/dsh-reverse-skill",
    "added": "2026-08-15"
@@ -3916,7 +3916,7 @@
     "en": "Ponytail, lazy senior dev mode, for DSH: 6 skills (ponytail, ponytail-audit, ponytail-debt, ponytail-gain, ponytail-help, ponytail-review) adapted from DietrichGebert/ponytail (MIT)."
    },
    "npm": "dsh-ponytail-skills",
-   "stars": 10,
+   "stars": 11,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add dsh-ponytail-skills",
    "added": "2026-08-16"
@@ -3931,7 +3931,7 @@
     "en": "Matt Pocock's full promoted skill set (25 SKILL.md files: grilling, writing-for-agents, wait-what, TDD, code-review, wayfinder, ask-matt router and more) as a DeepSeek Harness plugin, adapted from mattpocock/skills (MIT)."
    },
    "npm": "mattpocock-skills-dsh",
-   "stars": 13,
+   "stars": 14,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add mattpocock-skills-dsh",
    "added": "2026-08-16"
@@ -3946,7 +3946,7 @@
     "en": "Matt Pocock's skills in Chinese for DSH: all 25 SKILL.md translated to natural Chinese (technical terms kept in English with glosses), adapted from mattpocock/skills (MIT)."
    },
    "npm": "mattpocock-skills-dsh-zh",
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add mattpocock-skills-dsh-zh",
    "added": "2026-08-16"
@@ -3976,7 +3976,7 @@
     "en": "Documentation workshop skill pack: pure-prompt doc generation — README, PR description, changelog, code review."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/docgen",
    "added": "2026-08-17"
@@ -3991,7 +3991,7 @@
     "en": "Praxis: bundled engineering-methodology skill library (Agent Skills) for dsh, served as a Cordis plugin via ctx.skills."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/skill-framework",
    "added": "2026-08-17"
@@ -4021,7 +4021,7 @@
     "en": "keel (龙骨): spec-driven development discipline skill pack — spec first, verify assumptions, prevent over-engineering."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/spec-driven",
    "added": "2026-08-17"
@@ -4036,7 +4036,7 @@
     "en": "Generates Function, MCP, Agent Skill, and offline test packages from existing code as an installable DSH bundle."
    },
    "npm": null,
-   "stars": 8,
+   "stars": 7,
    "createdAt": "2026-07-17",
    "install": "dsh plugin --profile web add github:leechen298/Code2Skill",
    "added": "2026-08-14"
@@ -4081,7 +4081,7 @@
     "en": "Claude Code-style permission rules engine: hard/deny/ask/allow tiers with a hard tier above full access, workspace-scoped rules, wildcard path protection, and a visual staged editor; rules persist in settings.yaml."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:940842546/dsh-permissions",
    "added": "2026-08-16"
@@ -4096,7 +4096,7 @@
     "en": "Usage and cost statistics with peak/off-peak pricing after the 2026-08-17 rate change, a main-UI summary panel, per-session breakdowns, and a usage heatmap."
    },
    "npm": null,
-   "stars": 10,
+   "stars": 9,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:940842546/dsh-usage-billing",
    "added": "2026-08-15"
@@ -4111,7 +4111,7 @@
     "en": "Claude Science-style research workbench: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics/pathogens/bioinformatics."
    },
    "npm": "dsh-science",
-   "stars": 33,
+   "stars": 39,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-science",
    "added": "2026-08-14"
@@ -4126,7 +4126,7 @@
     "en": "Pair a second model that passively reviews each turn and injects notes."
    },
    "npm": null,
-   "stars": 18,
+   "stars": 20,
    "createdAt": "2026-08-07",
    "install": "dsh plugin --profile web add github:btspoony/dsh-advisor",
    "added": "2026-08-13"
@@ -4186,7 +4186,7 @@
     "en": "Independent read-only acceptance layer: spawns a read-only verifier before each top-level turn closes and steers non-pass gaps back into the agent."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:EvilIrving/dsh-proof",
    "added": "2026-08-14"
@@ -4201,7 +4201,7 @@
     "en": "Embedded task management engine: decision-point protocol, idea capture wall, Linear-style issue store."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-09",
    "install": "dsh plugin --profile web add github:fakechris/dsh-track",
    "added": "2026-08-13"
@@ -4216,7 +4216,7 @@
     "en": "Condition-driven wakeup: durable file/command/http/process/webhook watches that wake the agent."
    },
    "npm": null,
-   "stars": 16,
+   "stars": 17,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:fuhefei/dsh-sentinel",
    "added": "2026-08-13"
@@ -4246,7 +4246,7 @@
     "en": "UltraCode-style multi-agent orchestration: a generatable, savable, governable, observable, resumable workflow layer."
    },
    "npm": null,
-   "stars": 116,
+   "stars": 122,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:icetomoyo/dsh_workflow",
    "added": "2026-08-13"
@@ -4261,7 +4261,7 @@
     "en": "Scheduled agents on a cron: run a prompt on a schedule and get the digest where you already are, with overlap/missed-run/timeout safety defaults."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-routines",
    "added": "2026-08-14"
@@ -4276,7 +4276,7 @@
     "en": "trailmap: disk-persisted execution planning — milestone state machines, dependency tagging, audit events, retrospective notes."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/file-planning",
    "added": "2026-08-17"
@@ -4306,7 +4306,7 @@
     "en": "Model-based permission approval: an approval-request answerer backed by a separate reviewer model."
    },
    "npm": "dsh-approval-llm",
-   "stars": 8,
+   "stars": 7,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-approval-llm",
    "added": "2026-08-14"
@@ -4321,7 +4321,7 @@
     "en": "Two-level model circuit breaker with failover: trip a model or a whole provider after repeated request failures and route the next request to a configured fallback."
    },
    "npm": "dsh-model-failover",
-   "stars": 3,
+   "stars": 4,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-model-failover",
    "added": "2026-08-14"
@@ -4336,7 +4336,7 @@
     "en": "Adds specification artifacts, skills, commands, goal-backed implementation, and task-progress context."
    },
    "npm": "dsh-specflow",
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-specflow",
    "added": "2026-08-14"
@@ -4351,7 +4351,7 @@
     "en": "AgentTeams multi-agent teams."
    },
    "npm": "@nanmicoder/dsh-agent-teams",
-   "stars": 1417,
+   "stars": 1617,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add @nanmicoder/dsh-agent-teams",
    "added": "2026-08-13"
@@ -4366,7 +4366,7 @@
     "en": "Adaptive deep-research orchestrator built on the official workflow engine."
    },
    "npm": null,
-   "stars": 21,
+   "stars": 23,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-deep-research",
    "added": "2026-08-13"
@@ -4381,7 +4381,7 @@
     "en": "Adversarial checkup → fix → review loop toolset."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-inspect",
    "added": "2026-08-13"
@@ -4411,7 +4411,7 @@
     "en": "Engineering-discipline guard: grill the requirements before the first edit, enforce red/green test evidence gates, and audit the delivery with a forked adversary (grill-requirements skill + tool-policy gates)."
    },
    "npm": "dsh-doublecheck",
-   "stars": 19,
+   "stars": 29,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-doublecheck",
    "added": "2026-08-14"
@@ -4486,7 +4486,7 @@
     "en": "Evidence-first, crash-resumable self-evolution engine for DSH: bounded Cordis candidate generation, one-shot real-Loader admission, Harbor evaluation, and an auditable journaled lineage."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 8,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:timwhitez/dsh-self-evolving",
    "added": "2026-08-16"
@@ -4501,7 +4501,7 @@
     "en": "Scheduled coding runs in fresh agent sessions with auditable history."
    },
    "npm": null,
-   "stars": 86,
+   "stars": 91,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:titanwings/dsh-automation",
    "added": "2026-08-13"
@@ -4531,7 +4531,7 @@
     "en": "Recurring loops: `/loop` command + loop tool + activity status bar."
    },
    "npm": "@vlln/dsh-loop",
-   "stars": 6,
+   "stars": 7,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add @vlln/dsh-loop",
    "added": "2026-08-13"
@@ -4561,7 +4561,7 @@
     "en": "Native Windows toast + taskbar flash for task done / approval / ask_user_question, Win10/11, npm install `dsh plugin --profile web add dsh-notify-win`."
    },
    "npm": "dsh-notify-win",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add dsh-notify-win",
    "added": "2026-08-16"
@@ -4591,7 +4591,7 @@
     "en": "Desktop notification reminders."
    },
    "npm": null,
-   "stars": 25,
+   "stars": 27,
    "createdAt": "2026-08-05",
    "install": "dsh plugin --profile web add github:bill9109/dsh-web-ui-notify",
    "added": "2026-08-13"
@@ -4606,7 +4606,7 @@
     "en": "DSH meets Kimi WebBridge."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-09",
    "install": "dsh plugin --profile web add github:bill9109/dsh-webbridge",
    "added": "2026-08-13"
@@ -4651,7 +4651,7 @@
     "en": "Bridge DSH agent sessions, tool calls, and approvals to the CodeIsland macOS notch panel over a Unix socket, with in-panel allow/deny."
    },
    "npm": null,
-   "stars": 9,
+   "stars": 8,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:cdxiaodong/dsh-island",
    "added": "2026-08-16"
@@ -4666,7 +4666,7 @@
     "en": "Notifications for four session states, with browser alerts and prompts."
    },
    "npm": "@dingyi222666/dsh-session-notification",
-   "stars": 17,
+   "stars": 21,
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add @dingyi222666/dsh-session-notification",
    "added": "2026-08-13"
@@ -4711,7 +4711,7 @@
     "en": "Bidirectional Lark/Feishu controller for DeepSeek Harness with project and session routing, interactive cards, approvals, attachments, and task controls."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:imetn/dsh-lark-bridge",
    "added": "2026-08-14"
@@ -4726,7 +4726,7 @@
     "en": "Chat with, monitor, and approve your DSH agents from WeChat via the iLink gateway: text both ways, session switching, progress digests, and numbered approval prompts."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-chatnode-wechat",
    "added": "2026-08-14"
@@ -4756,7 +4756,7 @@
     "en": "Lifecycle bells and a status dot: per-event chimes synthesized live with Web Audio (zero audio files), plus a breathing indicator for agent state."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:Laplace-bit/dsh-bell-notify",
    "added": "2026-08-16"
@@ -4771,7 +4771,7 @@
     "en": "Bridge to the Telegram Bot API: long polling, per-chat sessions, HTML formatting."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-04",
    "install": "dsh plugin --profile web add github:LoserFox/telegram",
    "added": "2026-08-13"
@@ -4786,7 +4786,7 @@
     "en": "Desktop notifications for turn completions, with per-outcome controls and keyword rules."
    },
    "npm": null,
-   "stars": 81,
+   "stars": 83,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-notification",
    "added": "2026-08-13"
@@ -4801,7 +4801,7 @@
     "en": "Open DSH workspace directories in VS Code directly from the web GUI."
    },
    "npm": null,
-   "stars": 54,
+   "stars": 53,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-open-in-vscode",
    "added": "2026-08-13"
@@ -4816,7 +4816,7 @@
     "en": "ACP profile plugin and standalone stdio server for using the full DSH agent from Zed and other ACP clients while sharing DSH credentials and sessions."
    },
    "npm": "@openma/deepseek-harness-acp",
-   "stars": 25,
+   "stars": 29,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @openma/deepseek-harness-acp",
    "added": "2026-08-14"
@@ -4891,7 +4891,7 @@
     "en": "Windows notifications, zero dependencies."
    },
    "npm": "dsh-notify-windows",
-   "stars": 6,
+   "stars": 7,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-notify-windows",
    "added": "2026-08-14"
@@ -4906,7 +4906,7 @@
     "en": "Role-based LLM retry & fallback strategies."
    },
    "npm": null,
-   "stars": 20,
+   "stars": 19,
    "createdAt": "2026-08-07",
    "install": "dsh plugin --profile web add github:btspoony/dsh-llm-fallbacks",
    "added": "2026-08-13"
@@ -4921,7 +4921,7 @@
     "en": "Vision bridge: view_image tool over any OpenAI-compatible VLM."
    },
    "npm": null,
-   "stars": 35,
+   "stars": 33,
    "createdAt": "2026-08-05",
    "install": "dsh plugin --profile web add github:dsh-external/dsh-vision",
    "added": "2026-08-14"
@@ -4951,7 +4951,7 @@
     "en": "Connect ChatGPT OAuth and OpenAI Codex models to DeepSeek Harness, with opt-in search and image tools."
    },
    "npm": "dsh-codex-connect",
-   "stars": 89,
+   "stars": 103,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-codex-connect",
    "added": "2026-08-14"
@@ -4966,7 +4966,7 @@
     "en": "Model catalog auto-discovery: fetches model listings, pricing and capabilities from OpenAI-compatible hosts into ready-to-use config."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/model-catalog",
    "added": "2026-08-17"
@@ -4981,7 +4981,7 @@
     "en": "Import local Codex, Grok, Claude, OpenCode, and CC Switch logins into DSH; pick sources and enable models in Settings."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:kam74515-boop/dsh-everything-oauth",
    "added": "2026-08-14"
@@ -5011,7 +5011,7 @@
     "en": "Reuses the Codex CLI ChatGPT login as an `openai-codex` LLM route and adds GPT Auth controls to DSH Web settings."
    },
    "npm": "dsh-codex-auth",
-   "stars": 14,
+   "stars": 13,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-codex-auth",
    "added": "2026-08-14"
@@ -5041,7 +5041,7 @@
     "en": "Redacts supported secret patterns from the `session-telemetry/record` export copy before configured telemetry backends receive it."
    },
    "npm": "dsh-telemetry-redactor",
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-telemetry-redactor",
    "added": "2026-08-14"
@@ -5056,7 +5056,7 @@
     "en": "Writes local JSONL summaries of per-turn tool counts and coarse verification signals without storing prompts, tool arguments, or result text."
    },
    "npm": "dsh-verification-receipt",
-   "stars": 5,
+   "stars": 4,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-verification-receipt",
    "added": "2026-08-14"
@@ -5071,7 +5071,7 @@
     "en": "One-click portable Windows launcher with CN mirror fallback."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:15828148/dsh-portable-launcher",
    "added": "2026-08-14"
@@ -5101,7 +5101,7 @@
     "en": "Turn-scoped “Allow for this task” approvals: automatically allow matching `danger-full-access` escalations only for the current task, then expire."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:arrow949/dsh-turn-approval",
    "added": "2026-08-14"
@@ -5146,7 +5146,7 @@
     "en": "Select browser elements directly during Vibe Coding and send structured visual feedback to the DeepSeek Harness Agent."
    },
    "npm": null,
-   "stars": 11,
+   "stars": 13,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:BrambleXu/dsh-annotate",
    "added": "2026-08-14"
@@ -5176,7 +5176,7 @@
     "en": "Native interactive Git diff review for DeepSeek Harness with structured annotations sent back to the current Agent session."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:BrambleXu/dsh-revdiff",
    "added": "2026-08-14"
@@ -5191,7 +5191,7 @@
     "en": "Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:cdxiaodong/dsh-guardian",
    "added": "2026-08-16"
@@ -5236,7 +5236,7 @@
     "en": "Per-process tool-call statistics: a `tool_stats` tool reporting per-tool call counts, error counts, and average durations."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:disyli/dsh-tool-call-stats",
    "added": "2026-08-14"
@@ -5266,7 +5266,7 @@
     "en": "/repro exports a minimal, secret-scrubbed, replayable problem bundle: the session log, failed commands, and Git diff."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:EvilIrving/dsh-repro",
    "added": "2026-08-14"
@@ -5311,7 +5311,7 @@
     "en": "Run the dsh runtime on Multica."
    },
    "npm": null,
-   "stars": 62,
+   "stars": 65,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add github:forrestchang/dsh-multica-runtime",
    "added": "2026-08-14"
@@ -5341,7 +5341,7 @@
     "en": "Community distribution: TUI, desktop, and Web UI as one bundle with layered installation."
    },
    "npm": null,
-   "stars": 304,
+   "stars": 313,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add github:hust-open-atom-club/oh-dsh",
    "added": "2026-08-14"
@@ -5356,7 +5356,7 @@
     "en": "MCP server manager with OAuth or static-token auth and a Settings page."
    },
    "npm": null,
-   "stars": 13,
+   "stars": 16,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:hyqhyq3/dsh-mcp-manager",
    "added": "2026-08-14"
@@ -5371,7 +5371,7 @@
     "en": "Enforced pain-point gate: after two non-converged experiments it injects the three questions, denies non-investigative tool calls until answered, and blocks same-direction retries."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:ICCuse/dsh-pain-point-check",
    "added": "2026-08-14"
@@ -5386,7 +5386,7 @@
     "en": "Manual approval mode (\"Manual Mode\" / \"Ask Mode\")."
    },
    "npm": "dsh-tool-approval",
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add dsh-tool-approval",
    "added": "2026-08-13"
@@ -5416,7 +5416,7 @@
     "en": "The `dsh pm` plugin manager: multi-source search (awesome list + GitHub + npm), install/remove/update per profile, and a doctor audit of manifests, bundle patches, and version drift."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-plugin-manager",
    "added": "2026-08-14"
@@ -5446,7 +5446,7 @@
     "en": "The model switch for DSH: point it at any OpenAI-compatible endpoint, with curated free/cheap DeepSeek provider presets and automatic fallback when a free tier rate-limits you."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-polyglot",
    "added": "2026-08-14"
@@ -5461,7 +5461,7 @@
     "en": "Take control of your tmux panes: list/send-keys/capture, run long jobs in a pane with watch mode, and approval-gated destructive commands."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Jesse-njx/dsh-tmuxctl",
    "added": "2026-08-14"
@@ -5491,7 +5491,7 @@
     "en": "LAN access for the Web GUI: 0.0.0.0 bind plus a crypto.randomUUID polyfill for non-secure (LAN HTTP) contexts."
    },
    "npm": "dsh-lan-access",
-   "stars": 12,
+   "stars": 14,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-lan-access",
    "added": "2026-08-14"
@@ -5506,7 +5506,7 @@
     "en": "GitHub Action running DSH for PR review, CI diagnosis and trusted fixes."
    },
    "npm": null,
-   "stars": 15,
+   "stars": 16,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Lixiaoyiao/deepseek-harness-action",
    "added": "2026-08-14"
@@ -5521,7 +5521,7 @@
     "en": "Adds approval-gated Git status, diff, log, commit, branch, and optional checkpoint tools."
    },
    "npm": "dsh-gitflow",
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-gitflow",
    "added": "2026-08-14"
@@ -5536,7 +5536,7 @@
     "en": "Adds dangerous-operation policy checks, output redaction, and a security-review workflow."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:lonelymoon87/dsh-guardian",
    "added": "2026-08-14"
@@ -5551,7 +5551,7 @@
     "en": "Pin Git commits to the environment's own author identity; env-var injection overrides all `git config` settings."
    },
    "npm": null,
-   "stars": 7,
+   "stars": 6,
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add github:LoserFox/dsh-git-identity",
    "added": "2026-08-13"
@@ -5581,7 +5581,7 @@
     "en": "Local security audit: config, plugin origins, sessions, network exposure — read-only redacted risk report."
    },
    "npm": null,
-   "stars": 14,
+   "stars": 15,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-security-audit",
    "added": "2026-08-13"
@@ -5596,7 +5596,7 @@
     "en": "Frame-level scan diagnostics for session files (torn/corrupt/empty detection)."
    },
    "npm": null,
-   "stars": 9,
+   "stars": 8,
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-session-health",
    "added": "2026-08-13"
@@ -5611,7 +5611,7 @@
     "en": "An MC-Fabric-style hook processor."
    },
    "npm": null,
-   "stars": 19,
+   "stars": 18,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add github:omdsh-dev/fabric",
    "added": "2026-08-13"
@@ -5626,7 +5626,7 @@
     "en": "Plugin template repo (based on the official turtle-ui repo)."
    },
    "npm": null,
-   "stars": 12,
+   "stars": 14,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add github:omdsh-dev/plugin-template",
    "added": "2026-08-13"
@@ -5641,7 +5641,7 @@
     "en": "Support for the microsandbox backend."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add github:omdsh-dev/sandbox-micro",
    "added": "2026-08-13"
@@ -5656,7 +5656,7 @@
     "en": "Microsoft cross-platform sandbox support."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-04",
    "install": "dsh plugin --profile web add github:omdsh-dev/sandbox-mxc",
    "added": "2026-08-13"
@@ -5671,7 +5671,7 @@
     "en": "Support for the nono sandbox backend."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:omdsh-dev/sandbox-nono",
    "added": "2026-08-13"
@@ -5686,7 +5686,7 @@
     "en": "Read-only runtime management panel for the official DSH MCP client: connection status, registered tools, errors, and reconnect counts through the /mcp command and a Settings tab, with sanitized display and enable/disable patch suggestions."
    },
    "npm": "dsh-mcp-panel",
-   "stars": 52,
+   "stars": 57,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-mcp-panel",
    "added": "2026-08-14"
@@ -5731,7 +5731,7 @@
     "en": "Login gateway for the DSH web UI: password door with first-run setup, bcrypt + at-rest encryption (AES-256-GCM/HMAC), brute-force lockout, audit log, TLS 1.2+ with 80→443 redirect, CSRF, anti-framing."
    },
    "npm": "dsh-passwords",
-   "stars": 46,
+   "stars": 55,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-passwords",
    "added": "2026-08-14"
@@ -5761,7 +5761,7 @@
     "en": "Structured test runner tool: auto-detects Vitest/Jest/pytest/node:test and parses failures."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:suimi8/dsh-test-runner",
    "added": "2026-08-14"
@@ -5791,7 +5791,7 @@
     "en": "Agent-tree token budget management."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-09",
    "install": "dsh plugin --profile web add github:vibeinging/dsh-agent-budget",
    "added": "2026-08-13"
@@ -5806,7 +5806,7 @@
     "en": "Telemetry backend exporting turns, model steps, and tool calls to yiTrace."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add github:vibeinging/dsh-trace",
    "added": "2026-08-13"
@@ -5836,7 +5836,7 @@
     "en": "Self-evolution: the agent hot-mounts/removes persistent plugins on itself mid-session."
    },
    "npm": null,
-   "stars": 13,
+   "stars": 11,
    "createdAt": "2026-08-06",
    "install": "dsh plugin --profile web add github:william-jin-cmu/dsh-evolve",
    "added": "2026-08-13"
@@ -5851,7 +5851,7 @@
     "en": "Incremental diff reviewer with a Web UI panel and feedback injection into the agent."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:wuxiangru915/dsh-review-loop",
    "added": "2026-08-14"
@@ -5866,7 +5866,7 @@
     "en": "Remote access & authentication for the DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and an account-management settings page."
    },
    "npm": "@xgone/dsh-remote",
-   "stars": 55,
+   "stars": 63,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add @xgone/dsh-remote",
    "added": "2026-08-17"
@@ -5881,7 +5881,7 @@
     "en": "DSH self-updater in the settings page: one-click check/pull (`git pull --ff-only`), auto background checks, version diff and changelog preview with a red-dot reminder."
    },
    "npm": null,
-   "stars": 6,
+   "stars": 5,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:xingyingyuzhui/dsh-updater-ui",
    "added": "2026-08-14"
@@ -5896,7 +5896,7 @@
     "en": "Per-model token cost tracking with configurable cache-hit/miss, output and peak-window pricing, a live session cost bar, and unconfigured-model flags."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:yflmq001/dsh-cost-tracker",
    "added": "2026-08-14"
@@ -5941,7 +5941,7 @@
     "en": "Short-video sidebar: native player, series navigation, precise history replay."
    },
    "npm": null,
-   "stars": 6,
+   "stars": 5,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:AnacondaKC/dsh-douyin",
    "added": "2026-08-13"
@@ -5971,7 +5971,7 @@
     "en": "Self-contained browser runtime: Playwright (chromium) + OpenCLI as plugin-local dependencies (global reuse fallback), exposes a `browser` service and 9 interactive browser tools."
    },
    "npm": "@anweat/dsh-browser",
-   "stars": 16,
+   "stars": 21,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @anweat/dsh-browser",
    "added": "2026-08-14"
@@ -5986,7 +5986,7 @@
     "en": "Restart DSH: configurable restart method (Node native / legacy PowerShell), post-restart continue prompt, optional watchdog auto-relaunch."
    },
    "npm": "dsh-restart",
-   "stars": 8,
+   "stars": 7,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-restart",
    "added": "2026-08-14"
@@ -6001,7 +6001,7 @@
     "en": "Browser Web Speech API voice input: zero server, zero keys, zero model downloads (Edge=Azure, Chrome=Google speech)."
    },
    "npm": "dsh-voice-webspeech",
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-voice-webspeech",
    "added": "2026-08-14"
@@ -6016,7 +6016,7 @@
     "en": "Persistent enhanced web search: multi-engine routing (DeepSeek/Exa/DDG/Bing/Jina + GitHub/Bilibili/YouTube/V2EX/Xiaohongshu/Twitter/Reddit/RSS), SQLite+LRU cache, userscript-style extraction, Playwright rendering."
    },
    "npm": "dsh-web-search-pro",
-   "stars": 61,
+   "stars": 64,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-web-search-pro",
    "added": "2026-08-14"
@@ -6031,7 +6031,7 @@
     "en": "NES emulator built on jsnes: play in a popup window with a hotkey toggle, agents can load ROMs via the `nes_play` tool, with save/load and screenshots."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:beancookie/dsh-plugin-nintendo",
    "added": "2026-08-17"
@@ -6061,7 +6061,7 @@
     "en": "Desktop whale pet with live session state."
    },
    "npm": null,
-   "stars": 13,
+   "stars": 12,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:FlytoMAYDAY80/dsh-pet",
    "added": "2026-08-14"
@@ -6091,7 +6091,7 @@
     "en": "Pops up a mini-game menu (wordle, match-3, extensible) while the model generates."
    },
    "npm": null,
-   "stars": 9,
+   "stars": 8,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:HuanLinOTO/dsh-plugin-d399",
    "added": "2026-08-13"
@@ -6106,7 +6106,7 @@
     "en": "Multi-character Galgame conversation view with separate character and reply-model selection, per-character affection, memory, dialogue history, and CG galleries, plus responses informed by task events across Harness sessions."
    },
    "npm": null,
-   "stars": 21,
+   "stars": 24,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:JAdpp/dsh-whale-galgame",
    "added": "2026-08-16"
@@ -6121,7 +6121,7 @@
     "en": "Side-panel arcade: 18 offline mini-games to play while the model thinks."
    },
    "npm": null,
-   "stars": 28,
+   "stars": 33,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:lhh010/dsh-minigames",
    "added": "2026-08-13"
@@ -6166,7 +6166,7 @@
     "en": "Parody ads in 2005-Chinese-web style: sidebar banners, in-chat feeds, corner popups, and a close button whose hit area is smaller than it looks. All fictional."
    },
    "npm": null,
-   "stars": 611,
+   "stars": 623,
    "createdAt": "2026-08-09",
    "install": "dsh plugin --profile web add github:Nagi-ovo/dsh-ads",
    "added": "2026-08-13"
@@ -6181,7 +6181,7 @@
     "en": "Auto chess: human vs AI, or AI vs AI."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 2,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-auto-chess",
    "added": "2026-08-13"
@@ -6196,7 +6196,7 @@
     "en": "Play Gomoku against the AI, or let two AIs battle it out."
    },
    "npm": "@yejiming/dsh-gomoku",
-   "stars": 21,
+   "stars": 24,
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add @yejiming/dsh-gomoku",
    "added": "2026-08-13"
@@ -6211,7 +6211,7 @@
     "en": "PDF toolbox: extract text, metadata and page ranges via pdfjs-dist."
    },
    "npm": "dsh-pdf",
-   "stars": 8,
+   "stars": 7,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-pdf",
    "added": "2026-08-14"
@@ -6226,7 +6226,7 @@
     "en": "Weather tool via Open-Meteo (free, no API key)."
    },
    "npm": "dsh-weather",
-   "stars": 8,
+   "stars": 7,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-weather",
    "added": "2026-08-14"
@@ -6241,7 +6241,7 @@
     "en": "Desktop pet (QQ-pet style): floats in the corner, draggable, feedable, playable."
    },
    "npm": "whale-girl",
-   "stars": 314,
+   "stars": 322,
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add whale-girl",
    "added": "2026-08-13"
