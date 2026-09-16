@@ -184,8 +184,8 @@
   "checkedAt": "2026-08-14"
  },
  "https://github.com/Braidy-Wu/dsh-conversation-minimap": {
-  "npm": null,
-  "checkedAt": "2026-08-17"
+  "npm": "dsh-conversation-minimap",
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/BrambleXu/dsh-annotate": {
   "npm": null,
@@ -661,31 +661,31 @@
  },
  "https://github.com/JohnXu22786/adversarial-review": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/browser-automation": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/codegraph": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/command-scout": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/computer-control": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/context-pruner": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/docgen": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/docs-retriever": {
   "npm": null,
@@ -701,7 +701,7 @@
  },
  "https://github.com/JohnXu22786/github-mcp": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/hooks-adapter": {
   "npm": null,
@@ -713,7 +713,7 @@
  },
  "https://github.com/JohnXu22786/model-catalog": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/notifier": {
   "npm": null,
@@ -729,7 +729,7 @@
  },
  "https://github.com/JohnXu22786/secret-guard": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/session-titler": {
   "npm": null,
@@ -749,7 +749,7 @@
  },
  "https://github.com/JohnXu22786/spec-driven": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/JohnXu22786/statusline": {
   "npm": null,
@@ -869,7 +869,7 @@
  },
  "https://github.com/lkdx0220/Genshin-odette-skin-dsh": {
   "npm": null,
-  "checkedAt": "2026-08-17"
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/lonelymoon87/dsh-code-intel": {
   "npm": "dsh-code-intel",
@@ -1432,8 +1432,8 @@
   "checkedAt": "2026-08-14"
  },
  "https://github.com/tianxia--/dsh-llm-local-token": {
-  "npm": null,
-  "checkedAt": "2026-08-17"
+  "npm": "dsh-llm-local-token",
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/timwhitez/dsh-self-evolving": {
   "npm": null,
@@ -1588,8 +1588,8 @@
   "checkedAt": "2026-09-13"
  },
  "https://github.com/yoli-mi/dsh-client-ui-custom": {
-  "npm": null,
-  "checkedAt": "2026-08-17"
+  "npm": "@ha-na-bi/dsh-client-ui-custom",
+  "checkedAt": "2026-09-16"
  },
  "https://github.com/ysr666/dsh-vision-router": {
   "npm": "dsh-vision-router",
