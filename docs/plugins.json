@@ -646,7 +646,7 @@
     "en": "DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation."
    },
    "npm": null,
-   "stars": 81,
+   "stars": 86,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Noob-stupid/dsh-plugin-hub",
    "added": "2026-08-20"
@@ -1666,7 +1666,7 @@
     "en": "In-bubble inline edit and recall for user messages in DSH Web: lazy commit, seamless replacement, a version pager, draft auto-backup, and trilingual i18n."
    },
    "npm": null,
-   "stars": 105,
+   "stars": 115,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:Renzic-Stone/DSH-EasyRewrite",
    "added": "2026-08-20"
@@ -3495,10 +3495,10 @@
     "zh": "豆包音质对话内朗读：每条 AI 回复 🔊 点读/自动朗读（默认关、状态持久化），音色由本地 Omi 引擎合成（豆包 seed-tts），BYOK（Key 只留在本机 Keychain，插件零 Key）。",
     "en": "In-conversation read-aloud with Doubao-quality voices: every AI reply gets a 🔊 tap-to-read / auto-read toggle (off by default, state persisted), with voices synthesized by the local Omi engine (Doubao seed-tts); BYOK — keys stay in your local Keychain, the plugin stores none."
    },
-   "npm": null,
+   "npm": "dsh-omi-voice",
    "stars": 73,
    "createdAt": "2026-08-18",
-   "install": "dsh plugin --profile web add github:PolinniZhong/dsh-omi-voice",
+   "install": "dsh plugin --profile web add dsh-omi-voice",
    "added": "2026-08-18"
   },
   {
@@ -4065,10 +4065,10 @@
     "zh": "DSH 技能生命周期管理插件：全局 / 工作区 / 会话三层模型下查看、编辑、导入、启用/停用技能，设置页与对话页统一管理界面，支持跨层全文搜索与分页。",
     "en": "Skill lifecycle manager for DSH: list / edit / import / enable / disable skills under a global-workspace-session three-layer model, with unified settings & conversation UI, cross-layer search and pagination."
    },
-   "npm": null,
+   "npm": "@yanglaofish/dsh-skill-manager",
    "stars": 1,
    "createdAt": "2026-08-18",
-   "install": "dsh plugin --profile web add github:yanglaofish/dsh-skill-manager",
+   "install": "dsh plugin --profile web add @yanglaofish/dsh-skill-manager",
    "added": "2026-08-18"
   },
   {
@@ -5716,7 +5716,7 @@
     "en": "Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review."
    },
    "npm": null,
-   "stars": 4,
+   "stars": 3,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:sandbaseai/dsh-plugin-store",
    "added": "2026-08-20"

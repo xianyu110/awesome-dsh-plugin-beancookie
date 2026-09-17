@@ -937,7 +937,7 @@
  },
  "https://github.com/maddogfinance/dsh-trading": {
   "npm": null,
-  "checkedAt": "2026-08-18"
+  "checkedAt": "2026-09-17"
  },
  "https://github.com/MAXeaglet/dsh-bash-terminal": {
   "npm": "dsh-bash-terminal",
@@ -1289,7 +1289,7 @@
  },
  "https://github.com/PGZXB/dsh-feishu": {
   "npm": null,
-  "checkedAt": "2026-08-18"
+  "checkedAt": "2026-09-17"
  },
  "https://github.com/Phant0Meow/dsh-memory-meow": {
   "npm": null,
@@ -1308,8 +1308,8 @@
   "checkedAt": "2026-09-14"
  },
  "https://github.com/PolinniZhong/dsh-omi-voice": {
-  "npm": null,
-  "checkedAt": "2026-08-18"
+  "npm": "dsh-omi-voice",
+  "checkedAt": "2026-09-17"
  },
  "https://github.com/qyw233/dsh-deeplink": {
   "npm": null,
@@ -1568,8 +1568,8 @@
   "checkedAt": "2026-08-14"
  },
  "https://github.com/yanglaofish/dsh-skill-manager": {
-  "npm": null,
-  "checkedAt": "2026-08-18"
+  "npm": "@yanglaofish/dsh-skill-manager",
+  "checkedAt": "2026-09-17"
  },
  "https://github.com/yangyunsong023/dsh-sxs-anti-bot-http": {
   "npm": null,
