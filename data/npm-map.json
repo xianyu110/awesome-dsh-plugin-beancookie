@@ -237,7 +237,7 @@
  },
  "https://github.com/CanglongCl/dsh-web-review": {
   "npm": null,
-  "checkedAt": "2026-08-14"
+  "checkedAt": "2026-09-18"
  },
  "https://github.com/ccch1mneyyy/dsh-TUI": {
   "npm": "@deepseek-harness-tui/dsh-tui",
@@ -1264,8 +1264,8 @@
   "checkedAt": "2026-08-19"
  },
  "https://github.com/PerryLink/dsh-session-pin": {
-  "npm": null,
-  "checkedAt": "2026-08-19"
+  "npm": "dsh-session-pin",
+  "checkedAt": "2026-09-18"
  },
  "https://github.com/PerryLink/dsh-session-sync": {
   "npm": "dsh-session-sync",

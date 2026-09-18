@@ -795,10 +795,10 @@
     "zh": "置顶会话与工作区到侧边栏：逐置顶行配色、看板/标签/已存视图、健康摘要与 /goto。",
     "en": "Pin sessions and workspaces to the sidebar: per-pin row colors, board/tag/saved views, health summaries, and /goto."
    },
-   "npm": null,
+   "npm": "dsh-session-pin",
    "stars": 8,
    "createdAt": "2026-08-13",
-   "install": "dsh plugin --profile web add github:PerryLink/dsh-session-pin",
+   "install": "dsh plugin --profile web add dsh-session-pin",
    "added": "2026-08-19"
   },
   {
@@ -4546,7 +4546,7 @@
     "en": "Leaderless flat agent teams: cross-window structured task dispatch (state machine + event stream + offline resume), a read-only progress recorder, and a two-level web dashboard."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 1,
    "createdAt": "2026-08-21",
    "install": "dsh plugin --profile web add github:whateverboy2333/dsh-flat-teams",
    "added": "2026-08-21"
