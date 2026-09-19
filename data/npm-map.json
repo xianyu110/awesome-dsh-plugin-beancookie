@@ -984,12 +984,12 @@
   "checkedAt": "2026-08-14"
  },
  "https://github.com/Nagi-ovo/dsh-ads": {
-  "npm": null,
-  "checkedAt": "2026-08-14"
+  "npm": "@nagi-ovo/dsh-ads",
+  "checkedAt": "2026-09-19"
  },
  "https://github.com/Nagi-ovo/dsh-visualize": {
-  "npm": null,
-  "checkedAt": "2026-08-14"
+  "npm": "@nagi-ovo/dsh-visualize",
+  "checkedAt": "2026-09-19"
  },
  "https://github.com/NanmiCoder/dsh-agent-teams": {
   "npm": "@nanmicoder/dsh-agent-teams",
@@ -1000,8 +1000,8 @@
   "checkedAt": "2026-08-14"
  },
  "https://github.com/Noob-stupid/dsh-plugin-hub": {
-  "npm": null,
-  "checkedAt": "2026-08-20"
+  "npm": "@noob-stupid/dsh-plugin-console",
+  "checkedAt": "2026-09-19"
  },
  "https://github.com/nowledge-co/nowledge-mem-deepseek-harness": {
   "npm": null,
@@ -1320,8 +1320,8 @@
   "checkedAt": "2026-08-14"
  },
  "https://github.com/Renzic-Stone/DSH-EasyRewrite": {
-  "npm": null,
-  "checkedAt": "2026-08-20"
+  "npm": "dsh-easyrewrite",
+  "checkedAt": "2026-09-19"
  },
  "https://github.com/RevolutionLA/dsh-dream-skin": {
   "npm": "dsh-dream-skin",
