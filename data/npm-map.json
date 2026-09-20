@@ -200,8 +200,8 @@
   "checkedAt": "2026-08-14"
  },
  "https://github.com/Breeze136/dsh-kb-rag": {
-  "npm": null,
-  "checkedAt": "2026-08-17"
+  "npm": "dsh-kb-rag",
+  "checkedAt": "2026-09-20"
  },
  "https://github.com/Breeze136/kb-rag": {
   "npm": null,
