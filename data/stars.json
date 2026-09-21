@@ -2,308 +2,308 @@
  "https://github.com/030611/dsh-telemetry-redactor": {
   "stars": 2,
   "createdAt": "2026-08-13",
-  "etag": "W/\"f29b861158fa6b404ae2ead4b731db795c0ef88b58704b3970eb562949931ca5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"14b1797045216313a9697d413d263b3032c6b1b4834928b5913694a76b28a7a1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/030611/dsh-verification-receipt": {
   "stars": 4,
   "createdAt": "2026-08-13",
-  "etag": "W/\"3795721eb5f87837113139924d4846b71c5c07b4a700306dc49f9f7c1c4d78b0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"01886d5b42b4dffec8f2637b4aef6f49515ada74e998c354f0d6988c7de09e00\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/0xsline/dsh-spotlight": {
   "stars": 22,
   "createdAt": "2026-08-13",
-  "etag": "W/\"fd92f3481252becb6963251c5388f50a1f789d00e424ae0563f4885387526cdb\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"be6d1ab1fab6bb7dfb99e58df60051fd1df6c065179c4f4d5920e78477dafd1e\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/15828148/dsh-portable-launcher": {
   "stars": 3,
   "createdAt": "2026-08-13",
-  "etag": "W/\"2e5846761819150b7a72d90a2f42bdd6a99242881571839cf8c6aba5166cb113\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"20ca4c0e332f3f4c4f2f204161b56d58f008301c529ee099ff96059dfcf3d2bc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/1na-ko/dsh-hdc-bridge": {
-  "stars": 16,
+  "stars": 18,
   "createdAt": "2026-08-13",
-  "etag": "W/\"25f3ac0a64a9242557eb15c8f6d0dedc82aa683f8acbfd6fe7af506f7eb7e4f9\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"eb8e615396b3db8322020b015e0a15e8a9cc60745500d2890cdc7f9b5e5dafa2\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/263311487-ux/dsh-verify": {
-  "stars": 3,
+  "stars": 2,
   "createdAt": "2026-08-16",
-  "etag": "W/\"9bc1eb4df0b9d1339b278b5ed75c2a586a943e97c7fa5f658f41cb11bf2b8223\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e63c9a424b9d27016976d87456df0755edc325387c4b6295be7e8237c03d06ef\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/940842546/dsh-permissions": {
   "stars": 1,
   "createdAt": "2026-08-15",
-  "etag": "W/\"63a5514de49925bba94b2582a870d12dca9755e33f87a3790188137ed74db97a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d0abe5c0a7e3ac6b838e558744a8435172db59ddfdc6a8c82a69d332fea15196\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/940842546/dsh-usage-billing": {
   "stars": 9,
   "createdAt": "2026-08-14",
-  "etag": "W/\"7006eccb1e22166cce123603625404b69dae71e9048766468bfce1d18cfc3025\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"0967ead45067c1cfeefb4f1f4eff8673694dd73bf4a88c1b076eaacd5445c7cb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/a903067276-rgb/dsh-file-mentions": {
-  "stars": 10,
+  "stars": 14,
   "createdAt": "2026-08-14",
-  "etag": "W/\"ff1fbd63aa5ea8af0094301bdeef85e9e5c4b9dfa0504182371cddc2296cb89b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"a7ad74882e1d8580edbf8c25082b2b219da85c6936ca316da7252eff698f337a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/a903067276-rgb/dsh-hud": {
   "stars": 10,
   "createdAt": "2026-08-14",
-  "etag": "W/\"03332a4c9e5b9b2573a8326a21f3e98ce5613d1a9e669afd4e53b4344392f1e7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e62944f3eb5eb5aaca227ea7ad5474cccc76c069cfe48cf888f8e2c50efd6a84\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/acefun29/dsh-file-mount": {
-  "stars": 15,
+  "stars": 16,
   "createdAt": "2026-08-14",
-  "etag": "W/\"0cba85f69084681476fd520032a428cc0b42ac2be7735ad391ba92f47f180c1e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"1b7c883ebbf0ddb65e55b19bea22cd5ec1c60f25136c9383ff17fd2cd5d60efb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/AKIRACOD/dsh-drag-and-drop": {
   "stars": 6,
   "createdAt": "2026-08-14",
-  "etag": "W/\"34ac19dcd1a263f0dd2a75615627473e1bf17e22aad79d8ce6a3da2363a5ee75\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"0f32c5de1d1dd4d5ed398b3fa0e271892ae96ac4e125ff32665e668376440811\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/alingalingling/ui-status-label": {
-  "stars": 44,
+  "stars": 47,
   "createdAt": "2026-08-11",
-  "etag": "W/\"0a2f2ca1e8f06c4edaf9c15510cfa8c01293eb72b13fc390c5ab3303c1cf408a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2262456e5d6c5ec57f11b572b3cde19f4909537cc867f7ec4f4191018c03b2e9\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/AlloyPlane/dsh-eye-vision": {
   "stars": 1,
   "createdAt": "2026-08-17",
-  "etag": "W/\"b47befb15e6749584ffc12866170f97def1dd7392de05f3730b51d88236d3a1f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"cc48854f6692d33d0332b4c4f49bd023f64d8eb2693c463a4f4aa374e85f629f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/AnacondaKC/dsh-douyin": {
   "stars": 5,
   "createdAt": "2026-08-13",
-  "etag": "W/\"54ae397db99ab229e7b5cfb3eb88523602af7f512b162083cc12baca384ed7a1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6c401c8111404444b93ccd6292e24e4223035c23ec924ffa8aa1af71250bfe39\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/AnacondaKC/dsh-stock-market": {
   "stars": 19,
   "createdAt": "2026-08-12",
-  "etag": "W/\"4e59b9b4d6585c61c95c24604cf8028b3055d05259071ea3157575b63e4f3300\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b5223d942c120604f354cce1c3364b8c6a7cfbc679f2ee1a141d638fd4eb3a2a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Andyqwe44/dsh-notify-win": {
   "stars": 2,
   "createdAt": "2026-08-15",
-  "etag": "W/\"d384281b32519b3dc7866f2c32c48b060258e61557b0cd44a5ec841ad723e0b1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"af4f241d044175eb97302ea88c1590653bcf62ba0300de8ec17fc1f5283066b4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Anionex/dsh-computer-use": {
-  "stars": 41,
+  "stars": 46,
   "createdAt": "2026-08-13",
-  "etag": "W/\"bd30b360b58c15ab87499e1e11b392ddc4215cd3f036fdbf118dc118f543e2ef\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"56cb2d06ba9e83f7bc983208dd3046b1da4e6c59db64d6377a824949b989c465\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Anionex/dsh-turn-rewind": {
-  "stars": 115,
+  "stars": 117,
   "createdAt": "2026-08-13",
-  "etag": "W/\"a21fcdc242474049e645d339ec9a424f31b09ec9fa26fd418ef0d77035a7cd84\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"afae86d18b2feeed770652e7c4448709dee5d9e0ce1efb626c91ba7eabdac29a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Anionex/dsh-vision-toolkit": {
-  "stars": 880,
+  "stars": 884,
   "createdAt": "2026-08-13",
-  "etag": "W/\"a40dad285d2ea993120c2d179d712c420b63fa80935255351232cfc3df2d2297\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"035b1494ba051a71f14bd937ffb47f2a8b3a2d7cf7898d32ad6e960a51a8c8f3\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Anlushu/hkinsure": {
   "stars": 1,
   "createdAt": "2026-08-16",
-  "etag": "W/\"e8784a032988c8298255b3fdddc37eb1d3d15f6f33cfd3fb4688aed79cbf8884\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"486ec44e3fed7d5c6917f333db5f1e005fcf3fd096c55681a664daa0d0488f7c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/anweat/dsh-browser": {
-  "stars": 21,
+  "stars": 22,
   "createdAt": "2026-08-14",
-  "etag": "W/\"a5ffe3d64fbd706195848e7fbe0cb1d0d6543ef4b27d0d41e213563aac3683df\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ad355ee631eb4aac6efae15d964ae7379b6048f4ece5fc04245a2bcda61ab140\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/anweat/dsh-restart": {
-  "stars": 7,
+  "stars": 8,
   "createdAt": "2026-08-14",
-  "etag": "W/\"06163ef9f96b438f309495cdfe3086f7d8c9c701475075cb43730320c9cc9c15\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"13e29c521eaf60bdd6f7c418c72091f3dbbd6ca3bd2c97f7ba3d286062a5a126\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/anweat/dsh-voice-webspeech": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"a38a750d9bb6dfda5e8b461ac0ee84a4369d93f3197cbe6668dc0cdacd33788b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"438cedff1ac7735f5e292c49c30f8cec63590a0664c5faf297f81ec72fcd6275\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/anweat/dsh-web-search-pro": {
-  "stars": 64,
+  "stars": 69,
   "createdAt": "2026-08-13",
-  "etag": "W/\"b533d5c01b41054ce207b2790291b34b83d673920a6ddfc04b0ba18bed03fe52\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9086ed1eb603ba6039b6a3a62e87109b221c5fb689923c59e4895fd3aca84754\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Areium/dsh-fail-logger": {
   "stars": 9,
   "createdAt": "2026-08-13",
-  "etag": "W/\"8db7d346ddb44eaf10ed907ec615fc6a80101ec11adbb4d55a9d3400ab74b9fc\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b990d1ff0d0a036e57f73818ea62d8427603af3f6dba6c3521a7a91c062ee93f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/arrow949/dsh-turn-approval": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"06df78142e396c1f14b9b5811acfd1be39b4c23c3614cb94c9b6333d31f667fe\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"c86273c0ab0b135c53f410aa05d53f0ce0181670b7aada70c74125a5686e9e4a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/asdf17128/dsh-doctor": {
   "stars": 1,
   "createdAt": "2026-08-13",
-  "etag": "W/\"3b1ab654603277f57fd6feda6c9c2a87bebd3e5fe48dafaecd1d54c71f063a8f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8a8073a1684e2f5e8c0b85da8ffe0f5b0d6b84ccca8d7844259a931d151c8cc4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/asukasec/dsh-message-preview": {
   "stars": 8,
   "createdAt": "2026-08-14",
-  "etag": "W/\"0274c128fd176e64d1ac51a40021c88400ddc211b62cb367334993eae5fe53db\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"fd59f0a5613d48118f50d8d260702393bfd6722db37904dc677fd587d6a5f0b1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/awesome-dsh-plugin/dsh-find-plugin": {
-  "stars": 135,
+  "stars": 141,
   "createdAt": "2026-08-14",
-  "etag": "W/\"9ba35cc00a9055b016105ae54f129d00fcd20cd4fc59f1f6de231c418f60cc19\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"617f48991d5c712a5febe07a56b706458fa5aac80ffbd06202f4ed887b8f1f38\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/beancookie/dsh-plugin-anydoc": {
   "stars": 6,
   "createdAt": "2026-08-14",
-  "etag": "W/\"aa7f98a8e911e5255d8670df12d59bd49edc0f020533450267722f8f11ff0e8b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6f73ef6c5b122c78ee76eeaf33033935828f08a399b410506593a6e413383f0e\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/beancookie/dsh-plugin-nintendo": {
   "stars": 1,
   "createdAt": "2026-08-17",
-  "etag": "W/\"89538603afa62457b7d88ce99f2afe970851db1fefa6c840147fb29e46d15a0b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3262908d914fd3d8d675a9df230975d6bd6826f651214a30837232f4105a24e9\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/BeiZi6/dsh-opencodego-usage": {
-  "stars": 8,
+  "stars": 7,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d2c5f674a4434a9a2119c2a01a2aef0558e45b94bb1947d560223a71051aca6a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"0d9dc3d00f1d28d460f28552423b4aeb5c4f559938305ca169fa831c7a0db322\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/BeiZi6/dsh-theme-plugin": {
-  "stars": 5,
+  "stars": 4,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d8a198242ee220a72e1b593534566f908b3d15d349092ae81790e3d34f555d45\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7ef0acc4c930a9c14b94a478c70f0e160624b6f1a33d10f33937631b46c6ace0\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/BiBoyang/dsh-eval-harness": {
-  "stars": 14,
+  "stars": 13,
   "createdAt": "2026-08-13",
-  "etag": "W/\"f461c2b0664159d97a9f6aadb041645493b8770bfbf9ccd67eaa98310b5689b7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"43b833135e3ab40153d83fd4466ba1f744adab08ae80fa595930a029cc333c38\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/BiBoyang/dsh-im-bridge": {
   "stars": 9,
   "createdAt": "2026-08-13",
-  "etag": "W/\"fe3ee30a99ec2507d0c27364152df9ff9bf659b85940b8a591a35e96a0a01b66\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"429f784a6d64223417af3fa18b7f5383a8badf52e01adae4a506010c82414824\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bill9109/dsh-101": {
   "stars": 6,
   "createdAt": "2026-08-08",
-  "etag": "W/\"447af396ea748b9b130279e527a8e8452a66ea8350bf21f1588fea9186147768\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2fa16676e492e407368708430a267b2ea18e3305c4ca43771d2ce54001574732\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bill9109/dsh-conversation-share": {
   "stars": 2,
   "createdAt": "2026-08-12",
-  "etag": "W/\"f4c99bf628699c3e97fefc16cfdcf556008ed27dfd17656d2c0d9d868493c697\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"142a0a671c8c92c6e0ac6e3672e9ea445cccd3ff2fd3f2159743736d3d881e1b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bill9109/dsh-drag-and-drop": {
-  "stars": 24,
+  "stars": 23,
   "createdAt": "2026-08-06",
-  "etag": "W/\"0237c9ddbe2ff6fb60d4e655f44db9adb92a60208e073b20145b68d9e1544482\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"a99d123381d47c7f781df348199a435748182cecfa2f0ecf79ff5796ca14f01b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bill9109/dsh-web-ui-notify": {
-  "stars": 27,
+  "stars": 29,
   "createdAt": "2026-08-05",
-  "etag": "W/\"29f4f4604b07b1ca83ac8376a6dc73eb2a21c806476e17558fde56449fdf58c2\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"a1c0866dd6dbf4012e16bac5c35a0a5b9e629f116de564318e7012e03bcd258d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bill9109/dsh-webbridge": {
   "stars": 3,
   "createdAt": "2026-08-09",
-  "etag": "W/\"7885e15ab02b7f17ba00ce763aadb66f27b4d626bdf5187cd9965ea4a3e28665\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3f64cb4e41df8cbf41b651d7175a9dd3eb26930da515be4d4d2fb9142980a3e1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/biociao/dsh-science": {
   "stars": 39,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d04e6088b0b4af768cf558ee8465dea517014d12c48f8fef930ae432d2964161\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d285d7672a7aa7289194425a3a373a34213a6aaad6441cdb380d964fcc418895\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bobcat848/dsh-calculator": {
   "stars": 4,
   "createdAt": "2026-08-14",
-  "etag": "W/\"3dba9a1b29b04b622318a3c4ec754bac75d4132a5a99d8d0c24ff2482be0353d\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2e4a652bbfc778753d94ec20ffe1a87caf0a374818366136d9753638fbdb075c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bobleer/dsh-acp-for-bitfun": {
   "stars": 10,
   "createdAt": "2026-08-13",
-  "etag": "W/\"ab7ddbea174af44db6763d3d098238aa02bc94dee61a7a6cbef834978b590fe3\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4847ce98fd1bd70993d761de4ebb0ee1f59938cc7488a0cb74b98acf1bef57d1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bowenliang123/dsh-context": {
-  "stars": 1369,
+  "stars": 1459,
   "createdAt": "2026-08-14",
-  "etag": "W/\"1cc47545390b61c168cbc2a18e2e05ae8d0a51a802cdf34be5921c0f9b7c890c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2996521207a3433e070eb5c7582066d06fc52f82b8163b47351595fd36618644\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bpc-oss/dsh-web-billing": {
-  "stars": 13,
+  "stars": 12,
   "createdAt": "2026-08-14",
-  "etag": "W/\"0eadc3988cb24adb07c9ea436cafc37ebfb57e286353a9f80afe6a479ac248bf\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"eeb4dc021782e4ff18ed4d30397f11cdb1af2f5f40353fe9d5def27c1f4384f2\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Braidy-Wu/dsh-conversation-minimap": {
-  "stars": 2,
+  "stars": 1,
   "createdAt": "2026-08-17",
-  "etag": "W/\"4bd87dc6498ff9c2d6c62045376c468e490c0b853ae97d17aa4facc9b9362429\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"89431a086fdcbfe834bf9b6c10d06956cfa899f514236fdd74c2f44f57511931\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/BrambleXu/dsh-annotate": {
-  "stars": 13,
+  "stars": 12,
   "createdAt": "2026-08-14",
-  "etag": "W/\"dd870d7cab69bafbe1ac720335a3f53aac85470c77ac6d4fcbf5309dbdd42a92\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7dd4fb4f9257616aa9c5d7d3fde951ac60c8878d0f2e3d13f63bb5d30d212ea2\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/BrambleXu/dsh-prompt-profile": {
-  "stars": 2,
+  "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"84330c482c2e08d09d2fb81b55ea319b9d1811b4cfb793f0d4ac962d54a23f8a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ebc40bb8bdb19f0f2981c8686847e072ac37bcdac7567aacd4921943de1c0f0d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/BrambleXu/dsh-revdiff": {
   "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"8ea07961d3a05a0954b58e6bc741fe4e8f1b1c68eb23c6a0c77506f8f60b2695\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"03c3cae4b59c21db627e5a3f13163dda2fa8c0548c8cda5ed5c744cc99274908\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Breeze136/dsh-kb-rag": {
-  "stars": 12,
+  "stars": 11,
   "createdAt": "2026-08-16",
-  "etag": "W/\"1dd247316871527779f6fc0fd6bc3878e8ce5b4dff46c26aa86e73eab6843bcd\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"39bbfc2b931c20a84365505a72a311bb46ee9d89738055067239da43ada2a839\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Breeze136/kb-rag": {
   "stars": 1,
@@ -312,22 +312,22 @@
   "checkedAt": "2026-08-17"
  },
  "https://github.com/btspoony/dsh-advisor": {
-  "stars": 20,
+  "stars": 22,
   "createdAt": "2026-08-07",
-  "etag": "W/\"1aa0846e170b0b803c3bf4c2c692a8e2a24882e42a239eb12d2028868bee9525\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"f62a4a27e9c1a9bd079f09b82f9385047ece626a9d53bceaf1332214d77ab3d9\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/btspoony/dsh-llm-fallbacks": {
-  "stars": 19,
+  "stars": 20,
   "createdAt": "2026-08-07",
-  "etag": "W/\"aeb50005695481fbe88cab52ea58a87a4b74b170eea9daaa0a65c64ab8b4edb2\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"f9bbf448f7fc7bf84fbb4ab1e091859856ee5ab475b620f2819902c903fc2616\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/btspoony/mstar-harness": {
-  "stars": 58,
+  "stars": 61,
   "createdAt": "2026-03-06",
-  "etag": "W/\"65a71d1fad2bbd495ec7a7d2e94b0e63ea08faa9e1d33b42f1cac18d283c8941\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4cc853272d2d298a297ae7e85ae634433001fafc8c30d1da6bce8004dc5153bc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/bunipai/dsh-balance-guard": {
   "stars": 0,
@@ -344,68 +344,68 @@
  "https://github.com/Buyi-wsgzg/dsh-sidechain": {
   "stars": 15,
   "createdAt": "2026-08-07",
-  "etag": "W/\"15e48e0e83c17394934a751198f1c05f34a540469b3b32fdddc320bb3b043c2a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b1766ba076e0801fd8e9ca8fc1c738c080b519c85479c3d54f92f80938d1be4d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/canghai666x/dsh-news-plugin": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"e6b4e7c4b23f309130d21ad30501f6720a0036adebb146ca403d9f09f9f0496f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"edede06a0952edd90c0b702ab94382f2f0b2823d65153eb1c718ff9fb2154d81\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/CanglongCl/dsh-web-review": {
-  "stars": 20,
+  "stars": 21,
   "createdAt": "2026-08-12",
-  "etag": "W/\"5ceafb629270c24a32e1137c385255298acbf53b8b801d7b4239024d4b6a4f8b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4af33a8577861a02088dd25bf76bd1db8a1d42fb939789e141a3d071a03230c1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ccch1mneyyy/dsh-TUI": {
-  "stars": 3015,
+  "stars": 3124,
   "createdAt": "2026-08-13",
-  "etag": "W/\"70fa14e365435673abe33be990f8f94e345eac49da57ba5982e62aa59da0c576\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"64841d3676d1dc37e6b4739b663ea2cad241ac1ae702385815e01270c240022f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ccq1/dsh-side-panel": {
   "stars": 15,
   "createdAt": "2026-08-07",
-  "etag": "W/\"30b90d98519770e79b3f99f3d2e2d903d1a109bc104057bcc79250a866226c0b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"daed139a6f078363589006fa82e050a358b60569ea584acb6b8250f59dee1573\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/cdxiaodong/dsh-guardian": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"080503008fe8177c4b6bf980200adf8635dcb8cb3d248c223dfe0c4d191525f3\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4372d35ae024deedc3ec1d11b0d794aa058227862089442cd7d17b52005e1db8\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/cdxiaodong/dsh-island": {
-  "stars": 8,
+  "stars": 9,
   "createdAt": "2026-08-15",
-  "etag": "W/\"775cb6d90a771939df4983065f61805d275fc314794652731f30f97678aec2a0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"1bca3917ff88919a90d90a12214fc6edbe397904a3006756a268c9227def7ec5\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/cdxiaodong/dsh-llm-inspector": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d38c3ef68f44528c2558e9571f651792dcbf5b53753e0dadbe709f7391bdbb84\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"73c81141ff4d0e5b53e8199852855b4284d26d6d95240d847bd4dfd432e6866d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/cendaifeng/dsh-learn-everything": {
   "stars": 7,
   "createdAt": "2026-08-13",
-  "etag": "W/\"0d57ed1079346a90497744f49f3fc2b54ad2a5766cb9f6120dde4fadf4997e79\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ccc1be70317f6c76d5c3ccb2f820b941b1bbfd0f2de6ecaaa5a2904c56e7ae50\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/CH4ACKO3/dsh-harmony": {
   "stars": 17,
   "createdAt": "2026-08-14",
-  "etag": "W/\"0e88e226d466df77c88f353b16c523dbb2df24e3a60c2abea95fe8262e7927d1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"53b6b16dec404fa1b920b594a2801986dbdebd43f8d47260a47a880cc61b0eaa\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/chenproton/dsh-history": {
-  "stars": 15,
+  "stars": 14,
   "createdAt": "2026-08-17",
-  "etag": "W/\"517dea3c6aa6b370c6cc251daed8e38832612ff78a177a73e5a7bc3eb0fdbbb5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b8b90007fc2f54824a55dd40644560f60d5e63bfaaadaf297f70cb1bfdedffb8\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/chenzhi-clude/dsh-hooks-pack": {
   "stars": 0,
@@ -420,82 +420,82 @@
   "checkedAt": "2026-09-19"
  },
  "https://github.com/Chinesezjc/dsh-interconnect": {
-  "stars": 34,
+  "stars": 33,
   "createdAt": "2026-08-13",
-  "etag": "W/\"9ddc2fcd394fdc95f9e31dc2a7360c111b32c99d325c1dc82417009db1e6cf38\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"0ce7956cadfcee8733c0171ed5fb87024abbcf97a4828e0d144d74ac0fc8c282\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/chushixixin/dsh-harness-mcp-server": {
-  "stars": 12,
+  "stars": 11,
   "createdAt": "2026-08-13",
-  "etag": "W/\"11767624471e95c15e8905cebeab4c45a4a80d1d4c9db945405130943218e690\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"82e4417c7dab4bfa179a28a933e359f0c74b3d07e685ebfa844d26aac795d40f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ciceroyang/dsh-report-studio": {
   "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"16c9238a1d6a8d64359adcfcbb0b63c319fdb44b0b3e88345c3529bd53b4c239\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"43d6c704d6b4f311623391d7779ae8b797941efdbfc42dc261c67a88d8c35dbc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/creght-dev/skills": {
-  "stars": 11,
+  "stars": 10,
   "createdAt": "2026-06-15",
-  "etag": "W/\"d510496fd471958242bb70728b753ffacbd35c2fbc7a48ab7fb3b277590371e8\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d0f0a64c96d08b7bdf497ac7f3e0002cfc661cc15c00e958a826106ec61baf8c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/czm15053/dsh-peer-link": {
   "stars": 7,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d068d28ff1110a96166c83e05b170b51fb9f27086cb211b1a6873d1b76887a38\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"dabd461a1da3dff5710039e91b8c0ce1604f2433227b5c4c08ee7f6a458dd063\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/daetz-coder/dsh-multi-chat": {
   "stars": 5,
   "createdAt": "2026-08-16",
-  "etag": "W/\"8275016aea7c6a979572ad7a9958767e34c1dbed669eb036fd7ab790f0ca7837\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"31cb014bf236e07e37d7f3c5bc9d44ff6be781fb42653b7221affdf30bc3a699\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/deepseek-ai/deepseek-harness": {
-  "stars": 222891,
+  "stars": 231470,
   "createdAt": "2026-08-13",
-  "etag": "W/\"3dce0bf3a396573b532e044ad9cbb4e556f0a61b12d4f31d182ed810979da70d\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7a9b782c26174561e92aef9077f0de55921b39a112302a228dc3a5c748cae241\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/dhicoc/dsh-reverse-skill": {
-  "stars": 137,
+  "stars": 161,
   "createdAt": "2026-08-14",
-  "etag": "W/\"0b20a64acf9c8220b48af15e1eafeb23c325d466a4496ee0d8c424d987e1dcdd\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ee4e8ef53485b0d9181e64e72ae66ccdb8b6d586786c77e57958c52b6e4cd007\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/DietCokewithSugar/dsh-user-experience": {
   "stars": 19,
   "createdAt": "2026-08-14",
-  "etag": "W/\"da2af7c6fe0e5246eba6ab51ac267efb42dbd759adf58371c376a605f4e8095d\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"c10813c7b2028f4cb214e78c05564d779440ec1c6d30a3b17f450a856cbfbc9b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/dingyi222666/dsh-focus-chat": {
   "stars": 22,
   "createdAt": "2026-08-10",
-  "etag": "W/\"d04cad963bd2f27681d7970b6954a8e93309c98227cd1f1280acad4018426035\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"53dbef75ac8a3b33ace576916e1b2b7e98ce2e4421c678ab3dfb0d598219c41e\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/dingyi222666/dsh-session-notification": {
-  "stars": 21,
+  "stars": 22,
   "createdAt": "2026-08-12",
-  "etag": "W/\"64abf9dadfdadda9bbb8dec9d209775884815d2bdc414bbbbdb6c75c47832596\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"522610a2255fbc3b96f05f5f057121339299679afbd6a77efab31e726d2c1380\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/disyli/dsh-tool-call-stats": {
   "stars": 0,
   "createdAt": "2026-08-14",
-  "etag": "W/\"b97a026552a82e5aabf8c0b7708095a5fb645fc38c772c5443168a40234e50a2\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3810642952bd168f313f7c6c7b3ecf2f1f72aa8bbe624c49888f25fed6f93864\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/DoggyHU/dsh4vscode": {
   "stars": 5,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d2a8ac247d2c6d805ca579ac27e2f4eb9db33d156538e0837c36cbaf4e3e1eaf\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"1286a8e2e3c6bf47354743ab77658a7fc794b14b90e6e246902389e3a4e0d93c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/dream-num/dsh-univer-office": {
   "stars": 346,
@@ -546,50 +546,50 @@
   "checkedAt": "2026-08-17"
  },
  "https://github.com/dsh-external/dsh-vision": {
-  "stars": 33,
+  "stars": 32,
   "createdAt": "2026-08-05",
-  "etag": "W/\"6c4bda4301fe2433396bb2f4194382d43eda2622b57bbe0f1ceee6155d134375\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3a72f3dca569f1af0419d7e81876725cc496d1fb3c0bb34868f6334e667f3a3f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/dsh-external/dsh-web-panel": {
   "stars": null,
   "checkedAt": "2026-08-17"
  },
  "https://github.com/dsh-market/dsh-market": {
-  "stars": 3838,
+  "stars": 4277,
   "createdAt": "2026-08-14",
-  "etag": "W/\"07e65dfeca70152d0f08fa2880a5859711c0011fab9091b5efd6b670c338ef5e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"40c040efb5572cdc0a38167385583080787e3052d012580dd4f264209b3ec534\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/dylan121322/llm-adaptive": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d9d233c32606a019492a13b8b32d5d564451d7cc6d0242b3722473db264a3712\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"90236f6ceb2693837a8d4af6f711480a27306535afdb88360522418b58269ac9\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/edfrey0044/dsh-unarchive": {
   "stars": 1,
   "createdAt": "2026-08-16",
-  "etag": "W/\"3fb8d760a8033bbd5083775ca0b9396da83daa983bdf0dff377825a06a289607\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"19a6acb051ac776319c7e0f832a4aee0d016111e8b829cb3189efe8b8deb0b86\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/EvilIrving/dsh-context-proxy": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"42e2babc0f32193f270f26f6afb12ba7097a0b51ba47187b2f703b83ad56aaba\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5a4655ef89ae95a248557565f47092b7f2aa901d7325c8a2f0725c7921e60ee9\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/EvilIrving/dsh-proof": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"c38c2b4ddf7d658fb2eeb756b3a5043872e631788bc9bdeb6570a8c77fda12db\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5da834bde0e8a2c6de67e6069ccda38fa94cf669be1340fbb7296dbcf058c8cf\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/EvilIrving/dsh-repro": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"7219ef7dc069347f8cff1145f98c5ec0bca9ac79777359a1a303d0e9e1f374ec\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"73bd58e87fc1082fa078e9375f4dbd8475c293cbdf5aeffc81ceb7298364e6dd\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/exoticknight/dsh-labnana": {
   "stars": 2,
@@ -606,188 +606,188 @@
  "https://github.com/fakechris/dsh-track": {
   "stars": 6,
   "createdAt": "2026-08-09",
-  "etag": "W/\"e2eb7fd10606e72dd2c8d64f02a5967882da3733659b5b562487b55360f66d4b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d7ce9c8815140d82d98eb5588bcba168c892aea0dc917cbf76e93394bd3f6408\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/fishxcode/dsh-plugin-deepseek-balance": {
-  "stars": 2,
+  "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"4e09ac4ba617d0f2bdb74c980ca50fe6b6442061a55ed2395bce84cfd894d98a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"741f64bc1193bc19991792e986875f694f49ab97c1ac287540d0e06a9a79cd80\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/flyingtimes/dsh-trajectory-reader": {
-  "stars": 2,
+  "stars": 1,
   "createdAt": "2026-08-15",
-  "etag": "W/\"04525e69fe5da31ca03751a831ffe207c6010300ca9cdaab58ec52b1028fb255\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ef9d28b06a9aad8dd4ce1d9fec243854c2ff7e03fb361d304ee17072249863eb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/flymysql/dsh-memory": {
-  "stars": 6,
+  "stars": 5,
   "createdAt": "2026-08-14",
-  "etag": "W/\"0550ad08eaa6be9d97bb19b6c5ae0078bca96148a08c23d7b52bec57798b4314\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"44f9f82cad7f3f2934b1cfe4720559746ff998700b78cf9600527e0bccf1fc72\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/flymysql/dsh-remote": {
-  "stars": 74,
+  "stars": 88,
   "createdAt": "2026-08-14",
-  "etag": "W/\"548e62cbf1c1578afff8da485a4954c8d4877abc5f24ac813e7817373e1f18b1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"a4da4ab89bce4387a9298c4727763eff6d5acf111d7b189c710d83ff16b7a731\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/FlytoMAYDAY80/dsh-pet": {
   "stars": 12,
   "createdAt": "2026-08-13",
-  "etag": "W/\"dc5416bcc6676d49e7ecd5547a062086281a617508d93bde3204bba55edee0e7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"46a990556a25b1d570c9b9aaba0b0a2afefb88d0137182f37bf07b35e51870e1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/foolgry/dsh-desktop": {
   "stars": 10,
   "createdAt": "2026-08-13",
-  "etag": "W/\"eff0dd80a94ee0d69fd546086db2ddf4d7a5f2d1c5570428f28a306356bf8890\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9015e1a584f0f6b8963589585de0aac747c2db79f24f095ff04c472893e68751\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/forrestchang/dsh-multica-runtime": {
   "stars": 65,
   "createdAt": "2026-08-11",
-  "etag": "W/\"59c9d5bfab458fab0523f2c87fb38d2066032e067e20051886764195ef9879bf\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"205ebda1972b2c2825e8ed3e26e1a67c0bd1f753e0f7bd5677329ed0cb087b26\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/fountunt/dsh-session-cleaner": {
   "stars": 6,
   "createdAt": "2026-08-14",
-  "etag": "W/\"b4aa68acebece2521f541ec6f6f2bd8be1ab6f6b00c1bf6a27ff01548741f0fc\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"75e139e1a06cc208c6eeaa369d92ec4a07dff3a19215c7986c27692e8f99d23b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/franksong2702/dsh-codex-connect": {
-  "stars": 103,
+  "stars": 113,
   "createdAt": "2026-08-14",
-  "etag": "W/\"1b518b481c0f07986a3d4d84e3b675bd4f3401b34e0130cd69708d3598393388\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5923ff0d34636feac9715ae369814073893672ddc7669df681b882ba310e1a49\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/freehul/sgme": {
-  "stars": 14,
+  "stars": 12,
   "createdAt": "2026-08-11",
-  "etag": "W/\"c260227433183d49d975c48eeda8aceaa100833659db345b52e3808f72ce6df2\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d4c714f09996b41ac02cb1dfb17a89866365b8aeb2790c58b3b74c78b86e1d4f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/fuhefei/dsh-sentinel": {
-  "stars": 17,
+  "stars": 16,
   "createdAt": "2026-08-13",
-  "etag": "W/\"8af6cb9aca7ebc921f3447b95176757ff3bfdd03fcafdad5a3d9d3ab2da65672\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8fe127227ea1a28bb0e96f648529349c27f13729608749807271e9cbac19b082\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/futongxu9-maker/dsh-msgrail": {
   "stars": 0,
   "createdAt": "2026-08-15",
-  "etag": "W/\"7496811861fcc728cde8c381647412599e0bb81475f9951e7c4c5faf12da00bc\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8041bec214cee37ba22e8fc6aebbbc8247542e70a2baca2b49e745af77c8068e\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/futongxu9-maker/dsh-path-reveal": {
   "stars": 1,
   "createdAt": "2026-08-15",
-  "etag": "W/\"bc26d89324f965ed154a628828388e1855a1e2160d3db5d68e62e11ea49f138a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"91d3e0be4763ac64066ed5845c71e7c27b51f9f3d4f180dbd8387c9c1647614e\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/futongxu9-maker/dsh-shared-memory": {
   "stars": 0,
   "createdAt": "2026-08-15",
-  "etag": "W/\"83681da93502c2ff33cd2ca0583938a511e56ef06b3c841ba32bd4b1a6f42f80\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d041232adfa9c9259751325b70509fa9f6a322bd3bee9822e6152b330a8f29ac\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Ghost011118/dsh-balance-meter": {
   "stars": 18,
   "createdAt": "2026-08-13",
-  "etag": "W/\"4b2d098c76a31353c62d5a9b4f4522a560bc5357f52f2c405770d5ad96e35979\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ac5c16d00c10dea8d24fedb07c9b2cef1e31e3f2d56ea5f3138c281414292389\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/gloryxpnv/dsh-tool-vision": {
   "stars": 1,
   "createdAt": "2026-08-15",
-  "etag": "W/\"a94051b7d2bca18b8145c7a3ea109dbde1b20e9a2fab27a3533981b606d42fbb\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"461737fdff0a0321a13ac649de628f8b2b617cf70c957fab3ba721489ed89ded\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/gongyijie85/dsh-ponytail": {
-  "stars": 11,
+  "stars": 12,
   "createdAt": "2026-08-16",
-  "etag": "W/\"07675d71f835c85a38a8caa8b5c00eb1a18aa6be8233e5333a397870f2d111d6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ea7089ad483d4dd579104c279243f79311b20b6653d727727152ccf973ae1892\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/gongyijie85/dsh-repo-setup": {
   "stars": 2,
   "createdAt": "2026-08-16",
-  "etag": "W/\"261874693822c107fb9ef2954e7a7080cec66f91bc22a8ee8cb4748b83a16e07\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bb8c60e55d08e7894d68f952a85416fbf97f9e7cd29c112067f98e7532bc61ec\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/gongyijie85/mattpocock-skills-dsh": {
   "stars": 14,
   "createdAt": "2026-08-16",
-  "etag": "W/\"b54a8394dd082655a77c675ab6c7948566a63ca9a9d0bab1f2a156cdd0319cd3\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b356d76390733ee94194740eb05c7a7815f929f8175de02111a25f9448fc4408\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/gongyijie85/mattpocock-skills-dsh-zh": {
   "stars": 4,
   "createdAt": "2026-08-16",
-  "etag": "W/\"a9445fc88a90a4f84d8ae3dedb7f9bb774c62aa526aff5f4f757cef006d25765\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4e063aa49d61890e2d9490d70f9b23bd2760096d7208b0472a05677121a48ceb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/GooodWei/context-vista": {
-  "stars": 12,
+  "stars": 11,
   "createdAt": "2026-08-13",
-  "etag": "W/\"128e3dd6640729e70c5ce68e6894b211c2fbae24439b468d16ac3239e17cebab\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"152b3a8c37379b35d65c997c8479491f2908387821e37269c054775576df2beb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Gumiho12345/dsh-plugin-net-access": {
   "stars": 5,
   "createdAt": "2026-08-15",
-  "etag": "W/\"7076f337bea5052afd4a48f9e495ca2d50d8a7805bcf35666ddfb0c87584ac3a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9fd02cd65bdae186ce3bf2ad9625e952106491d00dba293329880461e457ba4c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/gwrsfsfeefdsfs/dsh-skill-curator": {
-  "stars": 2,
+  "stars": 1,
   "createdAt": "2026-08-17",
-  "etag": "W/\"d1358f14e8cd8506fe2dee02e0b261c94a95ba12e84adc0a3724d1a37b7d8b71\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b010afd090604fce71a3896f1492940a2e51c6797007d5eb5980f9ec77765cc4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Han-1413141/dsh-cost-meter": {
-  "stars": 295,
+  "stars": 316,
   "createdAt": "2026-08-13",
-  "etag": "W/\"329d88626e0cea2850f6dd21a94140dd5462fe9fce441d4846f5dc18be44f07e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"352eb7879bc46feb6f978a1ebd580cf24a40267e5d56a9ce818a6138fd0f5352\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Han-1413141/dsh-sticky-disclosure": {
   "stars": 2,
   "createdAt": "2026-08-13",
-  "etag": "W/\"d710ff779e6c45b05911b3fdc720e9f77aada61aaf3c16c6fa6bb7715f0b6346\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8136b9ba4011e5e69c4552058f7dcf918943d1e4f56833d19e76ac80cbcf2945\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/hccccc01333/dsh-excel-chat": {
   "stars": 7,
   "createdAt": "2026-08-14",
-  "etag": "W/\"bd6ab8a6aae232db617e6a67d298499f60be74d4d8764d36b0622a84b229f99d\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"521fa930527ff481c01639c29d2db46c77df6dffe9a0cfffd80bccfa683cec7d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/hellodigua/dsh-emoji": {
-  "stars": 43,
+  "stars": 45,
   "createdAt": "2026-08-12",
-  "etag": "W/\"4578f88d59945c433c337a01b9a451057ada899921194ca34819d729f4819003\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"912b4ae5da3aa1cc3541a4fa1ff23e757e7be3fb6f399e1174e505f60775c1f4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/hellodigua/dsh-share": {
-  "stars": 35,
+  "stars": 34,
   "createdAt": "2026-08-12",
-  "etag": "W/\"fad7ac35cbe7097166001fa93b37a2d125c709c928e1a3318c20269c7d03f9a8\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"0d510fb8ada9a9fddd42db5f472fd22de280552e8ba3c1a2fa8834955db419c4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/HuanLinOTO/dsh-plugin-d399": {
   "stars": 8,
   "createdAt": "2026-08-10",
-  "etag": "W/\"b3fb7c919e45c674af86e40f2c85595330fb79731a6f78084b2ec806d46f50e9\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b8c20c4e2cc81cfe15d9e9fdc302b62ebba2953004e05ca44433a5c0e14d6dc6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/HuanLinOTO/dsh-plugin-mineru": {
-  "stars": 48,
+  "stars": 47,
   "createdAt": "2026-08-09",
-  "etag": "W/\"d79471a70bbb86fb2bf6fa9828576cca1b8cd5cdf1a42e8c7890bee852cac7ad\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e429382602910972d2e459d115876bd0f45b108225e81f194894fdc01b0c40d5\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/huchunlinnk/deepseek-desk-rsi": {
   "stars": 2,
@@ -802,226 +802,226 @@
   "checkedAt": "2026-09-14"
  },
  "https://github.com/huiliyi37/dsh-tianshu-tui": {
-  "stars": 275,
+  "stars": 281,
   "createdAt": "2026-08-13",
-  "etag": "W/\"f4e9d2fe865628af1302426e5958fed4e2678191308757433a6707f2c0f7a313\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"c42d9d950156b672aeea8d91f14952dd1f9d43ebb45cbd158e1666a9155b8a04\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/hust-open-atom-club/oh-dsh": {
-  "stars": 313,
+  "stars": 320,
   "createdAt": "2026-08-11",
-  "etag": "W/\"a438d4057ec80bf1dc16b9af0cb469cadd506768e241f2667a276e43eae312de\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7bee4e8e0e9f59a765016bdf757de97cf4bef17c55724e1a134b821c426f4f48\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/hyqhyq3/dsh-mcp-manager": {
-  "stars": 16,
+  "stars": 17,
   "createdAt": "2026-08-13",
-  "etag": "W/\"82157647cf0087a908bd87a1cd1547a4e5a141c9c8a33ef27b0d0506172d175e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"55899693117d6c2c5e09682404b7ce6152968f71847ca91844bfd4752d1bafdf\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ICCuse/dsh-file-memory": {
   "stars": 0,
   "createdAt": "2026-08-14",
-  "etag": "W/\"ab47fe0ced3c61aa5f7991e254c69ec509a6e8bd9dcb11f8d2b9fd13c69c6617\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"98e210b0dc460fa618f69fb493f3f4bf73a2da8d17e0406b2fe4511584e6a94d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ICCuse/dsh-knowledge": {
   "stars": 0,
   "createdAt": "2026-08-14",
-  "etag": "W/\"0a66aa69c885f6049fd475d24fe68ab26b3ae5c55d962c495e3cb6619296e4f0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e5fc1a2656212412ae2a5978198eae7d1a6964df2ec45b83105681ec06800726\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ICCuse/dsh-pain-point-check": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"2a0ca12840fd96fc3f6e922f9d5be095450c8c31e08e3dae17a76089acb3c473\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"80d89305676a23483b9a54bc82d0b345cbe667a663a0b76dfe83a3db0a686408\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ICCuse/dsh-premise-guard": {
   "stars": 0,
   "createdAt": "2026-08-14",
-  "etag": "W/\"bee5a837b2d69a891fe45a5d3b1b86024c53c4c1a0fbad58b21fdf84beb5cc69\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"40742354446a1f875000894c0fbcf043ff819f3929f1c6f940fe5a1820d7727c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/icetomoyo/dsh_workflow": {
-  "stars": 122,
+  "stars": 129,
   "createdAt": "2026-08-12",
-  "etag": "W/\"42b2d7f9894f7aba428fa19d4f89a4bae551d7713b3e89527483b50f63900d60\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"c9826a596c990a0ea4beb9fdba3d47b637f3ee6142076acbf43241551144e057\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ilharp/dsh-tool-approval": {
   "stars": 0,
   "createdAt": "2026-08-11",
-  "etag": "W/\"5aba3a526b85556f8e73cd9c9d1c039416f30f8b93ef99331196e590dfb6de71\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e442ad7dbf1ce06e48abf3b44db65afa030e5d6c9b8904fb929c598038fc55ac\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/imetn/dsh-lark-bridge": {
   "stars": 6,
   "createdAt": "2026-08-13",
-  "etag": "W/\"cd20a39b68ba4e0141e44596bfc3bbec80d83e6295155a4bfc7b131eb3837853\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"155c023eef86b063cc3a7f9732b2a6518ecb338399ea5270619da7788a74593b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ink5897/dsh-theme-kit": {
   "stars": 2,
   "createdAt": "2026-08-15",
-  "etag": "W/\"b516b5cbd369febd210c78c6fa234a2a79818f8d779e9bece5c12914aad23c01\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"65b3b5c060de7d95d85bd10a3d983cdb6f619ba8269f3b4eae33263166d1c07f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/IWAIBAOLI/dsh-with-pencil": {
-  "stars": 19,
+  "stars": 21,
   "createdAt": "2026-08-15",
-  "etag": "W/\"35cca4a8adceacf20fbb275012b4c9aaed8d0db5b1e0705fce22f80828d2c628\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7c147a4a67beb3d76cdf7aff88c4aa551fd27eda1b5c9f5f9541fa7f8969bc56\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JAdpp/dsh-whale-galgame": {
-  "stars": 24,
+  "stars": 28,
   "createdAt": "2026-08-15",
-  "etag": "W/\"33b544fc91b65b0b53f5461ec64af5a486380b85018e8dc9889d33bb802288b3\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ffef0a4514b6ec479e415f6165fd9e417b6345e763bbaabdd936b6c3689e8c32\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jayden-X-L/forkprobe": {
   "stars": 72,
   "createdAt": "2026-06-06",
-  "etag": "W/\"ee5504c529d4b3629b162a040d24102004b8764d288d403e35fc315a4bb9ca54\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5ab661e1a3572786937c200fd2678ee34def38dcbf5b0732d436f4b707e5a0d7\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-chatnode-wechat": {
   "stars": 6,
   "createdAt": "2026-08-13",
-  "etag": "W/\"9dd45269e71a03df9cc37d2e76ca4ba46b9ea66b3b536d961fbd389afab603ca\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d11245ac1e9325841343e9a3a6de92c32f248fe1578a46992b96fb77b0b9bbcb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-cowork": {
   "stars": 4,
   "createdAt": "2026-08-13",
-  "etag": "W/\"b18014a00ab682a5680e36ee832d6a08b2d74a108eb70a9bf49bad4b69f00a99\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8a961017f31df1e7f98bb246cd1739dea7cd2530a6998ef13a1dd3585e4c9028\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-crosstalk": {
-  "stars": 3,
+  "stars": 4,
   "createdAt": "2026-08-13",
-  "etag": "W/\"527dd813b5b169ff458775487b6431919a74efef359ea1dec72ad2bf0a5a4cc5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6733511f48f2c163fb91cbfc75bd52ef94f60d1e1d04b4b50f0b0d790c24b800\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-docker": {
   "stars": 1,
   "createdAt": "2026-08-13",
-  "etag": "W/\"053c7da9bb0800c70701e356b6dd0403df9cb9d3fe3c26f41219551179ddb059\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"17ecec53ae834b3d2661bbfd1e7708346411be021fb07b981ac6979ded9bfff6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-memory": {
   "stars": 1,
   "createdAt": "2026-08-13",
-  "etag": "W/\"a69be189d5f348f6f895ff958b70f16cec4a0ac66aa6d250c50f949440ecc8a6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"496cc4a28710de2fb79e1975cc705fae9259b1f77eb5222ce9ba7682c9e5d97c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-plugin-manager": {
   "stars": 0,
   "createdAt": "2026-08-14",
-  "etag": "W/\"c1883539d6491889d5dd9ac3f9cb0a5c22f1bfcf028d11c9432da20674059fd4\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b2a2b3837203d0133a96bdef09aa82c830bf17b56e44957eb8c48eedbf7f68ff\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-plugin-manager-registry": {
-  "stars": 1,
+  "stars": 0,
   "createdAt": "2026-08-13",
-  "etag": "W/\"0f881f9455371e17f46542a7452a89e105853d5c5344840d9d0fc6583ac2eab6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5a44945bfc45cdd2112303835bbef1c3853862e57dac515df0cc9d0712744a38\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-polyglot": {
   "stars": 3,
   "createdAt": "2026-08-13",
-  "etag": "W/\"5e34926952475932874494600cc8d34c1237ada1dc486d140d75294e1add98a5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"f844883f44717316e82f286dd0551031c77b4b27042f1393e5aac771c941edba\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-routines": {
   "stars": 0,
   "createdAt": "2026-08-13",
-  "etag": "W/\"029db6c02e4342dd1bc6bb31167e731136d58cc9924f1c702e64c47a52d95fd2\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"1dcf30c74b2134ec35bc9c3b49874a2707e5552142a070855f578d1f43e3a2ce\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-skillport": {
   "stars": 6,
   "createdAt": "2026-08-13",
-  "etag": "W/\"73c6b5568260a1b743e9bd1639fcc55b6477e43db2b59bfe967e9eba33fd7e43\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5ab238127069948ee12b3c65ff44a4177184d1cc99e36bd42e38f5bba4cc216d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-tmuxctl": {
   "stars": 0,
   "createdAt": "2026-08-13",
-  "etag": "W/\"82fc642b5cb15b82407f69bf4d9242c019e34a4a5ebfb1cf4b37203f92dbd3f6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"03d3ee2759e75a9b7808c82a1f2209deb41b30312d45fff24aed618219be6c87\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jesse-njx/dsh-voice": {
   "stars": 3,
   "createdAt": "2026-08-13",
-  "etag": "W/\"a1362026c0a79a0abda048729017d7b402e51175cc08176c11dcc6fd34788748\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6ebbd547068f87c93fd7a7c8daca83b2a592bcc4581347e41e7c03459f4e6e70\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/jiangnanquan/dsh-ux": {
-  "stars": 7,
+  "stars": 8,
   "createdAt": "2026-08-14",
-  "etag": "W/\"8d3d081e438bf47c0f15b0a90aca53680bb4b8e1c3f3cfcd6f8e0d4422982ad7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"42adc6def2f1c9c2c696781526864a14c62501f1152cccde6774afb9b24e357c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/jihongboo/dsh-apple-mode": {
   "stars": 0,
   "createdAt": "2026-08-13",
-  "etag": "W/\"9ab04faecbbf3292b3eea2dc77b6067e932b693877bc1622931eaece078b727b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"510aaa1352cbf1b6aaf83a5b8a7ea49aec975d1749ae0d17b9a3afbae867fc05\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/adversarial-review": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"7502ffc7c18bf8c9920a229ef60c8b1a7e9613ccec69a75478af7423dc623cbe\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8c35918a87e5be673a9258aaba84bc31ca0aba0e2dc02efac57b6177579b5718\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/browser-automation": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"60c291d9d8ae314c174fd7a1efa6c27870b800d993306490d976d9d322223847\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"73834f0e313ce047f487e205a3f0a0981ce68e66a2f42d695de812d975eedb45\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/codegraph": {
   "stars": 4,
   "createdAt": "2026-08-16",
-  "etag": "W/\"9eabced2b9d74006ebd5a2458838693a762eaf3e1e8c681af2951f4d86093166\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"f5346a4ebe8edc7a2199997ec4d16c20fdc95aa72e50630d2f5a9fbb89c3d4fc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/command-scout": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"7bafec93edaa0aaa1f1694e30f72dd46e5ce09e231249f4a8164038b8d3755a0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"c35680d35181be60ecdc897bc046ac4231bfdf02887fe28a5b8b96b2edd78cb7\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/computer-control": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"f869c00034d9bab3be09051f9296c21298954b0d0b119c6430454caf5496e209\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ab386a1815c49fffbbff022101796538d3f6843dda6a0dc358032d3c81f45ccf\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/context-pruner": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"7890adc3536c28b16241192706d852d127eac853a3c4bb88a9c4bbaf59351887\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"dcc06aa975fb9c4df307180942cde244d132c76dceb93d2dc6f6ab709be7c0be\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/docgen": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"835f5b794d16f5e0c72253a85fb1315f7c7d4ac3f1373b65e6b014d87867303c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9c341a64a1a4c48ad72012efddbf3d3f20cd04447b80d12d7707ee1dfccf0de1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/docs-retriever": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"406d28056834458b62a61d70ea7432ef7484490fad4d4c77126dcb8980a574e7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5d4a70a9f7d69ef0fc635d30dbc2dd30259736f6abc0a9776f47e4047fd1eaec\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/file-planning": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"3e661eb5c502a16751be41155b05ee8fc15d698dfbe1ead9b6691016d44f42dc\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"92a536c009157bf47bdc9381aa56424aee23f6f3b99f445414ff4216d7a6fa3a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/fs-mcp": {
   "stars": null,
@@ -1030,14 +1030,14 @@
  "https://github.com/JohnXu22786/github-mcp": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"8e652ce6f7a355f5e5c28e8a46055157a683d74e9ec9daed04d2573205bf7bee\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bcecae71ad94e6b7e6116212b17b5c55a0bf15304382dddf5b96add28a5ea09f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/hooks-adapter": {
   "stars": 2,
   "createdAt": "2026-08-16",
-  "etag": "W/\"8d6e82db6e175c3239215e2e2910fb2cdd7ec214740c49f2a83a1ae59a9d19ac\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"00d30ff5fbd75cfd8d170e1bf1257f7e53444a66a7b821b3722283bcf1106db7\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/memory-vault": {
   "stars": null,
@@ -1046,8 +1046,8 @@
  "https://github.com/JohnXu22786/model-catalog": {
   "stars": 1,
   "createdAt": "2026-08-16",
-  "etag": "W/\"afb3464f0313847ef265e395d0ff4c142495f574d5a11e05c63602f5eebd71e7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7e17881e81de24006124cd7f660e68763b440e18df970fe712e5c1a40be4baef\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/notifier": {
   "stars": null,
@@ -1060,26 +1060,26 @@
  "https://github.com/JohnXu22786/safety-net": {
   "stars": 1,
   "createdAt": "2026-08-16",
-  "etag": "W/\"0412452cc2fdd2e41746d3357fa737c51e14772fac7e803cba1b93d9362ff8d0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3ca75cd15262c50b9de28a04dc2a50a8a0de2ab471d8f4d02a79caade6170196\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/secret-guard": {
-  "stars": 0,
+  "stars": 1,
   "createdAt": "2026-08-16",
-  "etag": "W/\"8038482117f27c48a105319ecdfff0e06d390f2ae87bc10e67776a3e51ebc084\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"42ccfd158521fd303823bf7fa078fcddee23e458efb310557a481c61c6e0b604\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/session-titler": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"0d4903f66dd45e6ceb2da494f8f84c503590d0bfaceeed296c69c12bfca7a10e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"221b4fd33dd3d1d5868ea03998cc89aa6b57c41c1d70ab521a23236c301dfbb4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/skill-framework": {
   "stars": 1,
   "createdAt": "2026-08-16",
-  "etag": "W/\"b5a20091a8802a4e0a56b489bfe0987f93cd5dc249d0fa6f7b6f92787f2ac1f1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"cd983885e579498c5cc5341a43a75e928b2143409cd5939e60401bd708c2e602\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/skill-manager": {
   "stars": null,
@@ -1088,14 +1088,14 @@
  "https://github.com/JohnXu22786/snippet-expander": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"8a513b1c00b136bc8f52efe9d434d1e1f7ead7663fcf189be183f1f60fb06459\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bc63782ba95aa63e7d2f30e8c3d11c66dba22200e70ece9a3eb603311cf00d45\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/spec-driven": {
   "stars": 2,
   "createdAt": "2026-08-16",
-  "etag": "W/\"357727f3e731230de203ce89a633f9d009bc1993e6f66cd5d899a35a9d03d2bf\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"81682e5f5b0581dcefae20f3bf641467c0f556a49c239bb33069aa924423cbd3\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/JohnXu22786/statusline": {
   "stars": null,
@@ -1108,14 +1108,14 @@
  "https://github.com/JohnXu22786/worktree-mgr": {
   "stars": 2,
   "createdAt": "2026-08-16",
-  "etag": "W/\"09a747cb7281b75599819aacf5883c6ad914ca51bf77d9c46a599773c4964d3e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"edf05b398e44639f645d25ace0e3159b3d119d27d6e6189ae3ff831ff7504016\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Jolly-J/dsh-deepseek-billing": {
   "stars": 4,
   "createdAt": "2026-08-14",
-  "etag": "W/\"dc2a208fe4a88c76528cf0e020958a22f75e1e29fbb54343af9e7235ea3fe58f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"260c91ecf888df125f15baffeaedf4cc3538de3ef4c7d25838fd28b97d915c2b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Juryorca/dsh-custom-theme-import": {
   "stars": 2,
@@ -1132,44 +1132,44 @@
  "https://github.com/kam74515-boop/dsh-everything-oauth": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"1a7c528d6e2377b15a5b03965f56eb7e4b079c617a807e65cd609eb6df378610\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"58c5ed428a1e784acfacb38520e4a5895d248205b02674e7f8f299b2de94708f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/KinGao294/dsh-skin": {
   "stars": 18,
   "createdAt": "2026-08-13",
-  "etag": "W/\"841a31c5e434e04db8a5bdffbd9262defc89a7608695c7adc672d55681c1c167\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5e9609edd06bc02b7f8ba611ab36ba2eb204dc9e59e15535996c9f1bef3890a1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/kunjinkao-os/dsh-mobile-gui-agent": {
-  "stars": 11,
+  "stars": 10,
   "createdAt": "2026-08-14",
-  "etag": "W/\"399724f35b359aa93c09b19345206e3225562613ef0acc175ef4dec7325eaf03\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"44015ac4f4537f608fa00e8e903dd7c3d5c002cba34c9086061ab09586d2b1eb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/l541402398/dsh-file-uploads": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"aaf7a04a3d78fc189899e3ea4a20f3aea27418a80c5b056be00785c5a01f00c0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"1863df64031aac4e7a606569c7f99d99c3675c365d7bcc2e75371e9cdbdcb127\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lak321/dsh-filetree": {
   "stars": 2,
   "createdAt": "2026-08-15",
-  "etag": "W/\"1ec0576116adaf0f7ec116d793e95e165fa5c4448cb87767316fc12d8ed536e8\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"f83b4e1044e242de54882a081f96a521429f9bf3fa40bbbfe9ff07f05ac8cea3\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lak321/dsh-screen-agent": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"de5726bb744955bc988e240fdfd36050e1d7a6e0cf0498641f9cb0816a1a04b4\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"423dea3d5ca9c91cbdaf73f88b35805715e5d5c21104f251b3d491c4296c7f73\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lak321/dsh-voice-chat": {
   "stars": 0,
   "createdAt": "2026-08-16",
-  "etag": "W/\"b671023de3b678609f1137cb3fdbbc23d353f34ae2d2721afdd956d0bddd3034\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ddc030c7ff45c0663978c634554b0b787908c8cdb7d81b6f8d67d5c36bd40d6b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lancecheney/dsh-plugins/tree/main/packages/dsh-deepseek-balance": {
   "stars": null,
@@ -1178,50 +1178,50 @@
  "https://github.com/Lanxing6480/dsh-galgame": {
   "stars": 19,
   "createdAt": "2026-08-14",
-  "etag": "W/\"2b763802ab87e0af84eae96c54005fecf48a019d132dcccc44ee1072c59d358a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"65b892b977e1d2b89850b49ef35332b3b466ca70a60954bcc6dd5e3b4c2d6882\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Laplace-bit/dsh-bell-notify": {
   "stars": 4,
   "createdAt": "2026-08-16",
-  "etag": "W/\"89ead69b974653a88cc83b24828776095ee081724385fd92c05c8bd403ea485c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b91d2dd6c5858caf989a9285b265d4f5f5e688dc5b7c3c597a1fc8db979f4010\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Laplace-bit/dsh-smooth-stream": {
-  "stars": 71,
+  "stars": 73,
   "createdAt": "2026-08-15",
-  "etag": "W/\"fabe1612ed415da1e34839887c0f65c4e3b2b3740da36c960a9fff2cbbc4d205\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bde8962eaac3344e8265e72e5304aec92f73f7a577274fdf56ad0effc29cc493\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/leechen298/Code2Skill": {
   "stars": 7,
   "createdAt": "2026-07-17",
-  "etag": "W/\"8e9e28b52338170c0488cea399995c1c7e5751d03bb419e78c5cb796c006a592\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"82d88a1fd15da87081d4bea8ac542e975f99b7b586517c9aab6e02885ed9c8ab\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lehhair/dsh-diff-viewer": {
   "stars": 27,
   "createdAt": "2026-08-12",
-  "etag": "W/\"c8ebd6ae2aace21100c3551483d42ee7300976b91b040355d583f99add7b482d\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3d9ee5db99925d6440735631aa6cc11703076c772107bad8d714c680e2056780\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Leon0555/dsh-lan-access": {
   "stars": 14,
   "createdAt": "2026-08-14",
-  "etag": "W/\"a4d87249a5da22fb5c8b06656ec2495ac7fbc66bcc3e96821428d17e20a57feb\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"64c5f060dad00c3e742f0fc08eec76df9cc60fbe17f6d96ca695f9995e9d497f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Letter2025/dsh-approval-llm": {
   "stars": 7,
   "createdAt": "2026-08-14",
-  "etag": "W/\"ef5e343c9ec0df52522b1e2da56662cf955db0507353a0541b6e94e95d7e7d86\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"77d6de146ada7aa8187db3c607bacc4cc7c956886fb01acbf7fe7eb64b89da49\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Letter2025/dsh-model-failover": {
   "stars": 4,
   "createdAt": "2026-08-14",
-  "etag": "W/\"084a4379503fdfa06187a03cbdfef9773dce773ee41547a6a6946c03de2f8bf0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"f03451a132acf1144c80efc35b9015e9aab7c1b4c08d458c4c89cfe8a3e74b30\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Letter2025/dsh-task-worktree": {
   "stars": 1,
@@ -1230,142 +1230,142 @@
   "checkedAt": "2026-09-15"
  },
  "https://github.com/lhh010/dsh-minigames": {
-  "stars": 33,
+  "stars": 32,
   "createdAt": "2026-08-13",
-  "etag": "W/\"662b5b607cd46ae5a56c757a7a6d34dfae055a7f4e427f52a29add2510309960\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"93f69e230c2613ecd871957e3b4ae6fbd0ec2d03e4f6952e818ff72a739c6f39\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lire1131/dsh-undo-plugin": {
-  "stars": 155,
+  "stars": 160,
   "createdAt": "2026-08-14",
-  "etag": "W/\"2a5bb6b0df73c24d256a52da580b89691d6b773960c5cdfa09d8394dd2479680\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2e6d8223dbcc188051b3ad171abe25f31790334b1137e0f7d742903e84c63fbb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Liu-ZA-81/dsh-theme-firefly": {
-  "stars": 21,
+  "stars": 23,
   "createdAt": "2026-08-16",
-  "etag": "W/\"761ea0f951102e704505cf7463a8604b7f33181d90c114022f554c1a18fb6f35\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"49aef62916bb0b72217907ea50027608e12a8972bedd2176b95f8abca8a05bd3\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/liustack/modlens": {
-  "stars": 3961,
+  "stars": 4000,
   "createdAt": "2026-02-22",
-  "etag": "W/\"3300f74418cb094323a6b167662c4d49e25e348a65a8db5d7d0a866fe1b73a76\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"dd3d1f3da876a41e0e6f9a61e74f341e09645714449d07904b4534053ba58cac\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/liustack/modsearch": {
-  "stars": 475,
+  "stars": 513,
   "createdAt": "2026-02-22",
-  "etag": "W/\"299fd846715b1ba9076ce8bdc3fcfa2c6e39f4edc7eefc4118cacf2f89dc6f25\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d42aeb8e9774eff7faf3904cd769fa9fc8626736b73b0fb226fc0b0531fcc800\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Lixiaoyiao/deepseek-harness-action": {
   "stars": 16,
   "createdAt": "2026-08-14",
-  "etag": "W/\"becd29cf34bbd6a4bda82e876214e88d2bdee99a18572e2e9baddaaa626b13ef\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b4f23b2b8bc134b04223f6b92403736fbc7af333c49e34e28fc80f56f66d67ac\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lkdx0220/Genshin-odette-skin-dsh": {
   "stars": 2,
   "createdAt": "2026-08-17",
-  "etag": "W/\"f169ade6909753eb3c14e2b70e27632e5155110d0e98ecbd5db3d71d4e4ab46e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"696bc6f135900cacd9c63d7a76e342f2fdf6ddb78126597098f0538ff5750505\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lonelymoon87/dsh-code-intel": {
   "stars": 1,
   "createdAt": "2026-08-13",
-  "etag": "W/\"31b86db6ff036e84545b0c192ebc525c670347caece8724ad677ed49cd08f6ac\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b0064290bfe73836b4c6d82d4fcb35cf06cc86a4feb8a497586a8b0d7943896f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lonelymoon87/dsh-gitflow": {
   "stars": 1,
   "createdAt": "2026-08-13",
-  "etag": "W/\"a6a35b7ebe7136a36f7bb370e0de467de9ca30c42ea5e3709f0925c5236998db\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3204dfb47742e2f7dc27fdbff3bf670abc993066b5f9b5a58ba460ca83c2da33\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lonelymoon87/dsh-guardian": {
   "stars": 1,
   "createdAt": "2026-08-13",
-  "etag": "W/\"2e33b0d89dce27e13fd500c1dc3778afb864d337d6ddececbb027d8591279e5e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"95ffa016bd47941c452ae48e8b35fa3f72ef18103bd26e421a83159b07d139b6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lonelymoon87/dsh-specflow": {
-  "stars": 3,
+  "stars": 4,
   "createdAt": "2026-08-13",
-  "etag": "W/\"2c229d5be389fe16b45733157bf30e1da2702314b6cecf6d0ba933e7a5f98f6c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"22c45337166c34c63b358ac72c9e96b399d3cc884574dfda7dc87a8d8b7de1eb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/LoserFox/distill": {
-  "stars": 25,
+  "stars": 27,
   "createdAt": "2026-08-04",
-  "etag": "W/\"2f3f9b44de39077d150e95e73c502d915959948792c769611604699a32daf37a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"305e7dc4024cc6f18b577cdb6b98f725202bbebe5159d62eb9fdf791620223c1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/LoserFox/dsh-git-identity": {
   "stars": 6,
   "createdAt": "2026-08-08",
-  "etag": "W/\"37670b65b0d0b099e2ac639f597db303326c663f7a6a71730927e17e4939380f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"754f15cacb8af155c2ce3d9c3db44c224249f639cf55f8fa78608238b938e9ef\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/LoserFox/telegram": {
-  "stars": 6,
+  "stars": 7,
   "createdAt": "2026-08-04",
-  "etag": "W/\"ea76a954f148c578f3788e31a5d40595adbbcdb3a51892d7055f41381c64d35c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"fdf5cd88c6593a5e94cf7af8c0d0d0d74fb340bb41a6200f77a3dda4289ed1a6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lqhl/dsh-pi-tui": {
   "stars": 2,
   "createdAt": "2026-08-13",
-  "etag": "W/\"ab21badfbd76af17ad821336b0870d35be95a1ac4ef1916669f46bf4e56d8b9a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2455db08eafb09f7294bf8d9163d0f764d2bfd8b746fdb2215e6c171f9e0c3dc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lsjspl/dsh-plugin-grok2api-media-tool": {
-  "stars": 2,
+  "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"0ba6c779ab5b86ceb5792b8a0bb755bf280a024c10dc9c9302909fc9906a0bb3\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"aa7cd288e4233abd83c27c466f16cda2424543f88563ee44ac9b0b24e1eee652\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Luaphes/dsh-web-attention-badge": {
   "stars": 5,
   "createdAt": "2026-08-13",
-  "etag": "W/\"745bb6b8e5b250d49eb766b2cb0ce3c4f7d4cbdf4b3e945d631a9b4519ba629b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"27e62b95c537a5a1a9e1208e3dd15647758cfd915fdd6e9e7011e97cfb9fb66b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Luke-Yong/dsh-plugin-knowledge-graph": {
   "stars": 4,
   "createdAt": "2026-08-14",
-  "etag": "W/\"b365d4de05ed46b42a48c44635041ca8b36b42855e0120b3fe161667b9ea6d32\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5dbe9305cf0542cfbd4ac8cf878d7a423af050d639d888869b466436f3963274\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Lum1104/dsh-browser": {
-  "stars": 644,
+  "stars": 706,
   "createdAt": "2026-08-06",
-  "etag": "W/\"a5a5e968a44f64a52fc752940c7070524379cdafa371950db69a46eb8cc909f9\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"fb50d0b57f928d7e4f623619285c80507928fd231cd51c23de3a58b5112670d3\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lxj808624/dsh-tool-git": {
   "stars": 3,
   "createdAt": "2026-08-13",
-  "etag": "W/\"aa04383b254e780158a4e94f776f0a56ef7e9d2e3d1f0b627df790494c47a87b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"c2f9ecda54dd33242e1a2f350279bc000aa525cb92d7448578cc018dbf631fe6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lynx-gt/dsh-subagent-cwd": {
   "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"a6f16636b43435f9c107fdc5068fe3183800fcbe5896ef648369ee4b1b470802\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"717145f36354b84112d66c8e52bbed843d4963d1cb7ae4f41e24ffdbdf6026c4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lynx-gt/dsh-subagent-tools": {
   "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"8514e91d3007c5f2572e37f9855545a4b0b2f57b4e4e958b2f9c016d5f6330cf\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"01dfc630d70fa401b9ba31ce67ede80cc01d1823030768adaaa4c9c73acf3d6b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/lzszq/dsh-scholar": {
-  "stars": 44,
+  "stars": 47,
   "createdAt": "2026-08-06",
-  "etag": "W/\"2c2a316b5bf562ac92a015208355f0c05cc95b19052e93bbb3186376396a04dd\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2e1521775f7a6810417ae6584d3abd1a7e67a8207c642504103ff23801a37080\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/maddogfinance/dsh-trading": {
   "stars": 34,
@@ -1376,92 +1376,92 @@
  "https://github.com/MAXeaglet/dsh-bash-terminal": {
   "stars": 20,
   "createdAt": "2026-08-13",
-  "etag": "W/\"ac3fae632565b797ddb9046dcab417a4610c6b7b77951e2be69fd971262c654b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4351bdbb9b4aaf775ec74ce70617d605b19a11ef581ab290b6d5f74a036b0d7e\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Meredith2328/dsh-sticky-note": {
-  "stars": 46,
+  "stars": 47,
   "createdAt": "2026-08-13",
-  "etag": "W/\"3ea40a5dbb4f04af60e92051c0e87ecf76fb3f0b80a871c1c3ddf80c295741b2\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9c831f1b5c413caf1c3628200657be1785fac0f082b446308791c62d3425aed6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/minybear/DeepSeek-Harness-Pet": {
   "stars": 7,
   "createdAt": "2026-08-14",
-  "etag": "W/\"6fe8035ca2fa0ba19426be42f58125b0062a979b55027b5a41b66553bcb28f66\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"59f1f0fefa47da52bd9a05ad635b25a9259e7e852f6dda91f13854032828f82d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/MiraculousGarfield/dsh-ops": {
   "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"ddaeef22c8047c48ff7b58be5c6d17c01a480041f59d81b2fb611a003c6f63da\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"f84ec4c68c1d36f977ff319883cf61eba9265514e5ed830d2a41830e88bddaa3\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/modusensus/dsh-mneme": {
-  "stars": 96,
+  "stars": 113,
   "createdAt": "2026-08-13",
-  "etag": "W/\"767c447ed831bd7d29dff765067f4da0a5c07afa4418afc7bf8b36691de59700\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8e6d79cc4b6c5532f8dd512447b2c8b121368567149fed26a34d53c33dc6bdf6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Moeblack/deepseek-manners": {
-  "stars": 15,
+  "stars": 14,
   "createdAt": "2026-08-11",
-  "etag": "W/\"416d326968fd7497b4f8d53731c1d82499802687e5042740ccc9fd74f5c5cda7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"cf7e92c42d0e7b8336d74e4f6ff2dc570ef0963e0cf94e0e710e439ef61832b6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Moeblack/dsh-message-edit": {
-  "stars": 48,
+  "stars": 49,
   "createdAt": "2026-08-06",
-  "etag": "W/\"f46d6ffeaab185d83ab33b072dc520a47fbde23f52f12cab220cc92ebb0bae43\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"965d14a61481df437ced078044bbb4e4e7a67fa8ee531dbae7b4efa9bc17dca2\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Moeblack/dsh-prompt-studio": {
   "stars": 2,
   "createdAt": "2026-08-05",
-  "etag": "W/\"881e24e267465b4c37ec0068988f3fc6486ec81c26f825d3f2cfadc4794f2d35\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"fa94521873aa9eb06ba9c95d9a7c75a36bf1846e4488ce120039e1ef94804677\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/moon09300731/dsh-approval-gate": {
-  "stars": 66,
+  "stars": 76,
   "createdAt": "2026-08-14",
-  "etag": "W/\"90896693ec8b3b95fd84a782a23c307ce36f035f2611a693738544b5d93e71db\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b228b42f31dfd0276a66a69176bec35839b3082be4b0a59e4dc8c2594a7a548f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/moon09300731/dsh-vision-tools": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"7f8f282b3c6a86b7e0b3198fdfcc153f033daa9c96470e2d31f8e4b0f30a3380\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"1bffd896e453c34d9e24a7a67a35d259d463e8a2b0cd5c16effc7f8ea9778f04\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/MysaDC/dsh-plugin-description": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"4b1a0d2901a5bc5543fbdc94518042fccb8f09c8c7994c5ab8fb43bacb5df5df\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9f2a259294941d41596aa8221f47f1db2edf9ffa810561f48c4ede4476ee4306\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Nagi-ovo/dsh-ads": {
-  "stars": 623,
+  "stars": 630,
   "createdAt": "2026-08-09",
-  "etag": "W/\"defff347c310b92f01b1417a4bb41b251d50e31a5e0ce3a42b0b32dcc872c412\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"0af404b370b81f2630bc0692c66009758159c09f1abe07dda82590a9a0ce84bb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Nagi-ovo/dsh-visualize": {
-  "stars": 259,
+  "stars": 261,
   "createdAt": "2026-08-13",
-  "etag": "W/\"a813923865a15ece189546495a628758a964df71ae1c73981d2ec8f791064260\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b1476b4c3f8778e8867255075c92b4a504256adbf3e3910dcf424cdab7fee457\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/NanmiCoder/dsh-agent-teams": {
-  "stars": 1617,
+  "stars": 1751,
   "createdAt": "2026-08-12",
-  "etag": "W/\"39ded4cf690d8593236d9e9f7161190aa468c81470068874ce579477bb7597d5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b4f552875648add6c2c30ed18e525c43b2d5fb72a169bda5633d026e8a3b59a0\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/nonewind/dsh-spend": {
-  "stars": 10,
+  "stars": 8,
   "createdAt": "2026-08-14",
-  "etag": "W/\"679bd803e83da381f2dbb8445064959657186c2fb0f359d057e4e902ee59da4e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"91806540a1fcaeae5dcf47bdcaaf847676e81d4ac0a9b63da3d451a8e9df0877\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Noob-stupid/dsh-plugin-hub": {
   "stars": 86,
@@ -1472,248 +1472,248 @@
  "https://github.com/nowledge-co/nowledge-mem-deepseek-harness": {
   "stars": 6,
   "createdAt": "2026-08-13",
-  "etag": "W/\"c6cb5990623ecf0667c0327f69d0a1ffb536f944ff1a27a2afce7e1a8d253691\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"643bd8c7c524649a61f2f084bb6ca1970240bc0d633d73a6e633fd4347031ad0\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Nwflower/dsh-chat-import": {
-  "stars": 158,
+  "stars": 190,
   "createdAt": "2026-08-13",
-  "etag": "W/\"867e8a8c13453fbd02a408f986328655735575c1d5886b67be5dd30fe9132b34\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3395946fc8d19b3fa12fecdd90a1d9faeeaaedbd6108e111461f384527b441a7\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Nwflower/dsh-file-claim": {
-  "stars": 5,
+  "stars": 6,
   "createdAt": "2026-08-14",
-  "etag": "W/\"3b11effbce133e67498921baf6535512c0658190124ba52190da0a729c2fb8c1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b4ec13f15512e1b42bf0e83082dfc1e63153d38044cdd735ba2d3a13463bbe2d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-annotation": {
-  "stars": 117,
+  "stars": 127,
   "createdAt": "2026-08-10",
-  "etag": "W/\"58f65f9c715d034051d5623f0dc8aadbfe24e86f0375cb59b5ec3053096312c6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2dd4151a3bfc1aa7a219fa09f2a4e2d01f20fd6d863cadb6725ae70cbd8498f0\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-at-file": {
-  "stars": 510,
+  "stars": 511,
   "createdAt": "2026-08-13",
-  "etag": "W/\"d1fce524da83e486c3cf8d585604d186330877733064627fd10519f69fddc2b7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8be29dfa0f0b59b60841ef488838a555e15621a9e8ecda3d4c0a4c3b23127cf9\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-auto-chess": {
   "stars": 2,
   "createdAt": "2026-08-10",
-  "etag": "W/\"e34d98fe88b5deb378849403ddded4812fc162f25edbd7b8ca1be48ab7be2975\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3f8a1dc774503b2683abf3a1699705c9d9aa81114ea7cd052c9a3c8307a8c6cf\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/DSH-better-sidebar": {
-  "stars": 3571,
+  "stars": 3693,
   "createdAt": "2026-08-07",
-  "etag": "W/\"84070977b4af4e896cb31b2878d1882f39548651101ab62b76e502243e132c1a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"584aa2ab842af6d445d65397a7aeaa52c446d1741cebd84683eba326cb0dbb39\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-custom-tool": {
-  "stars": 24,
+  "stars": 23,
   "createdAt": "2026-08-13",
-  "etag": "W/\"0d653de54bdecfed4504fe2db893657983aa9379e8b00402fb7864822547d76e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"07bfa59dab8136cedecb7b065f681e656add8548d340deb473fd9f2a63fb8956\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-data-agent": {
-  "stars": 193,
+  "stars": 196,
   "createdAt": "2026-08-11",
-  "etag": "W/\"113586b151418413f5d004f42c09a559fdac814c199caff9b5242cd084df26b1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6c43cc7a52b98e8670fde9c10d0a6c5ed8fd915906504c39da8c2292843145b6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-deep-research": {
-  "stars": 23,
+  "stars": 24,
   "createdAt": "2026-08-06",
-  "etag": "W/\"af7b7b18f8903d0893aef79b0bb6de329f2f7dd4d25764a56022b1a49688177c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"de7467a2e98c937dcefc732ef1131fd8d9cee2db6df501a85754138f3e14abd1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-genui": {
-  "stars": 445,
+  "stars": 470,
   "createdAt": "2026-08-13",
-  "etag": "W/\"38e2cd787807d39160813708d6e3c10f3822b72a29ca31912d07e9bab452bfca\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"770f762dcdf57c5039874c1ff7028f69e5399cdab615488362570c0fc6f46634\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-gomoku": {
   "stars": 24,
   "createdAt": "2026-08-08",
-  "etag": "W/\"c066ec65d0cb491cf703cedc3d822c0e99b1c2cb161ca4514234e7b7355da5d4\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"fba61969daaf5b384b05cafd91c7e541fa4b633cc63007cbb6a2a83b02111d9f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-inspect": {
-  "stars": 6,
+  "stars": 7,
   "createdAt": "2026-08-06",
-  "etag": "W/\"b647b106a02bf2f11f6b88b5292c5068ba9aeabc53dfa3d02dc5503e95fab81f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bbfa0ec290fca09edc08f48e91978007c7d08b43622ab7915892b6eb2882869c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-kb-sieve": {
   "stars": 3,
   "createdAt": "2026-08-11",
-  "etag": "W/\"745fc9560ede082c11c59998550e6f9d3639c91d10666da6619899b816fa382c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7fd22651349ad9038421ed2a22aa497eb3a72f8e2cee561ee944df1d60ae1fb0\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-mnemon": {
-  "stars": 366,
+  "stars": 390,
   "createdAt": "2026-08-10",
-  "etag": "W/\"530083153d4a92efeecc5722764c4d693b7d88e109eeeafec5067f597f466cd6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"145f1330d4f94cbd8b3d59b4914dc5b6f3d11b18ce07c502c11105a505833788\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-notification": {
   "stars": 83,
   "createdAt": "2026-08-13",
-  "etag": "W/\"c9482aa6d37d548c40b2382d46498706685d3efa7be61d0b9eb2d9783a479ef4\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9e7b31c3eefbec3eed0571b06690b66f4bf78e37141b7a162c3282a36b1ade5f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-open-in-vscode": {
   "stars": 53,
   "createdAt": "2026-08-13",
-  "etag": "W/\"23d7892289c6e6ac99eee3e21a966668ace7def48674d7f4d960a716b9f2b4e4\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"62c3ea16d0567e53d6d24df5fbb0f182966f639001bfea8f31ef20fa014063bf\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-plugin-check": {
-  "stars": 27,
+  "stars": 26,
   "createdAt": "2026-08-08",
-  "etag": "W/\"b6881dd2d7cc4116897c97b3682d6a44eabd4130dd492ec26b6cb9ccf873034c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"54f07e7ad2b67d9533f314153826e5d285d0125ec3cf1c501ffa1cac53159fc7\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-security-audit": {
-  "stars": 15,
+  "stars": 14,
   "createdAt": "2026-08-10",
-  "etag": "W/\"c34ad0d1407ff3ac1cc95976be17ec7957619f7d2a6c6d8ce3609891e8c02bfe\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"c3e3d2356177c3af68df01bee8b24c64bceb75f5fe5c6e0250848eb7b1bb7836\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-session-health": {
   "stars": 8,
   "createdAt": "2026-08-08",
-  "etag": "W/\"539f90d6181c0bb4be732a4558ac7326e2b0c100d67f610013bcd03366c3899c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"704cee6d496c6aacc93b1e7bd81faee2a44467130fbe8aa688016b5d45cc0adf\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-calculator": {
   "stars": 8,
   "createdAt": "2026-08-05",
-  "etag": "W/\"0142fa7deed99ef1c7be551e616a5302072c5dcc8930c9dd18335d2601b9bf36\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"f248e0293226d990c8a92adcb735dd662e7536ca2382af859232f86730dee78f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-csv": {
   "stars": 4,
   "createdAt": "2026-08-07",
-  "etag": "W/\"4dfeda03982819ca3b67176b54ba635a547ff03ec404c1b8c91d3074960427d1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ba759bfa90b6d4b075dcf1a8dbde4473290e7264c5b98bd3dcd28238ddf3b0bb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-diff": {
   "stars": 4,
   "createdAt": "2026-08-09",
-  "etag": "W/\"aa0877f6913e7488a3ad169f955d8122f0192e7df02ff915c17c788467516f45\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3604a38619c1610450038220e55c55b8db5d95a4c345a41cb276d8bda1b8342b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-encoding": {
   "stars": 4,
   "createdAt": "2026-08-06",
-  "etag": "W/\"70905675c6e862bedaf6fb54d9765bfff38ac1ba9b1289ba5a1ee0a7f982deff\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"25862f30f85e5d5c508e113b7831e70ab11dd388e56ef81a653eea5fa7eff6f4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-json": {
   "stars": 3,
   "createdAt": "2026-08-05",
-  "etag": "W/\"84df617a89fc0f214fb928b9a02989b1a23897a2cc37e6f62fee46ae75c4cd02\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d896d77fd4b0a67ceb63acabd8b09289e0be3a5d94d864d4f4e55134a9876dfb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-markdown": {
   "stars": 3,
   "createdAt": "2026-08-08",
-  "etag": "W/\"be347ed8df60be58e31d951947827057637f1150d6746eccf5df71b028164163\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"425687bd9f001915d409f39a5f51f5ab551110a06816da8c201a28c725dfc1bc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-regex": {
   "stars": 3,
   "createdAt": "2026-08-07",
-  "etag": "W/\"b117dbd37503358600b1a26e9052e1de61233a403f6262032e4c32241915dc73\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6825ababeb80ca54857659b29f0283b950a9ee35f33c94650dc0d7f1c1b0d05e\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-schema": {
   "stars": 3,
   "createdAt": "2026-08-10",
-  "etag": "W/\"b668a10f18f374bb7e625cfc4c21251e58754f870cb0842fb7cba45c3ad095c0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3e5685d2dce16dcd0a9dddc6e5faaf89f48e8961ef3e4e0299df2928d9dc0d6a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-stat": {
   "stars": 6,
   "createdAt": "2026-08-10",
-  "etag": "W/\"89a7f168368305fb4134a075c077b5f35299700e4877d104e620667db96584d6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4e5a69674e2d0209cce40ca16274cfb50361b4deb81728196c77076259b21e1b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-tool-time": {
   "stars": 4,
   "createdAt": "2026-08-06",
-  "etag": "W/\"97d0baf96a2307c306204cf8f98a9e5b094bb6605e606f1c21a86f156f2f15f5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"509019731ae7c1ce72f20dfe19fe19f555a6661faf2f06a1088e36c72491ce3f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/dsh-toolkit": {
-  "stars": 29,
+  "stars": 28,
   "createdAt": "2026-08-08",
-  "etag": "W/\"b98bcc4894aed229fa8f16196a4d5fd1eeab94da865314238d950a78c505a957\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d307530a3f7cf067e07643666b16774b589f0d4919d67c1b026e99a69fcba994\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/ex-setting": {
   "stars": 1,
   "createdAt": "2026-08-04",
-  "etag": "W/\"b7b4f9ac54172ed4b1d355e5fcc8ea8b1826f4751fa2cce9931d4d023dcfedf3\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"07a225fb23fb5bdf3bb833eebc665e17bfc09a8812ae539d79409f62158c0e99\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/fabric": {
   "stars": 18,
   "createdAt": "2026-08-06",
-  "etag": "W/\"764d527fcc054ae32efe0db00dd00c44eb07447d3c17362888d4914b0fd1ed91\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"047b0155edaf6fbfa7adfe431b1677fb1be8783fdbb74da1d34e15ea6942edb4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/plugin-template": {
-  "stars": 14,
+  "stars": 13,
   "createdAt": "2026-08-11",
-  "etag": "W/\"a0725003d0e0f69d43ac40022d316beeef10253ee09b640d9b0978b3fb77f3e8\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8eb209f16fd1931fabfa795280f502d6e7d1095f7d8fa340c23341b34515f7bc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/Qwen-MM-Plugins": {
   "stars": 0,
   "createdAt": "2026-08-22",
-  "etag": "W/\"37eb08b79435854b33ba267ff542bfcacb9ec4f5f10d159dd743ba92e04e8bb5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"655856df5b7841ecdabc6b4145bcef203e13fff52e5900327afae978126fb829\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/sandbox-micro": {
   "stars": 3,
   "createdAt": "2026-08-08",
-  "etag": "W/\"1754851a9fa9a7651f6b9aa18b3416681ef40f51b80df4ae74a9e94dd65c892d\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3e2c9e3f82225f746237c35c50e48246a1bd97d4808ce93b81811e6145adac2d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/sandbox-mxc": {
   "stars": 1,
   "createdAt": "2026-08-04",
-  "etag": "W/\"f309301ee15c84660a2945cdc6df9260518354e341afc224c348a661492ccbc3\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"496c697f24957da3799ebab7a54a5d19ca7c0f12cb1b3f98214b11cd9e15d6a8\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/sandbox-nono": {
   "stars": 2,
   "createdAt": "2026-08-10",
-  "etag": "W/\"d3ffebef9343020d57e83778ff3fbd32af8da156be3be0853a49a53a054b8fb7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"ad24843aa800cf11b1a14c5ec093aa7180f63f96f1ec19ec6938790897acb357\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/omdsh-dev/web-components": {
   "stars": 1,
   "createdAt": "2026-08-04",
-  "etag": "W/\"59c29b4ea42e49b6f990c35b100c4f747ea411ffc02d63c59eafc574f64e596c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"674bb23b067b1e7a3b632394242a00ea461505d87cfe4f118b32932c65273979\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/openma-ai/deepseek-harness-acp": {
-  "stars": 29,
+  "stars": 34,
   "createdAt": "2026-08-13",
-  "etag": "W/\"1692b63f533729d11cf00064c1c18ff6600f2a6d00e1480c210a14ff2c7ffab8\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4727467829598eaa591e00ea8a02d371fe4c6c32185e67f90234eef2d310d376\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/openma-ai/deepseek-harness-tui": {
-  "stars": 74,
+  "stars": 76,
   "createdAt": "2026-08-13",
-  "etag": "W/\"69579881fceb54934438641dfed463a5ea159807825f7c9b52b67ecd2c49842f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7c64cc9609ed9e81a77ea895f9270b09cd981ad6599d3f098089b96cbe91da28\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/orziz/odai/tree/main/dsh/plugin": {
   "stars": null,
@@ -1768,10 +1768,10 @@
   "checkedAt": "2026-09-16"
  },
  "https://github.com/PerryLink/dsh-doublecheck": {
-  "stars": 29,
+  "stars": 38,
   "createdAt": "2026-08-14",
-  "etag": "W/\"ba0da0dd5eb0070d4b8240836e4be20aa457baf755c0b7feb43819b3a7e5a110\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"be6ca7d37f96fdebaaa755659d0111826f5f1b339c6ce5fa9189bfa105230227\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/PerryLink/dsh-draw": {
   "stars": 7,
@@ -1816,16 +1816,16 @@
   "checkedAt": "2026-09-16"
  },
  "https://github.com/PerryLink/dsh-mcp-panel": {
-  "stars": 57,
+  "stars": 61,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d4bfd6211bf8c471311ba0e04a61da21d332e2f74af256e39630c6600b201d39\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"55bd337b61c9130af312caad22000f65f4e6ff46f29c58f8b5ae366bd26615c0\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/PerryLink/dsh-memento": {
-  "stars": 89,
+  "stars": 108,
   "createdAt": "2026-08-13",
-  "etag": "W/\"cb8f22ebc1a6a0421e455de160bbf390c31504959da6ab89bb7ad640923e4908\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6469db02b8de4df8ffbc42fa47a1cb008005ee158fafb1678a682715e518957d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/PerryLink/dsh-observe": {
   "stars": 6,
@@ -1900,28 +1900,28 @@
   "checkedAt": "2026-09-15"
  },
  "https://github.com/Phant0Meow/dsh-memory-meow": {
-  "stars": 95,
+  "stars": 110,
   "createdAt": "2026-08-14",
-  "etag": "W/\"13d8e07bf19117bea5ab3dfc43dccaefa7e82e6d46f6716113f3d65350be394e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7e0cd632e8aa02842d4bd49646a78ad98e3b80aaa08e4a399b6c3499f46d451a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/phelpsyacht/dshmath-manim": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"bcfe9e4f8f88adf5e145fad0a49c35a97dbac48baddc3564cbc50cb42ed03c03\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"83b8131e59ad39118caed08698947c5c857040d6f3ba3c44ae091e6869b40c01\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/PicGo/dsh-plugin": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"52c1992388205f836906761c360f6536ccfdf2aa6521bdc97e16b529d899014a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9c08b91697fb8df8e728e8f0ef20f8a4131b9d2ac358af32ffdc5738b07c2016\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/pk7j7sqryy-ops/dsh-token-pet": {
   "stars": 3,
   "createdAt": "2026-08-15",
-  "etag": "W/\"0a7c793134412f02a140f8d8349bf296c1fbc02f338fe96e083e985daf86d34e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bb2c50424341cb3da662cfa1d843dfb41ca92f65ed2e9e31cbe61fa8e88f0546\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/PolinniZhong/dsh-omi-voice": {
   "stars": 73,
@@ -1932,14 +1932,14 @@
  "https://github.com/qyw233/dsh-deeplink": {
   "stars": 3,
   "createdAt": "2026-08-13",
-  "etag": "W/\"46252a5d69f5baec38de6c3739e98d0fc94ecdaf6ab126443e81526d68efe642\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8ce1cdad99f09df2d1574c9ea7d25498a170d1f4d5ae46e5958e876e324d7c8d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/renat3u/dsh-web-archive": {
   "stars": 8,
   "createdAt": "2026-08-08",
-  "etag": "W/\"9d088d31885c8fedcf63bcefebc6f823552611a777406d69154e33c8ba27e2f1\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"467fc3375615807a20d3895ca16379c122c84b02fae8a9d276eae25f4eb3e429\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Renzic-Stone/DSH-EasyRewrite": {
   "stars": 115,
@@ -1948,10 +1948,10 @@
   "checkedAt": "2026-09-17"
  },
  "https://github.com/RevolutionLA/dsh-dream-skin": {
-  "stars": 160,
+  "stars": 178,
   "createdAt": "2026-08-15",
-  "etag": "W/\"79dba694f32c623e8ebcea08f376918255fb2ee648c8827c7b9e3faa7b9e51ca\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4f3becb5d6ce022417821d9c7509b74716c0c777aa62cd3accacbe30bde101f1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ruimin251204/dsh-plugin-surgery": {
   "stars": 1,
@@ -1962,14 +1962,14 @@
  "https://github.com/sakikoTGW/pack-agent": {
   "stars": 3,
   "createdAt": "2026-06-24",
-  "etag": "W/\"ce8ee236dc715c56ec6e9b3fe9385e6202672a44e06273c4dd80ae781f6bf7fe\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6e18835a9e905ddf96e51e491ed558e9f2689999443e2d0a5dbd4aba98957dc6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/SamXiaBing/dsh-adb": {
   "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"70a6fdf531abf7768865ab80986f79601055036affc50996a41c4d0b4ba3d64d\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"49081b8af27ec906c598b6a4a58ef71dba024f157751eb84a08d1907a28d6ea3\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/sandbaseai/dsh-plugin-store": {
   "stars": 3,
@@ -1984,40 +1984,40 @@
   "checkedAt": "2026-09-16"
  },
  "https://github.com/Sanqi-normal/dsh-webui-market-plugin": {
-  "stars": 104,
+  "stars": 103,
   "createdAt": "2026-08-13",
-  "etag": "W/\"2940f84bec332106eebda92fa74b851ada7db88fe551f14feba0a53c93ebbeca\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bfa2ec8f558e96048a48eaf33d6e8b7fa01d0284eec78117540545cbc4a0a418\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Sev7een/ds-api-usage": {
   "stars": 5,
   "createdAt": "2026-08-13",
-  "etag": "W/\"fb0af05c02d970f9f380d2296634c267e8f6157831e3451ff91e8c0f5b285fee\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"af23267706e939a22f0bd183c84b2980b57d9930e7f74c8dc14d993eba66a283\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Sev7een/dsh-plugin-automations": {
-  "stars": 3,
+  "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"f6248d244332fe26050d015af6ee1cee711d27fe82ddf73f45c65a942ec092ef\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5af0ea2ffe3abd2d3e9769851bfc543066864202c88ae94076ae974d03e864cc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/SeverusZh/dsh-notify-windows": {
   "stars": 7,
   "createdAt": "2026-08-13",
-  "etag": "W/\"be35accab9997be82959a1ce1ead0a99ac80b173b044d18e293bbfae3c695323\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"be39317c9849a0b7058033462de772344b50a6c140d92e590dff334414cb5a7f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Simon314620/dsh-turn-index": {
   "stars": 2,
   "createdAt": "2026-08-13",
-  "etag": "W/\"48d686f23ed11654ef04d84bf492db69bd4b80434452b7d28293ea32436e9fef\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"c11b931a727743d595139272b6d1938b075513cccfd6f985310c078e3032e7d4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/siweina/dsh-novel-writer": {
-  "stars": 16,
+  "stars": 17,
   "createdAt": "2026-08-16",
-  "etag": "W/\"d220b0e2a3214065a6325de2d6ab18e14859b75de8571adea9ec33fbba5ee1ed\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6d18da0cfda50b7c774cafb358ae37629c3ff2e64552e00c554cdfbb264cda00\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/sjh9714/dsh-what-changed": {
   "stars": 2,
@@ -2026,52 +2026,52 @@
   "checkedAt": "2026-08-24"
  },
  "https://github.com/slywalker2006/dsh-passwords": {
-  "stars": 55,
+  "stars": 63,
   "createdAt": "2026-08-14",
-  "etag": "W/\"50c10bafbf97e296fe2745a0220cc13b9d5ec73be2697f1d0376ecd12a6f05a4\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b6f06552fba26dca541e3a972283b11f067cedd12b47873584f8222c0d7e4f68\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Small-tailqwq/dsh-deep-whale": {
-  "stars": 2069,
+  "stars": 2162,
   "createdAt": "2026-08-13",
-  "etag": "W/\"a7492ec726cafcbac8c0fec87185e674b3a216447b7a58ed562c236e82c274b2\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8dee89412910cb5b28367ccbee1bba977eb75656d7b89136fa5588b412c563ab\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Small-tailqwq/dsh-tps": {
-  "stars": 2,
+  "stars": 3,
   "createdAt": "2026-08-13",
-  "etag": "W/\"05ba58536e088bb328937f7e8e25d98b1d4df770293f7df33a4d5304d5794396\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5298250d75c22c31aa2778933a5bece0843f41ef0f4320fa92e2b938ead563ff\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/SnowCrescenter-tech/dsh-milestone": {
-  "stars": 24,
+  "stars": 26,
   "createdAt": "2026-08-13",
-  "etag": "W/\"4ce77bc499ad66f25652278b2c176193bc07117f8eb40d1b3e333e13bea2a456\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"8e0f97d830f6af05de7b571b70f012541f38ad989bc52a5599477f8bdfaa6af2\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Starfie1d1272/dsh-builtin-toggles": {
   "stars": 7,
   "createdAt": "2026-08-13",
-  "etag": "W/\"5f4ed33613f2a778ac3792bc8d00907558c7ff0215edc9d85a6e6de19fd8c6e6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"db50ead00cb27c5274b9ae8f1bfbd53119efe4a686b1244864c30fe3c42325ef\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/stopchewing/dsh-mcp-view": {
   "stars": 2,
   "createdAt": "2026-08-17",
-  "etag": "W/\"e6362a87f8801b83af7ec12969f8fe835431d5ec54bd40f72b5222e22c685bf7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"fab28f863a93ee6072c24bfdff802f3d4081afd8da936f37e9da802a23cda771\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Sttrevens/dsh-cost-meter": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"b2083a8c3a42cc1380701d65cd8e5fd2b3a1669d6d7cad0651a02f7a1d3fe1cd\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"a604cd283940277cd44a615a5101fe2bd78339c90c4f17bd17e15556b6f84fae\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/suimi8/dsh-test-runner": {
   "stars": 1,
   "createdAt": "2026-08-13",
-  "etag": "W/\"442255502e38ee46691336464931424897768d2d2a888606126bf1c08c2f03f5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"96cb29fa17a5e26a5ee42dba21a4a2cfa4fcdc91c2d8930592d07b7b7dcd6768\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/SunQingyuan0/Kabutack": {
   "stars": 3,
@@ -2082,134 +2082,134 @@
  "https://github.com/sunshine-lang/dsh-pdf": {
   "stars": 7,
   "createdAt": "2026-08-14",
-  "etag": "W/\"e521087714f861d4f98815207b6562bfeda189dc1bc1904ce590e0ca1ff8e9ac\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"06b00e5810f6270d41b065d8e44510c234f8460b1f43c6214a8d1cf440c22fe1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/sunshine-lang/dsh-weather": {
   "stars": 7,
   "createdAt": "2026-08-14",
-  "etag": "W/\"5156e990114edeb3a2af8cf266a887ddfc7a8f053739d373cf639096d0c830cc\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e75420b908ebceaa2f5412cd447467bbe88553be40e4e5a6e8bb4635b6518f89\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/suntianc/dsh-codex-auth": {
-  "stars": 13,
+  "stars": 15,
   "createdAt": "2026-08-14",
-  "etag": "W/\"dbb4cd8632f784a204c05da8b309eb694dbebdbdc1540d4cf696294096b82fb2\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"dd160237a39eb8027745b6b1515bfe498904cd3f906d928390036647e050fe83\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/taxueseek/argo": {
-  "stars": 122,
+  "stars": 147,
   "createdAt": "2026-07-18",
-  "etag": "W/\"77527bfd56125fd0347a07e0be92a26f4df9c27f3419a465c8fcd572d74f59ff\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"22fc60b52dbf2db46c1c7c7f736508e0b959ba54d360616727e88a466a4ac646\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/THU-MAIC/dsh-openmaic": {
-  "stars": 68,
+  "stars": 76,
   "createdAt": "2026-08-13",
-  "etag": "W/\"f1850e24d3d3b96009a1f2124ade87ba32ba6519e72464f5165b92433b56d08c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"18e1e7807b366349ae5a86922aa2d3a5c4df390ae17fb1e6c1b2e96fee2a80d6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/tianxia--/dsh-llm-local-token": {
-  "stars": 3,
+  "stars": 2,
   "createdAt": "2026-08-17",
-  "etag": "W/\"5912064c97734e19bdf59d2f8a6e60003849b966566dfcc672b74ceb3f905787\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"6d4b38499e68823ef72e62ec227b9a965d7cd898255d0c3b08d1f98327f73b6c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/timwhitez/dsh-self-evolving": {
-  "stars": 8,
+  "stars": 7,
   "createdAt": "2026-08-15",
-  "etag": "W/\"2f7c2ea44b82fdf9201b40e98209d5bd346f35df648a17dc28baeea84c8839ff\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"611fcfaa072bac82e612900690bff572d135836be30f3249a5d7e211d191fe9f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/titanwings/dsh-automation": {
-  "stars": 91,
+  "stars": 98,
   "createdAt": "2026-08-13",
-  "etag": "W/\"3e0330e87732907b8406b028ea46bcf725d44ab992a93304760ecf0f40f0af56\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7e59651e336532125f509f5e44f29194b391a62cc7359c6649e8cdbbffd73720\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/titanwings/dsh-plannotator": {
   "stars": 11,
   "createdAt": "2026-08-13",
-  "etag": "W/\"3bcee12d1e9845edfc495935e7ef6393293999a13f97c11219e1eda2aeb0ba82\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"0ad11b264036ee7762595918786df0452ea8a89e7b8fb604209d00a5b6c73bb7\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/TonyDua/dsh-web-search-exa": {
-  "stars": 8,
+  "stars": 9,
   "createdAt": "2026-08-14",
-  "etag": "W/\"bfa0818fbfd2d4ed4f4344beb65ff70c671e38ae292a5778785cd32fba4c79c8\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e319111ed91e498fc5a0f08eedcf4001460b4b38e632b009a8a2ca989ce26dc4\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Tyan66666/billion-context-dsh": {
-  "stars": 88,
+  "stars": 104,
   "createdAt": "2026-08-13",
-  "etag": "W/\"de721899b340e6cbd5d45f6d463ee111838e7a9207eceda73f02603c3275c401\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b7d54ad634e2245919c3ba1c6c930afee9cfbb5ce01f19d7ac4cc33af0cf327b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/v587d/dsh-opencode-go-usage": {
-  "stars": 8,
+  "stars": 9,
   "createdAt": "2026-08-14",
-  "etag": "W/\"94c45edd3445ee7b15f3a956f11659c027f3f5146c138f6da78d9f1773e7fda9\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"a1a0a62978e4f9c1a2b8e66316bb32fb5061c3930d9ed272d56a171144844b40\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vibeinging/dsh-agent-budget": {
   "stars": 1,
   "createdAt": "2026-08-09",
-  "etag": "W/\"6462eadcd4d442bb2b267270659f4f3c1734f1a934ee6c0ad94bc243b59d58c9\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"54aa5477d640f6a1920a97ab698ee8ebbe5795f3f2adf9f603ea95e2c1f83bd3\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vibeinging/dsh-tool-search": {
   "stars": 1,
   "createdAt": "2026-08-11",
-  "etag": "W/\"4754b3b6eeab25712fe5a3aec84a45517571ceb0e9c315454286ae9cd4e1f00a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"26c5dac18f5f05e57fde95d78d4e81ab1158f62187eb5ef7f3aff3e56139c35f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vibeinging/dsh-trace": {
   "stars": 1,
   "createdAt": "2026-08-11",
-  "etag": "W/\"bfe7151089868e23087ebb68d77861941cf0977c65d1521a268d1e2c2a3102ad\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"054a9123cadc91177fac6b5459a898af8bde4a8c414a986a5059edc3994fdea6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vibeinging/dsh-turn-navigator": {
   "stars": 1,
   "createdAt": "2026-08-12",
-  "etag": "W/\"38d98b9f0742bc71d8ecde89f1c13096668cfce699c39071451a6e853bc07109\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"9bbe9866b945a5625b9a3afc53487b9d180c468e35e963af6389d970e9dbba18\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vlln/dsh-loop": {
   "stars": 7,
   "createdAt": "2026-08-10",
-  "etag": "W/\"28f4a3ace59fbf08494eb07ee94f326a20f11fae012b9377fbedca84523b917f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"13526af845f0fd20b0f530d487a18b1b98b1463bde3f583856f09d301b7bfd3b\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vlln/dsh-navbar": {
-  "stars": 55,
+  "stars": 52,
   "createdAt": "2026-08-10",
-  "etag": "W/\"66770c2832e8a8453d2bb8e6f7c88e3f1922bb061871ebfb80ea3befeaff7345\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"32cc33e939d47c592c6b76ad76afd38e5a5a600bf92f97a967d005f97575d007\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vlln/dsh-task-status": {
   "stars": 8,
   "createdAt": "2026-08-10",
-  "etag": "W/\"e98ba8e1088f905b41e9df8b11f38dfc23e3d1cd3371bd66e3ebdf5488a23a7c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d85f36ef190067a59e46de1a3fa378f3b1ed3c1600c2f4ed472216ac70bdf4ac\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vlln/plugin-registry": {
-  "stars": 59,
+  "stars": 58,
   "createdAt": "2026-08-04",
-  "etag": "W/\"cde5ea989c0fd1b081b92140ad08d3af51e3b858f98050ead259ac80d9186e23\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"86e9b480b06cec8fc422a3266ca96d36de405f4e62429ad688f58f219bcbdb59\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/vlln/whale-girl": {
-  "stars": 322,
+  "stars": 328,
   "createdAt": "2026-08-10",
-  "etag": "W/\"c5ca066ca36afacc2ad393b48519344a0b305b3f2288990c999a6ba211f08895\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2b91f4c311831148b448e2c29d375c909e2290750c4a96c147d2ce97aa96c96c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/WFMinerva/dsh-turn-cost": {
   "stars": 0,
   "createdAt": "2026-08-17",
-  "etag": "W/\"d44e774f939cff5b8a37b84a8f970840156a49ecb988cb55ded160ca1e53d207\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"4a17b8f2ac6af113f8dcc3f869208265d5f5ff9f5de7e7dff73927326e52e3a2\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/whateverboy2333/dsh-flat-teams": {
   "stars": 1,
@@ -2220,20 +2220,20 @@
  "https://github.com/william-jin-cmu/dsh-evolve": {
   "stars": 11,
   "createdAt": "2026-08-06",
-  "etag": "W/\"397fa0c4c8dc54671977ffbe4f5650e30bbb23aa62f9b0ef34cd353290686434\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2c328d42f3d49878aa50667c62fba45bf24fb3dc21e308d21d860009ae37c69f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/william-jin-cmu/dsh-stickers": {
-  "stars": 24,
+  "stars": 25,
   "createdAt": "2026-08-08",
-  "etag": "W/\"e9a35f3732a3ac1f8f0ff472d2e271273573594ea6c9b7d0f463664814d55274\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7fb20196b236099323806ee58ad6970161e2cb867ec399a93ea13b6ca445021f\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Wine-Red/dsh-prompt-stash": {
   "stars": 2,
   "createdAt": "2026-08-13",
-  "etag": "W/\"e63f400cbc2a9817ec8ec4f9db4691e4e8d12690b9227342d7c228051895a546\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"170e6f2b544fd88b4ae12e6b67ba0e1053d7017b537d482dd640769011f0f6bf\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/wsxwj123/dsh-plugins/tree/main/packages/theme-gallery": {
   "stars": null,
@@ -2246,44 +2246,44 @@
  "https://github.com/wuxiangru915/dsh-review-loop": {
   "stars": 1,
   "createdAt": "2026-08-13",
-  "etag": "W/\"13ea6d702f61f1ffe8193dc9227e07b889a554c48387dbf286acfa1f10c5e4f8\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"18e3376447358c7861867c35af99e78b47a410433336d5e637062bc421ce0b75\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/xgone/dsh-remote": {
-  "stars": 63,
+  "stars": 64,
   "createdAt": "2026-08-16",
-  "etag": "W/\"13a915e5ebf253f2e62079ac34d13f8caf36f9a9d8238c960873518dae36f6da\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"20ce41f19925ec6268309db5b446d5ae3f4873a40247490566b8f86ceb67e46c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/xiaogu619520/dsh-plugin-task-panel": {
-  "stars": 1,
+  "stars": 0,
   "createdAt": "2026-08-17",
-  "etag": "W/\"8cb66f906172f546ce84c5c7629e835682a01c7bdc3708842ea18b4c7158918e\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bad5f9a99d817de0edd71c628896f587f7b7997ed6e6a8b11d68401d49e7eb4d\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/xiaoyanzi191/dsh-premium-themes": {
-  "stars": 1,
+  "stars": 0,
   "createdAt": "2026-08-15",
-  "etag": "W/\"f8de496d84a36d55f90d5cddeb298840c6d9540113193801a9ad6f5afc6ca280\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"69d0a77dd18160e1c53e076c3347ea57c015f85b83e3430e48c54924087f68e8\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/xiaoyuyu6420/dsh-backup": {
   "stars": 19,
   "createdAt": "2026-08-14",
-  "etag": "W/\"7fb46b32701658c0ce2160253fee2c0ccebf94eeea0679d5a6b22b609eaecb22\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"94c9f3c8e9645c94bdce153da37c2bad7c1f1425540cf48a82212bec6edcf2e6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/xiehuan123/coding-coach": {
   "stars": 4,
   "createdAt": "2026-08-14",
-  "etag": "W/\"708c8cf7c97bf3a25e7b6a648ffd78f6b2cba98ed11ba0ccd53295024c79971c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d50498c3d2e15a3608f01236e3a866d93c1794d5b27e531dd12667809775e512\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/xiehuan123/dsh-deepread": {
-  "stars": 50,
+  "stars": 53,
   "createdAt": "2026-08-15",
-  "etag": "W/\"522fa735392438fc539b3d6a0363c0a04776e0b53f6430ae0649d30767239bcd\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bec6fcb2688900060efba513e2c75562a9e2915ce59bc56c4903f63aeb2673bc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/xiejianjun000/eco-dsh-plugins": {
   "stars": 1,
@@ -2294,20 +2294,20 @@
  "https://github.com/xingyingyuzhui/dsh-updater-ui": {
   "stars": 5,
   "createdAt": "2026-08-14",
-  "etag": "W/\"59ba5005106af7ae658a650a7700b8f0335977fd31bd5b725a7a9ef83a72c149\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"789971616391955814f784b73c924a207c03e4da4765e561d43b30ace707cab0\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/xmutfyh/dsh-plugin-writing-guard": {
-  "stars": 37,
+  "stars": 40,
   "createdAt": "2026-08-15",
-  "etag": "W/\"6643c1d9a979db437d3b65ae54e7bf1b41b797c419d4353c0df158205f233286\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"d829c52e81ffd073ec8c879228288c63efcc90ff27134ae31c43ee5dd39ef948\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Xplore-LAB/dsh-plugin-asmemory": {
   "stars": 0,
   "createdAt": "2026-08-13",
-  "etag": "W/\"0474e7e6006c3c5c6a910568062f39545ad28d47f45b1fa4a481c66fdd5e1e2a\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"08aa712bc3295e104507ec143df8bfbda5d8c99009aab9d671c093ef4b1d9dea\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/yanglaofish/dsh-skill-manager": {
   "stars": 1,
@@ -2318,151 +2318,151 @@
  "https://github.com/yangyunsong023/dsh-sxs-anti-bot-http": {
   "stars": 2,
   "createdAt": "2026-08-16",
-  "etag": "W/\"ec7dcad9fe4902584b0971a95693647fba3ec4f995e578e25d1da45742722cc3\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b9c3cc6d5f5d60c80e2272c3bba3a18f291954ec19c558c635e3e0feef6d4f5a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/yangyunsong023/dsh-sxs-news-collector": {
   "stars": 1,
   "createdAt": "2026-08-16",
-  "etag": "W/\"6b467479898c144cc055300130be3b23ada467778f107a062c1da95f70c1b467\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"135fd915dea2487eb062ee4fff43305061d647f0a7a651ef4246c02067c59b48\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/yflmq001/dsh-cost-tracker": {
   "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"60b9b5a58558af7c8526b3754a6e58bbf1d346db07c5ed1084aa2d3199315b86\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"52e1d3a4e9d476a78ce8c63cc3a29880cfaff7bd5f7b0df086f4eec8d2801cf6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ylwl1997/noatmark-dsh-plugin": {
-  "stars": 2,
+  "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"b827db8d8fb19d4d0737e11d8cdf5ea86a88023148bc8059b01281a1a08c57ed\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"78d773170986e55c003b742fcb3d02a1307e3b325bbac72041c2c0c6b42a2ffc\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/yoli-mi/dsh-client-ui-custom": {
-  "stars": 34,
+  "stars": 36,
   "createdAt": "2026-08-15",
-  "etag": "W/\"5a1a6d9c5c4230c8e2d3a3a6ecaa95002a2fcde65c8677f97c6a535202c8fb7f\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"793892f3c25b9bf5c9dcaf8268474f2437b0cd4d80d771db44ae824e4c16a5f7\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ysr666/dsh-vision-router": {
-  "stars": 1101,
+  "stars": 1113,
   "createdAt": "2026-08-13",
-  "etag": "W/\"0586254a4d61469a467d215a07a72fde6eaedb86e4adc18ea5402815889c30c0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e46fe41841855ba08f064430959a94c90aaa2a9b4cf92175ce46b1fc9a5599c6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/yuezengwu/dsh-explain": {
-  "stars": 11,
+  "stars": 12,
   "createdAt": "2026-08-12",
-  "etag": "W/\"81373a812ddbc8e1f130aa3470a3b24261e4c65a5172184daf3f23ab931930c5\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bbdc51e7fe39493b22947fe3497c51bf2bdd7673db19c87f57d826508a80be42\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Yuuz12/dsh-webui-auth": {
   "stars": 8,
   "createdAt": "2026-08-14",
-  "etag": "W/\"58e2aea27a2008e16357f257eda3ee4c12f723f55250179967ceee85d210b20c\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"b26cd8949dda8fc26286a06f71ee38af385abee992ee2d0f52866a223a5fa22a\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/yyyyukari/dsh-plugin-workshop": {
   "stars": 24,
   "createdAt": "2026-08-14",
-  "etag": "W/\"c4a7ab6e66a5f9412e84c9438952bb24abc2e983df51aa66cf77bab8532b0ad6\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"5767d411df8ff4fdfa8c4ffc05e8ce3604a48d5d4bb03b7b0132ad43223e8284\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/zealot00/dsh-pet": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"7d01d3d40286062e9964a9c490f6e26e1c5b2119dce958f45eec43dce1ad3583\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7f5ab2ecec10e284b1f16cf92e5e0450eef492d27a2b00146268795c6efab084\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/zh667/TokenLedger": {
-  "stars": 198,
+  "stars": 202,
   "createdAt": "2026-08-14",
-  "etag": "W/\"225edc4cff92cc85868a209014cfc0c5996d94db4ee78f71765ac8718a8a4fe7\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"a7ce87143952de94cf41a66af83fade4d975b6f6f383fe3f7cbe7a470f763026\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Zhangbo-cn/dsh-voice-input-plugin": {
-  "stars": 6,
+  "stars": 5,
   "createdAt": "2026-08-15",
-  "etag": "W/\"34895205db4b68afba2a56b57a6afdddfefc85473fe8b54a1a141cf21a37fcbe\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"aad32751d82d35590a72f0dbeb5a7d61c0d0c3f905c5b1d290e794541132ad41\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/zhaoolee/notes": {
-  "stars": 163,
+  "stars": 166,
   "createdAt": "2026-03-15",
-  "etag": "W/\"b0b6be6f40f22d604e9545e0515f90185657998cf9f7cfb89fcd7777497a28ca\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"26d3b9a435527d7ae70c15df18591f12a2e06a38ba1d8a182927be24633d70f1\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/Zhenyu98/dsh-context-doctor": {
-  "stars": 29,
+  "stars": 31,
   "createdAt": "2026-08-12",
-  "etag": "W/\"81d06f2a1a415041b9f47988dd63f15281c33a4753fe5765c685fad14906d3ed\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"7eb192c99a69c89a26ba4bf405cfda34ba087bb40bc96a0e23aa61689e0e6a89\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/zhtx2024/dsh-skin-switcher": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"b65038ecc3282ae37461de272fbdc15a4fe778324fe8cd911181fea8f446dedd\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"375acdcfcf52d28edb2947cca1828764b4313e0bb62b679d6757a9705ff17b9c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/zhu1090093659/dsh-web-ui": {
-  "stars": 7527,
+  "stars": 7873,
   "createdAt": "2026-08-12",
-  "etag": "W/\"aa1c88f0ae57459f76b80cb5f1b5463380902c26506be9f2f0913c6cc7785765\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"2f96d97d9273f8547e367b9cec0062402a2dab215be8945414a80ae8cd6ee75c\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/zimai233/dsh-adhd-copilot": {
   "stars": 5,
   "createdAt": "2026-08-14",
-  "etag": "W/\"2466ac0521db2c25afd321cbab8a2277fc2be56a2c26e634f188494660f465ff\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"97a57ab3334ea80659708ad34b7c7f44e969f805484f402ed7e22fff9e8e29a0\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/zimai233/dsh-exam-countdown": {
-  "stars": 3,
-  "createdAt": "2026-08-14",
-  "etag": "W/\"997c3cb9cfea43cb97f05c0f50ab26c250ba889c9c60d76c6f6be7959b94d7ae\"",
-  "checkedAt": "2026-09-14"
- },
- "https://github.com/zimai233/dsh-figma-to-lottie": {
-  "stars": 4,
-  "createdAt": "2026-08-14",
-  "etag": "W/\"d3d1a421b48154e87b310a650013826178c90a4416632fbecd8bcd86abe344a5\"",
-  "checkedAt": "2026-09-14"
- },
- "https://github.com/zimai233/dsh-image-search": {
   "stars": 2,
   "createdAt": "2026-08-14",
-  "etag": "W/\"2e55862ed2b62d9d4d11ebdef6886a7873041572c67641b6b4f6f855ce29d9f0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"fc3d78e7e03556db3cbf30ac64b93068e1050385137cbec1779f5e599ed06660\"",
+  "checkedAt": "2026-09-21"
  },
- "https://github.com/zimai233/dsh-video-downloader": {
+ "https://github.com/zimai233/dsh-figma-to-lottie": {
   "stars": 3,
   "createdAt": "2026-08-14",
-  "etag": "W/\"f7c16163fa524feb6e4087298a9f6dbc0b621ed2f0012c3973b0232fd147dfca\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"12bd968684a09b2dfe9e043d17e61b6eb645f4e1a312b8d4f6ab24e44f901b4d\"",
+  "checkedAt": "2026-09-21"
  },
- "https://github.com/zimai233/dsh-wash-calendar": {
+ "https://github.com/zimai233/dsh-image-search": {
   "stars": 1,
   "createdAt": "2026-08-14",
-  "etag": "W/\"1d9b9a3f3c33475a72861618cd1fbff56b5cd95360f34bc93f7984240c09c39b\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"3698a6d0724818ebb560a688da15c9dbdc01a05cb1c66766ceb7352f3c728889\"",
+  "checkedAt": "2026-09-21"
+ },
+ "https://github.com/zimai233/dsh-video-downloader": {
+  "stars": 2,
+  "createdAt": "2026-08-14",
+  "etag": "W/\"7ab9ba8b48ded6062b54c854004e1595ee784b5efc5eb781915f63c37ace032a\"",
+  "checkedAt": "2026-09-21"
+ },
+ "https://github.com/zimai233/dsh-wash-calendar": {
+  "stars": 0,
+  "createdAt": "2026-08-14",
+  "etag": "W/\"93e9f13d5e274643e5c26012cba5fee36038105d84d17b390d397786fa6f9cdb\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ZK-Andy/dsh-continual-evolve": {
-  "stars": 19,
+  "stars": 18,
   "createdAt": "2026-08-13",
-  "etag": "W/\"8773e7d950b9e1c260d538578c65e37c7da592207d6b83d9637f995ffeb668e0\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"e82fc0658e52438c6e006d17f72c5113aaffb1007536d6b3fe909db032e2a9d6\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/zp-home/dsh-recommend": {
-  "stars": 21,
+  "stars": 20,
   "createdAt": "2026-08-13",
-  "etag": "W/\"90d1d55ea5b83aaf0a3b1b838385b68050489b679a0d78c4e9c0569c6754b32d\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bf8ac69bb8742bbdfc563910f9f32a81301d584c3c9c57dcb27adaba70ea8e82\"",
+  "checkedAt": "2026-09-21"
  },
  "https://github.com/ZSeven-W/dsh-openpencil": {
-  "stars": 170,
+  "stars": 174,
   "createdAt": "2026-08-12",
-  "etag": "W/\"0534a15820cc31d510b9556b85d30a227a6baace8dfa140da4057d067645dac4\"",
-  "checkedAt": "2026-09-14"
+  "etag": "W/\"bd72ef130f95cb75fd0edb5c87f1cbefff2fe757632fd68e5705d1a3cdeca875\"",
+  "checkedAt": "2026-09-21"
  }
 }
