@@ -3151,7 +3151,7 @@
     "en": "Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard."
    },
    "npm": null,
-   "stars": 35,
+   "stars": 37,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:maddogfinance/dsh-trading",
    "added": "2026-08-19"
