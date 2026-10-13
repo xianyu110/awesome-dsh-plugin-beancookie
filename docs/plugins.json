@@ -3151,7 +3151,7 @@
     "en": "Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard."
    },
    "npm": null,
-   "stars": 37,
+   "stars": 39,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:maddogfinance/dsh-trading",
    "added": "2026-08-19"
@@ -3496,7 +3496,7 @@
     "en": "In-conversation read-aloud with Doubao-quality voices: every AI reply gets a 🔊 tap-to-read / auto-read toggle (off by default, state persisted), with voices synthesized by the local Omi engine (Doubao seed-tts); BYOK — keys stay in your local Keychain, the plugin stores none."
    },
    "npm": "dsh-omi-voice",
-   "stars": 74,
+   "stars": 75,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-omi-voice",
    "added": "2026-08-18"
