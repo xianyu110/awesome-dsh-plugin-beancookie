@@ -3151,7 +3151,7 @@
     "en": "Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard."
    },
    "npm": null,
-   "stars": 40,
+   "stars": 41,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:maddogfinance/dsh-trading",
    "added": "2026-08-19"
@@ -4066,7 +4066,7 @@
     "en": "Skill lifecycle manager for DSH: list / edit / import / enable / disable skills under a global-workspace-session three-layer model, with unified settings & conversation UI, cross-layer search and pagination."
    },
    "npm": "@yanglaofish/dsh-skill-manager",
-   "stars": 3,
+   "stars": 4,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add @yanglaofish/dsh-skill-manager",
    "added": "2026-08-18"
@@ -4876,7 +4876,7 @@
     "en": "Feishu (Lark) UI for DeepSeek Harness: panel-driven control console, in-card approvals and questions, live streaming cards, one-QR setup."
    },
    "npm": null,
-   "stars": 36,
+   "stars": 33,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:PGZXB/dsh-feishu",
    "added": "2026-08-18"
