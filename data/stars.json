@@ -498,10 +498,10 @@
   "checkedAt": "2026-11-09"
  },
  "https://github.com/dream-num/dsh-univer-office": {
-  "stars": 665,
+  "stars": 706,
   "createdAt": "2026-08-15",
-  "etag": "W/\"96e1a3b6df4c26f9d38f9ef6c5fc632f371e20e53824b41be96901816952dcf1\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"bb0e539bbc693beeacc5d6367fd9e49ee8d95d2fb6ba543558b1fdeef1d56ed3\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/dsh-external/browser4-dsh": {
   "stars": null,
@@ -598,10 +598,10 @@
   "checkedAt": "2026-11-08"
  },
  "https://github.com/fakechris/dsh-harness-ops": {
-  "stars": 16,
+  "stars": 17,
   "createdAt": "2026-08-11",
-  "etag": "W/\"9f71e2d6917c82e3f147b1789bc8727ad5ff58c25a4698414b47b84189f17197\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"c3403b44f12f235ccfafc8f26d028563c3b19fa32743c463d268259f721660d2\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/fakechris/dsh-track": {
   "stars": 4,
@@ -1722,50 +1722,50 @@
  "https://github.com/PerryLink/dsh-auto-review": {
   "stars": 247,
   "createdAt": "2026-08-13",
-  "etag": "W/\"329458bc8c706d601a541ca31f82b2077d54f3278a5a081de2bf2f81540200de\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"ae814280ef8db55f4fd5619ce2b40f7192979b11b9a1b6311ee524fd776e9ea4\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-background-agents": {
   "stars": 18,
   "createdAt": "2026-08-14",
-  "etag": "W/\"1fda5e6b1193c9d3f9a990c905351f20b45eebca73650a9bc938b404b98aae1d\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"a029539eed5d66502cc696816086bee521461e9d5a00899257549bb53e2ecea4\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-budget": {
   "stars": 10,
   "createdAt": "2026-08-16",
-  "etag": "W/\"8141c383f934292d2ff2145acc195811e15a79b9e2ebf857cbdbea28583ebe65\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"a39ce22730044fcf0e4bbda78581f57d4d3f8c376d23da0e1ec3461ae5aa3be9\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-checkpoint-rewind": {
   "stars": 30,
   "createdAt": "2026-08-13",
-  "etag": "W/\"e73fbea8130e31726d3887cf4a07730ee60c8346364182434dc26eae13879f11\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"06e50262e76ab0fb956a2aa5a5d3c2b0ae205243800aad25a3686dac296b0428\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-claude-move": {
-  "stars": 30,
+  "stars": 32,
   "createdAt": "2026-08-13",
-  "etag": "W/\"43ee4fe2ece044d67d7b08acb176e6946658bb8ec60f59cc8ae56cb915581dca\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"9958a380e1040dd493f76c17c930f975ca967a19a12981776ea65167de619db0\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-click": {
-  "stars": 24,
+  "stars": 25,
   "createdAt": "2026-08-16",
-  "etag": "W/\"cfc7cb399d7769f88887614889b553e44aadb958a1d2e74487fe845202a10370\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"22808bb222568fb58fc5894512a614d428fa1519079e03ded2dd6369fd4897fc\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-composer-history": {
   "stars": 18,
   "createdAt": "2026-08-13",
-  "etag": "W/\"ab7edfc4dac3d7ef3204854f89b918ea9fff036a1f50aeebf4b7a9dc1a575c19\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"43c7ed1254eaecf3fcc8eaad356a78f0c10b5f5ed64273905c126447ed715bcb\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-defend": {
-  "stars": 26,
+  "stars": 27,
   "createdAt": "2026-08-16",
-  "etag": "W/\"6b9a1f924fbb6c9fe5f3a29aa8c9b20f850a612d5ef34896c94eb7e1bc0c35c2\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"481ae83ed725f4efe953ef11903515ea76db4c9cfbb2b2245f39d885d383af2d\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-doublecheck": {
   "stars": 58,
@@ -1774,46 +1774,46 @@
   "checkedAt": "2026-11-09"
  },
  "https://github.com/PerryLink/dsh-draw": {
-  "stars": 11,
+  "stars": 12,
   "createdAt": "2026-08-16",
-  "etag": "W/\"79f5bbf43202731966fde4a3c46555d0303c74fc988b8c57d71b77e121ef0fb1\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"c654423355a4c71b5a9a4f68a1458e6b5f4226d7d1a6683f9f66ff7fa87e3d5b\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-fast": {
   "stars": 11,
   "createdAt": "2026-08-17",
-  "etag": "W/\"e1f5f39e3e43a5d4ae0360fce86ba106c60555b4f04e976e43a029b9f24e8f5a\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"daa7662375eb3da5e4b70f69e199a1a58dc908684e432c544c419e3b316f9f92\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-github": {
-  "stars": 27,
+  "stars": 29,
   "createdAt": "2026-08-13",
-  "etag": "W/\"3a8b3653cdcd27050b497e076fe990a3887e9c700b028da0fe57c967a35dd3c0\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"c426e86691805cf9e917bd5806ce9a3c9705f354692c47fb9d35e4fd90aa69da\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-library": {
-  "stars": 24,
+  "stars": 26,
   "createdAt": "2026-08-16",
-  "etag": "W/\"dd4a02b892ab9fac002b47c51b187bf352806181764c9d902b36d13dcbdeb705\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"006af51494d2e7e2ea9ae8b44ceec22826b918a07889ff16e501d93b702b8a40\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-local-ai": {
-  "stars": 24,
+  "stars": 25,
   "createdAt": "2026-08-17",
-  "etag": "W/\"d0b786ee41f15ed25288a0e0b901dad5addc499d6f5a489a59d3d133b988af3e\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"18da9a6a504b1d367388a783153bf25ea79de5adffe60b675b5c311b6400aad3\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-lsp-actions": {
-  "stars": 37,
+  "stars": 39,
   "createdAt": "2026-08-13",
-  "etag": "W/\"36d3eec9e76dcabdcb27d77ce7e3424d96b9352e63f82e49f1f5aa9cc8a61e9e\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"3726c5dfbbd7d50c4e5593b8385072fcdcaaac06ca6ffc1ff84ccb05128de67b\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-mask": {
   "stars": 17,
   "createdAt": "2026-08-17",
-  "etag": "W/\"5827f5e2d8941320b2baee7c91f208715f98aace2e8444f177a618fddfd17615\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"575a7846efd4e22a3cff5c2225a4b6f3291231b8052aae7f5242d2ce7e538f3b\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-mcp-panel": {
   "stars": 93,
@@ -1830,68 +1830,68 @@
  "https://github.com/PerryLink/dsh-observe": {
   "stars": 14,
   "createdAt": "2026-08-16",
-  "etag": "W/\"bddd0b7882b5425cafd34a9a36fdc442d4910a5ecde2a39c4026e3706e738710\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"f7fd9bd4efe8d8a9f339bd3ea821343bd05fe84f33f9f113f5cdb8e0b6fcdcbe\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-output-styles": {
   "stars": 13,
   "createdAt": "2026-08-13",
-  "etag": "W/\"57d46569d6adfef8f112451e19d9dd6f0801943c4a3e197ce25e959715724b88\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"c42d62ff2477064a482d04780a7e8d0a8d9077e7f307b3595e4078afdf2c687e\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-permission-rules": {
-  "stars": 134,
+  "stars": 136,
   "createdAt": "2026-08-13",
-  "etag": "W/\"9a283345d20770c8348062b56cc521329b83e9093534770639645e957a8dbd12\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"3c14df4e65e962407f0b865e6d28b3fd42d1858e6f3b41ad1bd3240d85e08323\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-plugin-guide": {
-  "stars": 64,
+  "stars": 66,
   "createdAt": "2026-08-13",
-  "etag": "W/\"fe64e92dffadd2905d753112d42ac49754eb4baf53cfa9a53c48d0047599ee5e\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"ea88354b1f765943e093b5ac57e8e7a2a1b7e34c6bf98a61cbea369971e75438\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-score": {
   "stars": 13,
   "createdAt": "2026-08-17",
-  "etag": "W/\"fffc1aea7967190fceaec32d98e91ec88be7a5071c6cb433661c0e7a76df8d49\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"6de87a86a31d6da32c7c8c6ce56f3e3a24969d9460492b066fec04509b291f2d\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-session-pin": {
   "stars": 13,
   "createdAt": "2026-08-13",
-  "etag": "W/\"1a00ce234b1d3840d3fbcc573bf876fd587d80bc161dc1725a773cdbb646e691\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"d8eb8e7f098251de3612ad2a7be873aebdac1442dd9d14f5b29c4e7ed314bfbd\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-session-sync": {
-  "stars": 27,
+  "stars": 29,
   "createdAt": "2026-08-16",
-  "etag": "W/\"c94346bd372738739af7a3ca3ec08baef2b163a4c3c57443a2403859cdcbd321\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"335656370aa2df529fb1f520bee14266759355326cda81f23f1aecb96b11a7b6\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-skill-pack-security": {
   "stars": 22,
   "createdAt": "2026-08-13",
-  "etag": "W/\"99edbc825bf448e69d98b02b1d8e546f8fab054c961c6f7aa32357aa2dcc20fd\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"797db238177b302e4c2f18cec4d24afe91d3c18c40ad1147296d4c9e1a57d0a7\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-talk": {
-  "stars": 18,
+  "stars": 19,
   "createdAt": "2026-08-16",
-  "etag": "W/\"ab0613965119ca04862b335bf5d392f488fec9bb590ec548be14c8960ce268ab\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"8c02477ceb28c09a785a626157624f9a7778770fd3a79ab2e22d17c5d6ba9f91\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-test-drive": {
   "stars": 13,
   "createdAt": "2026-08-17",
-  "etag": "W/\"4a13bb45257e23b82f9237f3e64663273d3ec44153f8c427807ebbe20020fe39\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"520a655c9e03ba554f9bf0f2b72d6a939dd27d51b7f693b9b7f2904bdbc3a5df\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PerryLink/dsh-translate": {
-  "stars": 15,
-  "createdAt": "2026-08-16",
-  "etag": "W/\"c1f7a382d9856827d8509a16eb75beae998bfbcef51eadb980a2f060c5903182\"",
-  "checkedAt": "2026-11-04"
+  "stars": 0,
+  "createdAt": "2026-11-08",
+  "etag": "W/\"a0335f15f0b2140ab1a068e6bb1c2a169754cc1f0d8675e59fe40c99be96ac1e\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/PGZXB/dsh-feishu": {
   "stars": 37,
@@ -1978,10 +1978,10 @@
   "checkedAt": "2026-11-05"
  },
  "https://github.com/sandbaseai/sandbase-skills": {
-  "stars": 206,
+  "stars": 210,
   "createdAt": "2026-07-29",
-  "etag": "W/\"56d2e3ecbb00854f0eb97ce95e6fe9fe606ecd6c7cd132565f4ad8837f469fef\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"feac2983053be27496dffcfa5f4541cb5762ab5462df91dc78c740a25154f47e\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/Sanqi-normal/dsh-webui-market-plugin": {
   "stars": 103,
@@ -2076,8 +2076,8 @@
  "https://github.com/SunQingyuan0/Kabutack": {
   "stars": 3,
   "createdAt": "2026-08-17",
-  "etag": "W/\"0ee1c88f0e1c0bb0805bcd7df33e2610604c1bda95d5f662ef441b7b4d6a6d0e\"",
-  "checkedAt": "2026-11-04"
+  "etag": "W/\"e693716473fd909acb3f596d0d473b66db06a07c09ae9391c08b12055ef35457\"",
+  "checkedAt": "2026-11-11"
  },
  "https://github.com/sunshine-lang/dsh-pdf": {
   "stars": 7,
